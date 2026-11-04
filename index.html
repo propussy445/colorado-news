@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Colorado This Week</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;0,9..144,800;1,9..144,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f7f3ec;
+    --paper: #fffdf9;
+    --ink: #1f2326;
+    --muted: #6b6f72;
+    --line: #e6dfd3;
+    --accent: #b5442b;      /* red rock */
+    --pine: #2f5d50;
+    --chip: #eee7db;
+    --shadow: 0 1px 2px rgba(60,40,20,.06), 0 6px 20px rgba(60,40,20,.07);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #161819; --paper: #1f2224; --ink: #eeebe6; --muted: #a1a5a8;
+      --line: #2e3235; --accent: #e47d61; --pine: #7fb8a5; --chip: #2a2e31;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 6px 20px rgba(0,0,0,.25);
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 Inter, system-ui, sans-serif; }
+  a { color: inherit; text-decoration: none; }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 22px; }
+
+  /* ---------- masthead ---------- */
+  .masthead { padding: 34px 0 18px; border-bottom: 3px double var(--line); text-align: center; }
+  .kicker { font: 600 12px Inter, sans-serif; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); }
+  .masthead h1 { font: 800 clamp(2.4rem, 7vw, 4.4rem)/1 Fraunces, Georgia, serif; margin: 8px 0 10px; letter-spacing: -.01em; }
+  .masthead .dek { font: italic 500 1.1rem Fraunces, Georgia, serif; color: var(--muted); margin: 0; }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 18px 0 26px; }
+  .controls input {
+    flex: 1 1 220px; padding: 10px 16px; border-radius: 999px;
+    border: 1px solid var(--line); background: var(--paper); color: var(--ink); font: inherit;
+  }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip { border: 0; border-radius: 999px; padding: 6px 13px; font: 500 13px Inter, sans-serif;
+          background: var(--chip); color: var(--ink); cursor: pointer; }
+  .chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+
+  /* ---------- shared bits ---------- */
+  .photo { position: relative; overflow: hidden; background: var(--chip); }
+  .photo img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .5s ease; }
+  a:hover .photo img { transform: scale(1.03); }
+  .credit { position: absolute; right: 8px; bottom: 6px; font-size: 11px; color: #fff;
+            text-shadow: 0 1px 3px rgba(0,0,0,.7); opacity: .9; }
+  /* When a story has no photo: a hand-drawn-feeling mountain scene in the outlet's color */
+  .nophoto { width: 100%; height: 100%; display: grid; place-items: end start; padding: 14px;
+             background: linear-gradient(170deg, var(--tint, #c9a77c) 0%, color-mix(in srgb, var(--tint, #c9a77c) 55%, #000) 100%); color: #fff; }
+  .nophoto svg { position: absolute; inset: auto 0 0 0; width: 100%; height: 55%; opacity: .35; }
+  .nophoto span { position: relative; font: 600 13px Inter, sans-serif; letter-spacing: .04em; }
+  .meta { font-size: 13px; color: var(--muted); }
+  .meta b { color: var(--ink); font-weight: 600; }
+  .buzz { display: inline-flex; gap: 6px; align-items: center; font-size: 12.5px; font-weight: 600; color: var(--pine); }
+  .buzz::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+  h2, h3 { font-family: Fraunces, Georgia, serif; margin: 0; }
+  h2 a:hover, h3 a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  details { font-size: 13.5px; }
+  details summary { cursor: pointer; color: var(--muted); }
+  details ul { margin: 6px 0 0; padding-left: 18px; }
+  details li { margin: 4px 0; }
+  details a:hover { text-decoration: underline; }
+
+  /* ---------- top story ---------- */
+  .hero { display: grid; grid-template-columns: 1.5fr 1fr; gap: 28px; align-items: center; margin-bottom: 34px; }
+  .hero .photo { aspect-ratio: 4/3; border-radius: 6px; box-shadow: var(--shadow); }
+  .hero h2 { font-weight: 700; font-size: clamp(1.7rem, 3.4vw, 2.6rem); line-height: 1.1; margin: 10px 0 12px; }
+  .hero p { font-size: 17px; margin: 0 0 14px; }
+  .hero .stack { display: flex; flex-direction: column; gap: 10px; }
+
+  /* ---------- feature cards ---------- */
+  .section-label { display: flex; align-items: center; gap: 12px; margin: 10px 0 18px;
+                   font: 600 12px Inter, sans-serif; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+  .section-label::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+  .features { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-bottom: 38px; }
+  .feature { display: flex; flex-direction: column; gap: 10px; }
+  .feature .photo { aspect-ratio: 3/2; border-radius: 6px; box-shadow: var(--shadow); }
+  .feature h3 { font-weight: 700; font-size: 1.25rem; line-height: 1.2; }
+  .feature p { margin: 0; color: var(--muted); font-size: 14.5px; }
+
+  /* ---------- the rest: newspaper list ---------- */
+  .list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0 34px; }
+  .row { display: grid; grid-template-columns: 1fr 120px; gap: 16px; padding: 18px 0; border-top: 1px solid var(--line); }
+  .row .photo { aspect-ratio: 1; border-radius: 6px; }
+  .row .credit { display: none; }
+  .row h3 { font-weight: 500; font-size: 1.08rem; line-height: 1.3; margin-bottom: 6px; }
+  .row .num { font: 700 1.1rem Fraunces, Georgia, serif; color: var(--accent); margin-right: 6px; }
+
+  .empty { text-align: center; color: var(--muted); padding: 60px 20px; }
+  footer { text-align: center; color: var(--muted); font-size: 13px; padding: 40px 20px 50px; }
+
+  @media (max-width: 860px) {
+    .hero { grid-template-columns: 1fr; gap: 16px; }
+    .features { grid-template-columns: 1fr 1fr; }
+    .list { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 560px) {
+    .features { grid-template-columns: 1fr; }
+    .row { grid-template-columns: 1fr 92px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <div class="kicker" id="range">This week</div>
+    <h1>Colorado This Week</h1>
+    <p class="dek" id="dek">What people across the state have been reading and talking about.</p>
+  </header>
+
+  <div class="controls">
+    <input id="search" type="search" placeholder="Search this week's stories…" aria-label="Search stories">
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <main id="content"></main>
+  <div class="empty" id="empty" hidden></div>
+</div>
+<footer id="footer"></footer>
+
+<script>
+let stories = [];
+let activeSource = "All";
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function when(iso) {
+  const d = new Date(iso), hrs = (Date.now() - d) / 36e5;
+  if (hrs < 1) return "Just now";
+  if (hrs < 12) return Math.round(hrs) + " hours ago";
+  if (hrs < 36 && d.getDate() === new Date(Date.now() - 864e5).getDate()) return "Yesterday";
+  if (hrs < 24) return "Today";
+  return d.toLocaleDateString([], { weekday: "long" });   // "Tuesday"
+}
+
+// A steady color per outlet for photo-less placeholders
+function tint(name) {
+  const palette = ["#b5442b", "#2f5d50", "#c98b3a", "#4e6a8c", "#7a5a8a", "#8a6b4e"];
+  let h = 0; for (const c of name) h = (h * 31 + c.charCodeAt(0)) >>> 0;
+  return palette[h % palette.length];
+}
+
+const MOUNTAINS = `<svg viewBox="0 0 200 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 60 L0 40 L30 22 L50 34 L80 6 L105 30 L125 18 L150 38 L175 14 L200 30 L200 60Z" fill="#fff"/></svg>`;
+
+function photo(s) {
+  if (s.image) {
+    const credit = s.image_source || s.source;
+    return `<div class="photo">
+      <img src="${esc(s.image)}" alt="" loading="lazy" referrerpolicy="no-referrer"
+           onerror="this.parentNode.outerHTML = placeholder('${esc(s.source).replace(/'/g, "")}')">
+      <span class="credit">Photo: ${esc(credit)}</span></div>`;
+  }
+  return placeholder(s.source);
+}
+function placeholder(source) {
+  return `<div class="photo"><div class="nophoto" style="--tint:${tint(source)}">${MOUNTAINS}<span>${esc(source)}</span></div></div>`;
+}
+
+function buzz(s) {
+  return s.outlets.length > 1 ? `<span class="buzz">${s.outlets.length} outlets covering this</span>` : "";
+}
+function more(s) {
+  if (!s.coverage.length) return "";
+  return `<details><summary>Read it elsewhere</summary><ul>${
+    s.coverage.map(c => `<li><a href="${esc(c.link)}" target="_blank" rel="noopener">${esc(c.title)}</a> · ${esc(c.source)}</li>`).join("")
+  }</ul></details>`;
+}
+const link = (s, inner) => `<a href="${esc(s.link)}" target="_blank" rel="noopener">${inner}</a>`;
+
+function hero(s) {
+  return `<article class="hero">
+    ${link(s, photo(s))}
+    <div class="stack">
+      <div class="kicker">The big story</div>
+      <h2>${link(s, esc(s.title))}</h2>
+      ${s.summary ? `<p>${esc(s.summary)}</p>` : ""}
+      <div class="meta"><b>${esc(s.source)}</b> · ${when(s.published)}</div>
+      ${buzz(s)} ${more(s)}
+    </div></article>`;
+}
+function feature(s) {
+  return `<article class="feature">
+    ${link(s, photo(s))}
+    <h3>${link(s, esc(s.title))}</h3>
+    ${s.summary ? `<p>${esc(s.summary)}</p>` : ""}
+    <div class="meta"><b>${esc(s.source)}</b> · ${when(s.published)}</div>
+    ${buzz(s)}</article>`;
+}
+function row(s, n) {
+  return `<article class="row"><div>
+      <h3><span class="num">${n}</span>${link(s, esc(s.title))}</h3>
+      <div class="meta"><b>${esc(s.source)}</b> · ${when(s.published)}</div>
+      ${buzz(s)}
+    </div>${link(s, photo(s))}</article>`;
+}
+
+function render() {
+  const q = document.getElementById("search").value.trim().toLowerCase();
+  const shown = stories.filter(s =>
+    (activeSource === "All" || s.outlets.includes(activeSource)) &&
+    (!q || (s.title + " " + s.summary).toLowerCase().includes(q)));
+  const el = document.getElementById("content");
+  let html = "";
+  if (shown.length) {
+    html += hero(shown[0]);
+    const feats = shown.slice(1, 4), rest = shown.slice(4);
+    if (feats.length) html += `<div class="section-label">Also making news</div><div class="features">${feats.map(feature).join("")}</div>`;
+    if (rest.length) html += `<div class="section-label">More from around the state</div><div class="list">${rest.map((s, i) => row(s, i + 5)).join("")}</div>`;
+  }
+  el.innerHTML = html;
+  const empty = document.getElementById("empty");
+  empty.hidden = shown.length > 0;
+  empty.textContent = "Nothing matches that. Try another word?";
+}
+
+function buildChips() {
+  const counts = {};
+  stories.forEach(s => s.outlets.forEach(o => counts[o] = (counts[o] || 0) + 1));
+  const names = ["All", ...Object.keys(counts).sort((a, b) => counts[b] - counts[a]).slice(0, 8)];
+  const box = document.getElementById("chips");
+  box.innerHTML = names.map(n => `<button class="chip" aria-pressed="${n === activeSource}">${esc(n)}</button>`).join("");
+  box.querySelectorAll(".chip").forEach((b, i) => b.onclick = () => { activeSource = names[i]; buildChips(); render(); });
+}
+
+fetch("news.json", { cache: "no-store" })
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => {
+    stories = data.stories || [];
+    const end = new Date(data.updated), start = new Date(end - (data.days || 7) * 864e5);
+    const fmt = d => d.toLocaleDateString([], { month: "short", day: "numeric" });
+    document.getElementById("range").textContent = `${fmt(start)} – ${fmt(end)}, ${end.getFullYear()}`;
+    document.getElementById("footer").textContent =
+      `Updated ${end.toLocaleString([], { weekday: "long", hour: "numeric", minute: "2-digit" })}. ` +
+      `Stories are ranked by how many newsrooms covered them. Every headline and photo links back to the outlet that reported it.`;
+    buildChips(); render();
+  })
+  .catch(() => {
+    const empty = document.getElementById("empty");
+    empty.hidden = false;
+    empty.innerHTML = "No news yet. Run the <b>Update Colorado news</b> action on GitHub to fetch this week's stories.";
+  });
+
+document.getElementById("search").addEventListener("input", render);
+</script>
+</body>
+</html>
