@@ -1,0 +1,756 @@
+{
+  "updated": "2026-11-05T00:15:45.904402+00:00",
+  "days": 7,
+  "sources_ok": [
+    "The Colorado Sun (10)",
+    "Colorado Newsline (100)",
+    "Denverite (10)",
+    "FOX31 Denver (20)",
+    "KRDO (50)",
+    "Sentinel Colorado (10)",
+    "Google News (100)"
+  ],
+  "stories": [
+    {
+      "title": "Colorado election 2026: Live updates",
+      "link": "https://coloradonewsline.com/2026/11/03/colorado-election-2026-live-updates/",
+      "source": "Colorado Newsline",
+      "published": "2026-11-03T23:26:04+00:00",
+      "summary": "Welcome to Newsline’s Election Day coverage. We will have live results after polls close at 7 p.m. Coloradans can register to vote and vote until polls close. Here’s how to vote. Our voter guide offers election tools, descriptions of…",
+      "image": "https://coloradonewsline.com/wp-content/uploads/2023/11/ELECTION-2023-2931-1024x683.jpg",
+      "image_source": "Colorado Newsline",
+      "outlets": [
+        "AP News",
+        "Brownstein Hyatt Farber Schreck",
+        "CBS News",
+        "Colorado Newsline",
+        "Colorado Public Radio",
+        "FOX31 Denver",
+        "KOAA News 5",
+        "PBS",
+        "Rocky Mountain PBS",
+        "The Denver Post"
+      ],
+      "coverage": [
+        {
+          "source": "Brownstein Hyatt Farber Schreck",
+          "title": "Colorado 2026 Midterm Election Results and Analysis",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1RHUUpIN1U1QzJMUTFzOTI1YlRlUXFLRU9naDFWY1Rqb1JVWFZBT3NHRmVxZDBKZlpTUExqcGZrYzFfbWJsblVGYWxicUFTekZMc2tGZnZSTE9mV0RkWXU1WHZ3dUN4QWNsSkVRa05sN0hTcWktaG9Fd3gwR3JwdGtWQzhtOE0y?oc=5"
+        },
+        {
+          "source": "KOAA News 5",
+          "title": "LIVE RESULTS: Colorado's 2026 Midterm Election",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0YxTGJsNWFmNGFCUjJlSGhvdThIUm9YQTh3aTMtdXlPR0tTUjUwTk54RURYWU51a0NwRUtyV0NRUGZjVmkzOEE3UmtZQm9uRVdhWE9lWHBWRWpCODZHSEdkQUp2YlBsOXRGU3FTRHZYZm5DRndlRWtWRVV5SE9Oc0xySkhFejFX?oc=5"
+        },
+        {
+          "source": "Colorado Public Radio",
+          "title": "Southern Colorado 2026 midterm election results",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHJETWpEbGI1RUVLRHNJTDdpZXd0d2tucVN5TndMa1lsS1AyN1h4SjdXcHJ5eVhjaVNfQm1NMjVhWHlNSm9WdHdiZFVtT3lWY3dQaXh6MW10UVlkbzRKdUc1ZzAwcTEwVWRNVFJ4VjdNenZocnBtYzFHSUp1b3dRejRNcW96UQ?oc=5"
+        },
+        {
+          "source": "CBS News",
+          "title": "Colorado midterm election results show live vote count for key 2026 races",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVG5ZNklad0hUeVNCMUZRdzBlajZmRVdSWXJ6bXp0Y1ZZbGt4MU1rX1NHbzd0dGZRZDNLay1uZkw3NzRsaWZNT0lHOVVOc005NXpKTXh1eGFJd21tUjcyN24wSC1VcVlyTms3d3lLZ1pZN0twTGZlcUQxVndGMFQzZ0E1MU9vNDhVNGprN1RsZ3ZrUU5KOUNoM2xuY2FHM1BUa0tQNA?oc=5"
+        },
+        {
+          "source": "Rocky Mountain PBS",
+          "title": "Colorado Votes 2026: Full midterm results",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT0l5WERnUkpwTGJHMzEtU3hobmVnbGVHcFI4ZHl3VTRGQllxMFVHT2xuZDJSR012VzlDSnp6SExIYWI3WjRqeHJBVUJJU0wtY1Q0OWhadlZRRnREN0VwZ0J3blVOcTd3eFp4bUtsV05VVVBjR0VMeEFtTmw1clRWSTY5cw?oc=5"
+        }
+      ],
+      "score": 31.97
+    },
+    {
+      "title": "Colorado voters reject amendment making hunting and fishing a constitutional right",
+      "link": "https://coloradosun.com/2026/11/04/colorado-voters-reject-amendment-making-hunting-fishing-constitutional-right/",
+      "source": "The Colorado Sun",
+      "published": "2026-11-04T20:36:24+00:00",
+      "summary": "Amendment 83, brought by a conservative law firm and backed by hunting groups, could have affected how the legislature or Colorado Parks and Wildlife Commission make policies about hunting and fishing",
+      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/Ballot-15.jpg?fit=1024%2C683&ssl=1",
+      "image_source": "The Colorado Sun",
+      "outlets": [
+        "CBS News",
+        "Colorado Public Radio",
+        "Denver Gazette",
+        "The Colorado Sun"
+      ],
+      "coverage": [
+        {
+          "source": "CBS News",
+          "title": "Colorado voters reject Amendment 83, constitutional right to hunt and fish",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFNudERzRzFFZEdLR2o1N2U2cjl1VFdLd1NoaTkzMmVhenZCaFQzZWswS2k2b29teHJzNDRqbGlnREFhekt0enJHamtMdmZVNklRLXFZczB2RGkwRDJsZndza2FQQUhhVHdfMHJraDR0V2dIMFpFU0M1d3BjZjBYRWdiYzhGeDJLTjJrVVhubF84bnZFREtVMlNTYkw0UQ?oc=5"
+        },
+        {
+          "source": "The Colorado Sun",
+          "title": "Colorado voters reject amendment making hunting and fishing a constitutional right",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnZxNmZwYkpHLVF1dEd0emtaZlVYMV9XZWkyODVxc2JjZ0phYlFTVkxsRldjU0g1S0F6dnlybE9UNlotY0RuRFZnTDZheHpsU2ZmYzRidno1UU9lN21MUkdjeXJ3YldMMVFIRGxjWEppb0JZY0xTTURpZ1FXak5QbDhHZFZudmhSWkI3OHBEWWY3cEU2eXRNWGRoa2RsSTlVM1FVTkFJVy10dUN1MDYyeXNR?oc=5"
+        },
+        {
+          "source": "Colorado Public Radio",
+          "title": "Amendment 83’s constitutional right to hunt and fish in Colorado trails in election returns",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3lkZXh2cG9HcWlRSURwaXJtU204RXhIMFYyUG90eE9RV2l5azJ6eFZLU1pPWTZCb1AtT0JwRUVBbDNwOHJQc1JxRUlaek52QVI5SXBqR3VfNG9idGJQM21pdDBDd0pDajIxTi1ndklBajNaRXhZYXVBUnZyRGUtN1ZHeXlfOC01cmJoSlNWalB6QjVqVGJqcA?oc=5"
+        },
+        {
+          "source": "Denver Gazette",
+          "title": "Colorado voters reject right to hunt and fish",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOclhtQVdEd3NycENYTURVbTFXa2RrblNiSW5fb2cySmJMTlMyd3hYaldHdFl1MkgtN3hMVk5SUF81UUZuX3JrNGpvNG1WZ09qUFlsdjlSNU9rVE41YzhaOHpGT3B3WEFDak5XMWhvVUw0dGk1TVQwRTNyNjRnSnZhNzA0VzFNLXpEQ0RN?oc=5"
+        }
+      ],
+      "score": 13.98
+    },
+    {
+      "title": "Colorado Springs police responding to shooting involving officer on city's east side",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemdiMmZFbjB1REFCdWx0ZFl0UTQyaTZkMDVTVHExMEZJUmhQZ0NuRENxdmREVE12SUtua3gxZ3R5YlhVZUhNWExwZHdPNWgwWmNMZkZIcFJ2VVpiTVVoc1Rlem1uSUJ2X0pYM3pPcnA4NlBXR1VCc3RzZGtZaUdOWU1WRDJQZmUyUnMxaHpYTVR6YnpHaEQzNi1JaF9Gb0p2X1VQV0xkZDNPVFhjNjdsLUN4OWdTdkdmWjNGZw?oc=5",
+      "source": "KOAA News 5",
+      "published": "2026-11-04T22:12:15+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Colorado Springs Gazette",
+        "KKTV",
+        "KOAA News 5"
+      ],
+      "coverage": [
+        {
+          "source": "KKTV",
+          "title": "Police in Colorado Springs responding to officer-involved shooting",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjVRRy12M0xoeEE2cTVpWF94am9QQVdybHVMOTRWRjNoWnNEN252NDVpeV9xbEU4QXp0RS1nNjk5Y1VqSzRWaHFfejJGZG9kVW1qQWVMdVNFWTN3cVRLRGZ1MlFQN2lMdUZkZTlURkxCcXdUOTNUYnhUckxEMFZHSUU4VUZiRmtoek1pZWV1VWF3aEhsRFRjS9IBrAFBVV95cUxNZ0lESV9aVUstTndfZl9qRWcySzhMeFVDaHd3bEV5N2MwVlgzVDE4NEE0NlZHeGlPSDdzdTB1aDlFb21WVVBIU3ctTHlpWXpGRDZDMkZKZTdtcDRNU0U3c3RqRXRubHZ4R2FlU013Ylo1ZTUwdUVhV0hUd0lkbjdwdk11dmFzX3FzQzRCOWgyd2VqWlY1Sjg3QjBvZUl6LV9WVVFiNjdRY2tKQUpv?oc=5"
+        },
+        {
+          "source": "Colorado Springs Gazette",
+          "title": "Colorado Springs officers involved in shooting",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQendnSHA4QUwxN3dyN05WRTM1QU9RVnJpUnhxc3BPaHNqOHRuUlRybjNuSW9ZTUdsRTdaVnJJVmhiVFJsN3ZWNlNQVmFFODFXUUhrOTFpVlVOSW5acGZ3MDg0SWZGREszellEdmk4bkVTbGlWZWZCZWlqOUl5WlVwX1VXdXM?oc=5"
+        }
+      ],
+      "score": 10.97
+    },
+    {
+      "title": "Colorado voters reject measures requiring mail-ballot IDs, ICE assistance and others",
+      "link": "https://sentinelcolorado.com/metro/colorado-voters-reject-measures-requiring-mail-ballot-ids-ice-assistance-and-others/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-04T22:32:28+00:00",
+      "summary": "Conservative and progressive groups split results through various individual citizen-led initiatives and referendums.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2019/05/as.PrimaryVoting8.6.30.16.jpg.jpg?fit=864%2C576&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Colorado Newsline",
+        "Sentinel Colorado"
+      ],
+      "coverage": [
+        {
+          "source": "Colorado Newsline",
+          "title": "Colorado voters reject measures requiring mail-ballot ID numbers, ICE cooperation",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LSE9GaGZUc0RvWnhKQUhUcGsxWkUwWFpoSXRrXy1KU2d4M19NZ0N5cnp0T0FmSlRnQnFyRVdoZWFCNEhVTHUxQ3pRbk1za0hpN053UFVrQmRPUklSSlBlM3dQdDRkQnI5RDJsUFRSa2NKR1B0YzJPZU0xR1c?oc=5"
+        },
+        {
+          "source": "Colorado Newsline",
+          "title": "Colorado voters reject measures requiring mail-ballot ID numbers, ICE cooperation",
+          "link": "https://coloradonewsline.com/2026/11/04/colorado-voters-ballot-measures/"
+        }
+      ],
+      "score": 7.98
+    },
+    {
+      "title": "Colorado voters reject effort to place right to natural gas in state constitution",
+      "link": "https://coloradosun.com/2026/11/04/colorado-rejection-amendment-82-natural-gas/",
+      "source": "The Colorado Sun",
+      "published": "2026-11-04T20:32:19+00:00",
+      "summary": "Amendment 82 was pushed by oil and gas and conservative interests. Environmental groups called it a step backward.",
+      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/02/AP23286589244739-scaled.jpg?fit=1024%2C683&ssl=1",
+      "image_source": "The Colorado Sun",
+      "outlets": [
+        "Colorado Public Radio",
+        "The Colorado Sun"
+      ],
+      "coverage": [
+        {
+          "source": "Colorado Public Radio",
+          "title": "Voters reject Amendment 82, a right to natural gas",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFJacE5VUkEzWlNoMFdGT3JROFFLYkQ4MmFLSTZrcXk5REZjM1diS2RKTUN4TWNaa3JJWmJZU2tuTXhJRzBLa0dLeHVDMnhrMFVBWmw5elJRZ2lJYXlGdlZEUGl3dDYyZW92d1hFN05TSWVyTU5EZmxfczBPMzFSdGt2VllMaXBsU1E?oc=5"
+        },
+        {
+          "source": "The Colorado Sun",
+          "title": "Amendment 82, which would add “right to natural gas” to Colorado Constitution, appears unlikely to pass",
+          "link": "https://coloradosun.com/2026/11/04/amendment-82-results-right-to-natural-gas/"
+        },
+        {
+          "source": "The Colorado Sun",
+          "title": "Amendment 82, which would add \"right to natural gas\" to Colorado Constitution, appears unlikely to pass",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZkpqZmhDZWRrRjFINDlKa0c1MXpvV0hxY2tmNWQ0SXI3UWVWYUxKSTktZW8zU19kenpTckxOdXJCVUYxdm1qWHczWHQ0WkpfTDFEeEIwRlFxNXdyamN2dTUzZ2V4bVhHc2QyZDJDLUZXdlI3WFY0emg0NWZ2bjFWRzAtSQ?oc=5"
+        }
+      ],
+      "score": 7.95
+    },
+    {
+      "title": "Lauren Boebert’s reelection bid in Colorado’s 4th Congressional District is too close to call",
+      "link": "https://coloradosun.com/2026/11/04/4th-congressional-district-results-lauren-boebert-eileen-laubacher/",
+      "source": "The Colorado Sun",
+      "published": "2026-11-04T07:13:40+00:00",
+      "summary": "Boebert is trying to hold onto her seat in the Republican-leaning district that includes the Eastern Plains, Douglas County and Loveland",
+      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/11/20261103_LB_BoebertPartySelects_627-1-scaled.jpg?fit=1024%2C683&ssl=1",
+      "image_source": "The Colorado Sun",
+      "outlets": [
+        "The Colorado Sun",
+        "The Denver Post"
+      ],
+      "coverage": [
+        {
+          "source": "The Denver Post",
+          "title": "Rep. Lauren Boebert trails Democratic challenger in Colorado’s 4th Congressional District",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObzJvSzVQUGhQZnZvQl8taGwxck9WLVBfcGpmY3I3QXBHeUZWVDVHRGdKOFdpYTAxU2RXdFNfQmlaZ29aVDRGZDM4UzJLWnZmdWVQN3hZWUVTTzZ6UndqaWdrYV9WeUkxUDR4OWlqU2FmQXJVOEJIbjh0alpZUVIyUFBOdG1lREc1Sm9DZDZuT19CQXVtOHc?oc=5"
+        },
+        {
+          "source": "The Colorado Sun",
+          "title": "Lauren Boebert’s reelection bid in Colorado’s 4th Congressional District is too close to call",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlZseXh0WVBGbVcxZlhYeXpkMVZ6aWVhVmo4cW9RWHV2RmpwZTNqd21DUDdiOGNmeS1DcjE0SllsTDUwY3QzY3JnRERZeWNDOXBLeDJDVWoxLWdCZndZSXgwcEc1T0dJWGlleF8wcWdXZmtldFE0c2Rqa0RiTlgtMFpEeUpuZVNneVBkem9Nd1NPdFRZdTJQU0ZYM2J0OEx4WXFVag?oc=5"
+        }
+      ],
+      "score": 7.93
+    },
+    {
+      "title": "Dwayne Romero, Rep. Jeff Hurd in close race in Colorado’s 3rd District",
+      "link": "https://coloradonewsline.com/2026/11/03/dwayne-romero-jeff-hurd-colorado/",
+      "source": "Colorado Newsline",
+      "published": "2026-11-04T04:36:18+00:00",
+      "summary": "Republican U.S. Rep. Jeff Hurd of Grand Junction and his Democratic challenger, Dwayne Romero, were in a close race after polling Tuesday. Romero held a narrow lead until Hurd pulled slightly ahead as county clerks across Colorado’s…",
+      "image": "https://coloradonewsline.com/wp-content/uploads/2026/11/hurd-romero-collage-1024x683.jpg",
+      "image_source": "Colorado Newsline",
+      "outlets": [
+        "Colorado Newsline",
+        "The Denver Post"
+      ],
+      "coverage": [
+        {
+          "source": "The Denver Post",
+          "title": "Republican Rep. Jeff Hurd takes narrow lead in close race with Democrat Dwayne Romero",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU05jUGd4dnRUdEVMREdoZWNlRFZFd0MzLWhJenRZdlR3SUdReVFiUnJlTTRON1U4c1F0UkJVcGxxcmJETmVLMFdXMzlib3l5bGtrVEJZRmhRb084SGUtZHh0NUE4NTlKc0ZWeXNnOUdaZ3BHUGxWUkJfTWt3UTlxdHE3bDBqbXVmRlpZV2VYN0pXdw?oc=5"
+        },
+        {
+          "source": "Colorado Newsline",
+          "title": "Dwayne Romero, Rep. Jeff Hurd in close race in Colorado’s 3rd District",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YRUpfQ3BoOFM5MU1rcDdiSVFqdmJJWjBENUhWdDBLYW9fMXhWRVVaVk5NOFFaRXM1eFMyYzZTaV9vRzZPc01tTWptcW9kV1hJZzd4NDRMQXI2UnJ2ckJjVHJTLXdUQTRQR2VpZVJpdGo5NFdnLU1uMVFwSm1VUQ?oc=5"
+        }
+      ],
+      "score": 7.93
+    },
+    {
+      "title": "Colorado’s tiered income tax initiative still too close to call",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamRLbnpPdFhMbURJcjRCX2pxLTFpUUw0MGF2V1F3TW1kSV9nbmZfWDdkeGpjUFI2RlY0YVBSS0lxUnlBX0FrYkptN3dMbE9hMGlNMG5GS2ZfT3RuY1RlSzNGckNoZk5ScTZIMlBHTXlUdjI3OW1nRDJxUkw3d01BOFpKTkhac2tqVDJvdFAzSHRpWTdrQnJ1SnBiN2dSR1ZHamo3VC13WQ?oc=5",
+      "source": "Denver Gazette",
+      "published": "2026-11-04T17:06:27+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Denver Gazette",
+        "The Colorado Sun"
+      ],
+      "coverage": [
+        {
+          "source": "The Colorado Sun",
+          "title": "Proposition 136, which would cap Colorado’s income tax rate at 4.4%, is too close to call",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2JoZEVnU25DVG4zSWJEN0VjajNUeU9qaG9HNUc4Zkt5dXN0RnZGZ1lCbm5DQVJPRU5VWFVMOWRnWHdBV1d6c2F5bmZaS2hGWVI3M2tMb2Myb2dORFItaVFObkptOVU1YWdWR0xodTdZY2NNRFppeHRxTHYtTWFWSVBDbEhhaWxDLVVuY1c4cC1qMUU?oc=5"
+        },
+        {
+          "source": "The Colorado Sun",
+          "title": "Colorado voters split over Amendment 87 tax hikes on rich, with race still too close to call",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSG9EeU1WaGZtMkxvYWdhN1BsOENVSW9zZlcydHdOeDFlR3puLTVuQU43ZEdDSDBQVFR6WVBEZlVYT2VlMUZ3RzJtSTZJbVRKZGxRSEtsam9vRHFUMGFsaXdCWlp6WHAtbXFxTFJORFpZYUJNMTAtVDVhRnpTbDNfUEUxRQ?oc=5"
+        }
+      ],
+      "score": 7.91
+    },
+    {
+      "title": "5 takeaways from Colorado's blue tsunami election",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkQtRkVuRGZBNXdfOE1ieGtZVS16MXEzdG1jYXJXRENScVYzU2hxVFNYWmFIRWxZcEMxTnVOa2o3V2ZvWm1pb004UWZpejFlU0dKMWZHMmw1dk5NVFNUaVd2QTFqS2x2cWNCbGJ5SVRYMkJwcnpfWWNIckNsQy1VVG9SY2JBakp1TWZyWEtMdlN3Slh6S3F6bW0ydHlIbWRG?oc=5",
+      "source": "Axios",
+      "published": "2026-11-04T07:27:20+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Axios",
+        "Denver Gazette"
+      ],
+      "coverage": [
+        {
+          "source": "Denver Gazette",
+          "title": "4 takeaways from Colorado’s 2026 election",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFVTYk5wYmZEcEZ0aGV3NlZjcXJwWkprTGpSNzNxSTk2QVU2QzA4TG9fQ0lUdnBYMWNwRU1sZEhfY0RjUnFTVWhDVC1NWk13V3FubUctNHhILVZqdmNQX2xLTmZBQ0JQYUQtam83bE9zZWJDQWpxZ3NwT0hvcWx0R1pCSGxyemNrYVE?oc=5"
+        }
+      ],
+      "score": 7.79
+    },
+    {
+      "title": "Jessica Killin leads Rep. Jeff Crank in effort to flip Colorado’s 5th Congressional District seat",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON29BcDVMU29CbnJwOVktVFdmakpBcUdoRm5McWIteXRxa1JUcmRpU0g3SmNjY3puZjRHTjNTM3ktaGo2R1hGRU9WTGZrSGVGcHNqdTB6Vi1jSzVBQVhwLWpUSEFBblF3Z1hRSW8tTTF0bzdjUjY4VDBiSFVTUXRpVDZJeVdmcnROdFhIb25MbTVqbjlCQXZYSW5Mbw?oc=5",
+      "source": "Colorado Public Radio",
+      "published": "2026-11-04T06:25:31+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Colorado Public Radio",
+        "Colorado Springs Gazette"
+      ],
+      "coverage": [
+        {
+          "source": "Colorado Springs Gazette",
+          "title": "Jessica Killin narrowly leads Jeff Crank in Colorado’s 5th CD",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDNrZHFUTDFkMEpkTHdiRndUVUl3RGpEeXdYZkJPRHlqWUIwU2VZelNjcm9iYS04R3pmdHhLa2hfVWNJUmQtRm1vXzRyR3IxdGlUWG45STJDSEtyZ1c3d0d2cF8wWk5adjVMOTBrNktVNkRoS2lzbTF6WUlaNUd1alVLUlEyeWhuckpfTG1XV1RLOWM0NDFN?oc=5"
+        }
+      ],
+      "score": 7.78
+    },
+    {
+      "title": "Colorado’s 8th Congressional District seat flips, Democrat Manny Rutinel wins",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVp1S2VsMjBwR19IVEhtRWhib1dhNWVUbFBZcTZwQWltc1pOWk0zc3FTZlNxS3hncXNidWNUczJaOWtDU29abFg3Zl9rd1lOaV9Ud0dXY0xnNk5hN3NJTlkxZ09EQXZEU04wYV8ydlpTdUJWX2tjaFZaSjdBWFdfeFRVMXNjQTJMN0c1R3hpYUhZclJUcHllOEJPOFY?oc=5",
+      "source": "Colorado Public Radio",
+      "published": "2026-11-04T05:54:11+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "9News",
+        "Colorado Public Radio"
+      ],
+      "coverage": [
+        {
+          "source": "9News",
+          "title": "Election results: Democrat Manny Rutinel elected representative for Colorado's 8th Congressional District",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDR4dXdtalFmR3NLMWF6T1ltREdYbHpfNmh5TkF3SGtZejlwbmpWZ0lLU3FpSVZuaHNncW1xMnNFaXl2MWRTZVg2ejJlclNoODFMQ2J5YnhUd1BjemlvWGFUeUVVMkt0NU1XS0hWVmJOVGJOODA3dkUyeUdwQ29ESzQzUTMxSUF5SHlJU2lIYXJNY0FuVVhVdE5NV0YtZEJqRjZPYjFVQjB3RHB3YlhRRDFqV2lmTFlMREU3cU5lVkM?oc=5"
+        }
+      ],
+      "score": 7.77
+    },
+    {
+      "title": "Melania Trump to bring Russian and Ukrainian representatives to White House this week",
+      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/04/melania-trump-to-bring-russian-and-ukrainian-representatives-to-white-house-this-week/",
+      "source": "KRDO",
+      "published": "2026-11-04T23:45:46+00:00",
+      "summary": "By Kit Maher, CNN (CNN) — First lady Melania Trump will bring representatives from Russia and Ukraine to the White House on Thursday, after announcing a ceasefire in the city of Oleshky last month. “First lady Melania Trump will personally…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXcwc2xmOTYwMDAwM2I2dDV4d3BuZDhr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzByc2MyYzAwMHkyOXFlOGU4MGc4bDA-scaled.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Democrats claim supermajorities in Colorado state House and Senate",
+      "link": "https://coloradonewsline.com/2026/11/04/democrats-claim-supermajorities-in-colorado-state-house-and-senate/",
+      "source": "Colorado Newsline",
+      "published": "2026-11-04T23:39:49+00:00",
+      "summary": "Democrats will hold supermajorities in both chambers of the Colorado Legislature after they flipped one seat in the state Senate and up to six in the state House, according to preliminary election results and statements by Democratic state…",
+      "image": "https://coloradonewsline.com/wp-content/uploads/2026/11/2016-ballroom_02-1024x682.jpg",
+      "image_source": "Colorado Newsline",
+      "outlets": [
+        "Colorado Newsline"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Bob, el poeta, conoce a Bob, el sacerdote: el papa León XIV recibe a Bob Dylan en el Vaticano",
+      "link": "https://krdo.com/news/2026/11/04/bob-el-poeta-conoce-a-bob-el-sacerdote-el-papa-leon-xiv-recibe-a-bob-dylan-en-el-vaticano/",
+      "source": "KRDO",
+      "published": "2026-11-04T23:36:57+00:00",
+      "summary": "Por Christopher Lamb, CNN Son dos de los “Bob” más conocidos del mundo y ambos provienen del Medio Oeste de Estados Unidos. Ahora, el papa León XIV —cuyo nombre de nacimiento es Robert Prevost— y Bob Dylan, el legendario músico, se han…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "KRDO13 Investigates: Palmer Lake couple accused of stealing more than 4 million gallons of town water",
+      "link": "https://krdo.com/news/13-investigations/2026/11/04/krdo13-investigates-palmer-lake-couple-accused-of-stealing-more-than-4-million-gallons-of-town-water/",
+      "source": "KRDO",
+      "published": "2026-11-04T23:29:21+00:00",
+      "summary": "COLORADO SPRINGS, Colo. -- Katrina and Terry Tolbert have been arrested and accused of diverting more than 4 million gallons of water from the Town of Palmer Lake through a buried pipe at their property off Highway 105, according to police…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/Untitled-design-2026-11-04T150656.105.png",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Dueños vs. peloteros: no hay acuerdo en la MLB y la amenaza de cierre patronal acecha",
+      "link": "https://krdo.com/news/2026/11/04/duenos-vs-peloteros-no-hay-acuerdo-en-la-mlb-y-la-amenaza-de-cierre-patronal-acecha/",
+      "source": "KRDO",
+      "published": "2026-11-04T23:29:14+00:00",
+      "summary": "Por Pablo García Escorihuela, CNN en Español El béisbol de las Grandes Ligas atraviesa uno de sus momentos más dulces en muchos años. Lejos quedaron los días de los escándalos de los esteroides, de los bajos números de audiencia y de…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "La lluvia de meteoros de las Táuridas del Sur traerá esta noche inusuales bolas de fuego",
+      "link": "https://krdo.com/news/2026/11/04/la-lluvia-de-meteoros-de-las-tauridas-del-sur-traera-esta-noche-inusuales-bolas-de-fuego/",
+      "source": "KRDO",
+      "published": "2026-11-04T23:20:26+00:00",
+      "summary": "Por Dharma Niles, CNN Los trasnochadores tendrán la oportunidad de avistar algunas bolas de fuego deslumbrantes mientras la lluvia de meteoros de las Táuridas del Sur alcanza su máxima actividad. Los meteoros de las Táuridas del Sur entran…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Denver Arts Week arrives with over 500 events",
+      "link": "https://denverite.com/2026/11/04/denver-arts-week-arrives-with-over-500-events/",
+      "source": "Denverite",
+      "published": "2026-11-04T23:18:35+00:00",
+      "summary": "Free museum nights, gallery walks and more are here from Nov. 6-15.",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Denverite"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Mamdani’s tax on high-end second homes survives legal challenge for now",
+      "link": "https://krdo.com/news/national-world/cnn-national/2026/11/04/mamdanis-tax-on-high-end-second-homes-survives-legal-challenge-for-now/",
+      "source": "KRDO",
+      "published": "2026-11-04T23:15:42+00:00",
+      "summary": "By Gloria Pazmino, CNN New York (CNN) — New York Mayor Zohran Mamdani secured a significant win Wednesday after a panel of Brooklyn appellate judges ruled his administration can resume plans to collect a new tax on high-end second homes.…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Aurora woman convicted of stealing over $2K in designer items at Park Meadows",
+      "link": "https://kdvr.com/news/local/aurora-woman-convicted-of-stealing-over-2k-in-designer-items-at-park-meadows/",
+      "source": "FOX31 Denver",
+      "published": "2026-11-04T23:08:29+00:00",
+      "summary": "An Aurora woman was found guilty of theft after stealing over $2,000 in high-end merchandise, including a Louis Vuitton handbag, from retail stores at Park Meadows Mall in Lone Tree.",
+      "image": "https://kdvr.com/wp-content/uploads/sites/11/2026/09/GettyImages-2227719122.jpg?w=900",
+      "image_source": "FOX31 Denver",
+      "outlets": [
+        "FOX31 Denver"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Bear hangs out in tree outside D38 administration building",
+      "link": "https://krdo.com/news/2026/11/04/bear-hangs-out-in-tree-outside-d38-administration-building/",
+      "source": "KRDO",
+      "published": "2026-11-04T23:05:34+00:00",
+      "summary": "MONUMENT, Colo. (KRDO) -- A Lewis-Palmer District 38 building had some special visitors today in one of its trees! The district posted its administration building, dubbed \"Big Red,\" had a bear in one of its trees outside. D38 says it also…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/thumbnails-114-1.png",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Denver metro to study another major BRT plan",
+      "link": "https://denverite.com/2026/11/04/brt-downtown-denver-southeast-aurora-study/",
+      "source": "Denverite",
+      "published": "2026-11-04T23:04:50+00:00",
+      "summary": "Next up for consideration: a bus transit system connecting downtown Denver to southeast Aurora.",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Denverite"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Los latinos fueron decisivos para los demócratas en California, Texas y Florida, pero un dato los distingue entre ellos",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/04/los-latinos-fueron-decisivos-para-los-democratas-en-california-texas-y-florida-pero-un-dato-los-distingue-entre-ellos/",
+      "source": "KRDO",
+      "published": "2026-11-04T22:50:55+00:00",
+      "summary": "Análisis por Inés Capdevila, CNN en Español La masiva ola azul trazó una huella profunda en los tres estados con mayor población hispana. Allí, los votantes latinos se hicieron oír con fuerza y lanzaron algunos mensajes claros: Florida es…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "The election is over. What’s supposed to happen next for Congress?",
+      "link": "https://coloradonewsline.com/2026/11/04/repub/whats-next-for-congress/",
+      "source": "Colorado Newsline",
+      "published": "2026-11-04T22:47:23+00:00",
+      "summary": "WASHINGTON — Voting ended Tuesday in this year’s midterm elections, leaving officials and volunteers counting tens of millions of ballots to determine which U.S. House and Senate candidates will take the oath of office in January. The…",
+      "image": "https://coloradonewsline.com/wp-content/uploads/2026/11/uscapitolsept152026shutt-1024x768.jpeg",
+      "image_source": "Colorado Newsline",
+      "outlets": [
+        "Colorado Newsline"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Un muerto y dos heridos tras accidente de un helicóptero pequeño cerca de Miami, según autoridades",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/04/un-muerto-y-dos-heridos-tras-accidente-de-un-helicoptero-pequeno-cerca-de-miami-segun-autoridades/",
+      "source": "KRDO",
+      "published": "2026-11-04T22:42:57+00:00",
+      "summary": "Por Alisha Ebrahimji, CNN Una persona murió y otras dos resultaron heridas cuando un helicóptero pequeño se estrelló a última hora de la mañana del miércoles frente a Key Biscayne, Florida, informó la Guardia Costera de Estados Unidos. La…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Bobby Pulido, la estrella del tex-mex que venció a los republicanos y ganó un asiento en la Cámara de Representantes",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/04/bobby-pulido-la-estrella-del-tex-mex-que-vencio-a-los-republicanos-y-gano-un-asiento-en-la-camara-de-representantes/",
+      "source": "KRDO",
+      "published": "2026-11-04T22:35:41+00:00",
+      "summary": "Por Mauricio Torres, CNN en Español Es común que una figura del mundo del espectáculo quiera saltar a la política. También lo es que esa celebridad pueda llegar a ganar una elección. Pero que lo haga como lo hizo este martes el cantante…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Democrat Jessica Killin in 5-point lead over Rep. Crank in Colorado Springs district",
+      "link": "https://coloradonewsline.com/2026/11/04/democrat-jessica-killin-in-5-point-lead-over-rep-crank-in-colorado-springs-district/",
+      "source": "Colorado Newsline",
+      "published": "2026-11-04T22:33:29+00:00",
+      "summary": "Democrat Jessica Killin as of Wednesday afternoon had a 5-point lead over Republican U.S. Rep. Jeff Crank in the congressional district that’s centered on Colorado Springs. Killin had about 51% of the vote over Crank’s 46% as of 3:20 p.m.…",
+      "image": "https://coloradonewsline.com/wp-content/uploads/2026/11/Election-Night-Part-One_20261104_AydinMallery_00547-1024x683.jpg",
+      "image_source": "Colorado Newsline",
+      "outlets": [
+        "Colorado Newsline"
+      ],
+      "coverage": [
+        {
+          "source": "Colorado Newsline",
+          "title": "Democrat Jessica Killin in 5-point lead over Rep. Crank in Colorado Springs district",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG9pVUY4N0dzaGg3ZVBlSFowX25JY0ZQeS02SXFacFR5MGtPbl9WOXNrTlZpZnVNUTNXSDI4d2hEZ0hpaDJvVUdzVVZJeTN0NWlNVUt0bDdZa1FBZzhMbTFCT0s5c1RpT2hKd2F1NVhibUNwMU5vQ19TRUhoUlJLRV9mS2NBdTNkQnJxdkRrN181MUFtUGltRDQwaTdJZlgwOExpNl9mNHV0Yy1xVE9mWkdTc2FJM1FJcXEzN3B0aV9pUQ?oc=5"
+        }
+      ],
+      "score": 4.98
+    },
+    {
+      "title": "Un guardia detiene a un atacante que irrumpió en un auto en el Citibank Center cerca de Tampa y mató a una mujer a tiros",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/04/dos-muertos-entre-ellos-el-sospechoso-tras-incidente-de-atacante-activo-en-el-citibank-center-cerca-de-tampa-florida/",
+      "source": "KRDO",
+      "published": "2026-11-04T22:30:12+00:00",
+      "summary": "Por Joe Sutton y Ray Sanchez, CNN Un guardia de seguridad detuvo a un hombre armado en un intercambio de disparos después de que el atacante estrellara un automóvil contra una zona exterior del complejo Citibank Center, en las afueras de…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Phil Weiser outlines first legislative priorities as Colorado governor",
+      "link": "https://kdvr.com/news/local/phil-weiser-outlines-first-legislative-priorities-as-colorado-governor/",
+      "source": "FOX31 Denver",
+      "published": "2026-11-04T22:27:49+00:00",
+      "summary": "Governor-elect Phil Weiser hosted his first press conference following the Colorado midterm election, where he spelled out his priorities for day one and a transition team that will help him move into his new role.",
+      "image": "https://kdvr.com/wp-content/uploads/sites/11/2025/10/AP21320788276058.jpg?w=900",
+      "image_source": "FOX31 Denver",
+      "outlets": [
+        "FOX31 Denver"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "CSFD responds to structure fire in northeast Colorado Springs",
+      "link": "https://krdo.com/news/2026/11/04/csfd-responds-to-structure-fire-in-northeast-colorado-springs/",
+      "source": "KRDO",
+      "published": "2026-11-04T22:25:37+00:00",
+      "summary": "COLORADO SPRINGS, Colo. (KRDO) -- Colorado Springs Fire Department (CSFD) is on scene at a structure fire at 2725 Maroon Bells Avenue. CSFD says heavy smoke is showing from the home. First responders ask that the public avoid the area.…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/thumbnails-114-2.png",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "FOTOS: las elecciones intermedias de 2026",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/04/fotos-las-elecciones-intermedias-de-2026/",
+      "source": "KRDO",
+      "published": "2026-11-04T22:24:36+00:00",
+      "summary": "CNN Los demócratas capitalizaron la histórica impopularidad del presidente Donald Trump el martes, logrando el control de la Cámara de Representantes y el Senado en una contundente victoria en las elecciones intermedias, según las…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [
+        {
+          "source": "KRDO",
+          "title": "Los mayores ganadores y perdedores de las elecciones intermedias de 2026",
+          "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/04/los-mayores-ganadores-y-perdedores-de-las-elecciones-intermedias-de-2026/"
+        },
+        {
+          "source": "KRDO",
+          "title": "Los hitos históricos de las elecciones intermedias de 2026",
+          "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/04/los-hitos-historicos-de-las-elecciones-intermedias-de-2026/"
+        }
+      ],
+      "score": 4.98
+    },
+    {
+      "title": "One injured in officer-involved shooting",
+      "link": "https://kdvr.com/news/local/officer-involved-shooting-at-murray-and-palmer-park/",
+      "source": "FOX31 Denver",
+      "published": "2026-11-04T22:24:00+00:00",
+      "summary": "UPDATE: WEDNESDAY 11/4/2026 4:18 p.m. (COLORADO SPRINGS) — One person is injured following an officer-involved shooting near Palmer Park and North Murray Boulevards. According to CSPD, one person has been sent to the hospital, though no…",
+      "image": "https://kdvr.com/wp-content/uploads/sites/11/2026/11/Palmer-Park-OIS.jpg?w=900",
+      "image_source": "FOX31 Denver",
+      "outlets": [
+        "FOX31 Denver"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Democrats win full control of more state governments and the Texas House",
+      "link": "https://sentinelcolorado.com/uncategorized/democrats-win-full-control-of-more-state-governments-and-the-texas-house/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-04T22:23:53+00:00",
+      "summary": "Democrats achieved significant gains across several states during Tuesday's elections, taking control of the Texas House for the first time since 2002 and securing trifectas in Michigan, Minnesota, and Pennsylvania.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26308183290304.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections",
+      "link": "https://sentinelcolorado.com/uncategorized/stocks-surge-and-the-dow-soars-1500-points-as-oil-prices-tumble-following-the-us-midterm-elections/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-04T22:23:52+00:00",
+      "summary": "U.S. stocks surged on Wednesday after President Donald Trump's party lost its sole control of Washington in the midterm elections, leading to gains in sectors like healthcare and retail while causing declines in AI and military supplier…",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26308522452746.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Vance tries to distance himself from Iran war after GOP’s deep losses in midterm elections",
+      "link": "https://sentinelcolorado.com/uncategorized/vance-tries-to-distance-himself-from-iran-war-after-gops-deep-losses-in-midterm-elections/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-04T22:23:52+00:00",
+      "summary": "Vice President JD Vance distanced himself from President Donald Trump's defense of the Iran war following significant Republican losses in the midterm elections.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26306610507006.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Speaker Johnson won’t seek reelection as House Republican leader after party’s midterm losses",
+      "link": "https://sentinelcolorado.com/uncategorized/speaker-johnson-wont-seek-reelection-as-house-republican-leader-after-partys-midterm-losses/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-04T22:23:51+00:00",
+      "summary": "House Speaker Mike Johnson will step down from Republican leadership following the GOP's defeat in the midterm elections, setting the stage for a leadership race between Reps. Steve Scalise and Jim Jordan.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26305774437048.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Colorado Gov.-elect Phil Weiser names transition team to face ‘challenges on many fronts’",
+      "link": "https://coloradonewsline.com/2026/11/04/colorado-gov-elect-phil-weiser-challenges/",
+      "source": "Colorado Newsline",
+      "published": "2026-11-04T22:23:48+00:00",
+      "summary": "Colorado Gov.-elect Phil Weiser said Wednesday he has a “very long reading list” as he prepares to take office in the coming months — including a controversial budget proposal released this week by outgoing Gov. Jared Polis. Weiser,…",
+      "image": "https://coloradonewsline.com/wp-content/uploads/2026/11/DSC00382-1024x683.jpeg",
+      "image_source": "Colorado Newsline",
+      "outlets": [
+        "Colorado Newsline"
+      ],
+      "coverage": [
+        {
+          "source": "Colorado Newsline",
+          "title": "Colorado Gov.-elect Phil Weiser names transition team to face ‘challenges on many fronts’",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaW5KNDVHdHdaVXBhVGlzWVdmbXhnU1VUdzlvaE9FWlpCU19tODJjXzRVZ2ZhclJaTmRpbG9IVTBLZU9fT3M1aVNpY1czUlJHcXVLXzlMNWI4NkhnNWMyZ3hYanFtS0FOd3YxNGJuRWVvNF9pclJOak1pNEZERzFWQ2d2ZTRTN2U5RlE?oc=5"
+        }
+      ],
+      "score": 4.98
+    },
+    {
+      "title": "Aurora city council moving to virtual meetings for 8 months during ADA chamber renovations",
+      "link": "https://sentinelcolorado.com/metro/aurora-city-council-moving-to-virtual-meetings-for-8-months-during-ada-chamber-renovations/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-04T22:21:43+00:00",
+      "summary": "The city is implementing a $1.5 million project to bring its council chambers into compliance with the ADA.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/01/Screenshot-2026-01-12-at-6.45.26-PM.png?fit=910%2C485&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "7 Colorado legislative seats flipped as Democrats gain supermajority",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZU1FZGNwRGxiOGZjM0dEc21tLWI3amN6RDZZTzYzdXdVVjFRYmxKZDFyLXUyTU02bk9jZlVEeVJFamw4a0UzQUYzdmNQNG9YOHJVbTFiYXczSzdDWlJLLUJrVXRyYl91S3FMaThWdWtZeTc4RHFBNWpOeENJVGpmLXF0QlA2RElPU0ZscjlpMS1OQ1hSMTRjanJkdGIyTXNXbmkxUllFeE1xNDhsWWxLMGk3MA?oc=5",
+      "source": "Colorado Politics",
+      "published": "2026-11-04T22:21:06+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Colorado Politics"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "The Southern Taurid meteor shower will bring rare fireballs tonight",
+      "link": "https://krdo.com/cnn-other/2026/11/04/the-southern-taurid-meteor-shower-will-bring-rare-fireballs-tonight/",
+      "source": "KRDO",
+      "published": "2026-11-04T22:16:45+00:00",
+      "summary": "By Dharma Niles, CNN Night owls have the chance to spot a few dazzling fireballs as the Southern Taurid meteor shower hits peak activity. Southern Taurid meteors strike Earth’s atmosphere at about 65,000 miles per hour (104,607 kilometers…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXcxOWhvY3gwMDIyM2I2OGtsN3RydjF6-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdnRxY2JsNjAwM3MyOHA1Z2hyZDV2d3o.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    }
+  ]
+}
