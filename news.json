@@ -1,16 +1,61 @@
 {
-  "updated": "2026-11-05T14:28:43.100397+00:00",
+  "updated": "2026-11-06T14:28:28.518984+00:00",
   "days": 7,
   "sources_ok": [
     "The Colorado Sun (10)",
     "Colorado Newsline (100)",
     "Denverite (10)",
-    "FOX31 Denver (20)",
+    "FOX31 Denver (17)",
     "KRDO (50)",
     "Sentinel Colorado (10)",
     "Google News (100)"
   ],
   "stories": [
+    {
+      "title": "One Lakewood Police agent killed, three others injured in shooting on RTD bus in Lakewood",
+      "link": "https://krdo.com/news/2026/11/05/one-officer-killed-three-others-injured-in-shooting-on-rtd-bus-in-lakewood/",
+      "source": "KRDO",
+      "published": "2026-11-06T04:59:38+00:00",
+      "summary": "DENVER, Colo. (KRDO) -- One Lakewood Police agent is dead after a shooting near West Colfax Avenue and Wadsworth Boulevard, Gov. Jared Polis says. According to officials, four agents and one civilian were involved in the shooting. They say…",
+      "image": "https://krdo.b-cdn.net/2025/09/102123-POLICE-LIGHTS-BAM.png",
+      "image_source": "KRDO",
+      "outlets": [
+        "Denverite",
+        "FOX31 Denver",
+        "Fox 59",
+        "KRDO",
+        "KTSM 9 News",
+        "The Colorado Sun"
+      ],
+      "coverage": [
+        {
+          "source": "The Colorado Sun",
+          "title": "One Lakewood police officer killed, three others wounded in shootout with suspect on RTD bus",
+          "link": "https://coloradosun.com/2026/11/05/lakewood-shooting-police-officers-killed-wounded/"
+        },
+        {
+          "source": "The Colorado Sun",
+          "title": "One Lakewood police officer killed, three others wounded in shootout with suspect",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTGpyOXktQ3Jkdk5jblF4Q2RtTE1MTDNiTlRHUG15c1EzdVhBSXlFOU5tcWJtVGItcjEwQjFjOTZiZkRTZzcwWFpGVDRFdEtSSEs2ZEZwTmU4U1FfbHlpZVBUVm93cFg2WHNOa29lbkNTanNmRnZIMFBWaXRCT3V1VWU3WDkwOVRYYnFqdw?oc=5"
+        },
+        {
+          "source": "Denverite",
+          "title": "Lakewood police officer killed, 3 other officers injured in shooting on RTD bus",
+          "link": "https://denverite.com/2026/11/05/lakewood-police-shooting/"
+        },
+        {
+          "source": "KTSM 9 News",
+          "title": "Colorado police officer killed in shooting, Lakewood police say",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0Z1UVFsQ2VwbC1VcVg1d015TGRyaE11cmJfVS1yOHJuMEVwV2lqS0dVSmhqMFNCYjhpMmxNTjcwSUVVRnRmYnZEY3Z3T3drbGFvX0xFZ25Ib1FXOFhiejktNmxBMzRzcGNMSVBweUxKT0lZa2JQQXFBWG1NNTdxLXhOakl1bHV5d1gycXVNSzF3VW0wVDBuM01UY9IBoAFBVV95cUxQUWFXNHl3dGFzQkp1VlNKQkFOcGRZUm9FRXlZb2lqN05BbG56MmFrb3RZSUZ2ZUVtME0xMVEwZkFmZDRUSEhCWS1FckszdTI0QXAtUzRDSWRTMy0yYWkyaWluWDhXNXNxNloybjFXWEFiUEQxUm1zUWNGOW1VVlVocjhWaUE3QUNWQXpaanFxQ3JmR0NCSmFfVk1sN3M5dEVS?oc=5"
+        },
+        {
+          "source": "Fox 59",
+          "title": "Officer-involved shooting in Lakewood, Colorado police say",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmtsTzQxLVFrM0JVVUhUZGV0VjQ2UWhLYzB6N01qdzNScm4xamZubkdpOExMaWJaRGNZMW5KT2xwaHZuQVNfRzZlb2ZUWTJZU25oaU8zenRNcEFCNV85M2FUdFVJMlZ6WmFaNkF0bVlEUlk5SWtTbEZCc0UxZ0hNejhxV1FZRHQ4U1ViSGdWTktYT1dBRkFRcm9TdVLSAaIBQVVfeXFMTVdVTmRZay0yLTVOaTRpYURVNnNNX1NPVHcyUVV6SGlpUjEtR1dFOUpVYVFLOHZvb0tadzNfdk5WNFRORzlqSURZaW9Dd3F6ZzZWcGNKTzJ3XzFOV1lLUzlNU1VtUTBJMEFPbmVxdE9Fa1RfdzJZUGFQbHBzVDZRZmRhUlNHVTc1U2Z3Wk9wbE9KdWEtWEthZXhmNDdmZnhwOWlR?oc=5"
+        }
+      ],
+      "score": 19.88
+    },
     {
       "title": "Colorado election 2026: Live updates",
       "link": "https://coloradonewsline.com/2026/11/03/colorado-election-2026-live-updates/",
@@ -20,57 +65,228 @@
       "image": "https://coloradonewsline.com/wp-content/uploads/2023/11/ELECTION-2023-2931-1024x683.jpg",
       "image_source": "Colorado Newsline",
       "outlets": [
-        "AP News",
-        "CBS News",
+        "ABC News - Breaking News, Latest News and Videos",
         "Colorado Newsline",
         "Colorado Public Radio",
-        "Colorado Springs Gazette",
-        "Denver Gazette",
         "FOX31 Denver",
-        "KOAA News 5",
-        "PBS",
+        "KDVR",
+        "MultiState"
+      ],
+      "coverage": [
+        {
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "title": "Colorado 2026 live midterm election results",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0tMRDdMR3RzcmJMNjk3TDM4WWlzMTUtMHhqN0ZMTmtZOE9CVnhNMm90NXQ0VEYzUzRabEtfN0EyOHNRdEdHcFdIZGNIa2FhR3NLX0g5VVF1RXB2T1k1V2R1NGhVVWtTRXJnMU1EMTZPalR5cmVNRHZPcXdvOGlMVE9vT1dRY3U0WXNRRjlxNEVvQnREMFHSAZsBQVVfeXFMTWU3Mld0Zm1RcUo4Y1pNQnVpbm5XSlJCa3I4MFB0d1gzVC1qR01IZDVRMlQ2dGFfR3EwZ3E4Y05uNDFNVFAyVW5qaGNHamsxU21ManRhczV2bEVkdzVIa0lzOG9lUkpqZjhQOTZfY043OUlKM1ZrbDh2cDZXbmdqdUMxZ1VnejVMMVdSTGt4bE9pN242MGlieURReGM?oc=5"
+        },
+        {
+          "source": "Colorado Public Radio",
+          "title": "Southern Colorado 2026 midterm election results",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHJETWpEbGI1RUVLRHNJTDdpZXd0d2tucVN5TndMa1lsS1AyN1h4SjdXcHJ5eVhjaVNfQm1NMjVhWHlNSm9WdHdiZFVtT3lWY3dQaXh6MW10UVlkbzRKdUc1ZzAwcTEwVWRNVFJ4VjdNenZocnBtYzFHSUp1b3dRejRNcW96UQ?oc=5"
+        },
+        {
+          "source": "FOX31 Denver",
+          "title": "Colorado election results 2026: Live updates",
+          "link": "https://kdvr.com/election-results/colorado-elections-results-2026-live-updates/"
+        },
+        {
+          "source": "KDVR",
+          "title": "Colorado election results 2026: Live updates",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkNIR0JocEs0V2kxWEVyTFIwTWotQlJEb0tsRUFoeTA3SXFwb183LVFnQ01Jb19JdVp2U1VPOE5uRFc2TUFQdTJFWDdKbzU1UFJjSEpVNE1iSUhBd0pRSkVuc3BTdndwcWgtNXpGcW1QdDBlc25TRnBkVVRGRHVnRDRkdkJDd9IBiwFBVV95cUxOdFhWbFlJdUpfc2pCS1pUdzdpUGlGMEhSMERnQ2lQNXlQZnVlN0VHN0oxV1RfbWszT0xlT1B2RHJOYmp5S1o0Y3lTcVlYLUUyNkhCMG1abTczbnFIMDhCWlhYTE14c00yN2xQSWVvTGRIWWtUVHk3V240NTRLV00wcS13LXdOVW11ZktN?oc=5"
+        },
+        {
+          "source": "Colorado Public Radio",
+          "title": "Colorado election results: Live updates from CPR News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbENweEFiNmVOY054YUFBbG90eWRIaU5wam9sS0wyUk43MUNQWlB5RnE2RXRZSDhlN1ZlZUV1T2lUdkdPUVpvU1EyczJVYnNzOUkxaklRWjUzbjJmNW5fQ0VzeFBfY0tQYVpzOGhkRXE4S1JhV0JhcElqMG9DekdWMjVZRzV5MkE?oc=5"
+        }
+      ],
+      "score": 19.82
+    },
+    {
+      "title": "1 officer killed and 3 wounded during RTD bus firefight with a suspected gunman in Lakewood",
+      "link": "https://sentinelcolorado.com/metro/1-officer-killed-and-3-wounded-during-rtd-bus-firefight-with-a-suspected-gunman-in-lakewood/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-06T13:56:00+00:00",
+      "summary": "\"Thank you to law enforcement who run into danger to keep us safe and to protect our communities.\"",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-6.51.11-AM.png?fit=543%2C329&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "AP News",
+        "CNN",
+        "NBC News",
+        "Sentinel Colorado"
+      ],
+      "coverage": [
+        {
+          "source": "NBC News",
+          "title": "1 officer killed and 3 wounded in a firefight with a suspect in Lakewood, Colorado",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHN1WFd3Wkp2RGJtTnViX3RKaHdaRXhhR1g3dDZsdW4yaDBRVFNESlhXS3ZvZkJGN0dDMUdBSFVpcml4T2U5by1jQ1V1UFE2Tk1wOS1mUUJWRjNuckJDejlFdGZES2YyNEYxSWl5a3VwTkpDek43N0xEQmV1d2g0WGZqQ1RaeXdTWXhTb2JhZWQ0R0Q0UFdic3dQVVRFaVYzeTNGa1dLZVU5RHY0N21Z?oc=5"
+        },
+        {
+          "source": "CNN",
+          "title": "Officer killed, 3 wounded in a gunfight with suspect in Colorado",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdjVsQUhOSTY1TmppWm4xb18xYzJWOGgxV25hSnYyMkJZUTh0QVV1WGRRT3BjX28yMDIxc2hnLWJlTnczNGNSWmdNa2VhVV94UENQR2xvaW1GODgwWjUwZjBMbk5faVhnMEc1Q2hFSTZlWkVZamZYMmtheHhVZGc2aThn?oc=5"
+        },
+        {
+          "source": "AP News",
+          "title": "1 officer killed and 3 wounded in a firefight with a suspect in Lakewood, Colorado",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDRaYVl0TG5QeHBJckd4SGlzX3R2aWduOE5zQkpBbHk0VC1kQVh1S0poU01vWG0zeGJkMWlBS25fWHE2eHpFaXJzekdhZFpiTDNPcXRjY3ZHajJ5UmR2UWx5RnMtN0VzQXh1LURKSW9JNS1uSGh0XzZhbDFRek44STZIT005WmhYSENJZTJHWXFkX2NDazR5WjBkQQ?oc=5"
+        }
+      ],
+      "score": 13.99
+    },
+    {
+      "title": "Killin elected to be first Democrat to represent Colorado Springs-based congressional district",
+      "link": "https://coloradonewsline.com/2026/11/05/killin-elected-to-be-first-democrat-to-represent-colorado-springs-based-congressional-district/",
+      "source": "Colorado Newsline",
+      "published": "2026-11-05T19:59:03+00:00",
+      "summary": "Democrat Jessica Killin defeated Republican U.S. Rep. Jeff Crank to become the first Democrat to represent Colorado’s 5th Congressional District. The Associated Press called the race at 12:38 p.m. Thursday, with Killin winning 51% of the…",
+      "image": "https://coloradonewsline.com/wp-content/uploads/2026/11/Election-Night-Part-One_20261104_AydinMallery_00547-1024x683.jpg",
+      "image_source": "Colorado Newsline",
+      "outlets": [
+        "Colorado Newsline",
+        "Colorado Public Radio",
+        "KKTV",
+        "The Colorado Sun"
+      ],
+      "coverage": [
+        {
+          "source": "Colorado Public Radio",
+          "title": "Jessica Killin flips Colorado’s 5th Congressional District, becomes first Democrat to win",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00cXdCV0x6a1MyYl8zbHZQNU5DZDZwb2JTV2RGOFE0dGpsSTBLQlpBd2F1Zi1aQ3FzcUtabXNiSXdFNWExSUVudkdRbDlQakFaLXpvaHpmSDVfbkI0UDBwOVNfLUhnSmpXMW9UejYwOGJPU3ZFZ3ZQcXk1WDZhMFU?oc=5"
+        },
+        {
+          "source": "KKTV",
+          "title": "Jessica Killin flips Colorado’s 5th Congressional District for Democrats",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXZDNTdwODdnZkdBZHdmQ09zdkNPdFZEWG1rQ2R2em9vb2FwUkpEVHhQc1p6SzJpUzd5Xzhic0F3MTBSTmFpN3M4RWJvS0xSU2EwVUxjSm9kX2F5b0wyRHlHRWoxQ0JHc3Y5ek4zMEpOZUQ5SzMwN2FucVFMNm1uWURaTXBwNFIz?oc=5"
+        },
+        {
+          "source": "The Colorado Sun",
+          "title": "Democrat Jessica Killin unseats Republican Jeff Crank in 5th Congressional District",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLTlPVFlBM1dfYTFPWnMzVXZnYjhjUlAzenlrazNqVFdLUmFJa0JlVU4wSkVLTHJQUXFkcUlhajgzVlNOamtjZXBBUUNZeW1Tc0NNcl9UUVpSMm5jWkhuNmxjOTdxVWlNeGs4bHlMT3kxU0E1U2NLa2YzcElfLVo0SHRDU1RyMFdJdVBDMHNZelF0UVA4dXdTSGF3?oc=5"
+        },
+        {
+          "source": "Colorado Newsline",
+          "title": "Democrat Jessica Killin in 5-point lead over Rep. Crank in Colorado Springs district",
+          "link": "https://coloradonewsline.com/2026/11/04/democrat-jessica-killin-in-5-point-lead-over-rep-crank-in-colorado-springs-district/"
+        }
+      ],
+      "score": 13.77
+    },
+    {
+      "title": "Colorado voters approve measure to ban trans children from playing school sports",
+      "link": "https://coloradonewsline.com/2026/11/05/colorado-trans-children-measures/",
+      "source": "Colorado Newsline",
+      "published": "2026-11-06T00:53:08+00:00",
+      "summary": "Colorado voters approved a ballot measure that will ban transgender children from playing school sports. The Associated Press called the race at 4:12 p.m. Thursday, when 52% of votes were in support of Proposition 134. The AP estimated 92%…",
+      "image": "https://coloradonewsline.com/wp-content/uploads/2026/11/2016-Nov-Elections_13-1024x682.jpg",
+      "image_source": "Colorado Newsline",
+      "outlets": [
+        "Colorado Newsline",
+        "The Colorado Sun",
         "The Denver Post"
       ],
       "coverage": [
         {
-          "source": "AP News",
-          "title": "2026 Colorado Midterm Election Results",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zN2dkVlNHb2lCVlNIT29kX1pUN01CNHFTNWlXeUdTVmlFSDRVNnhsZ0UzeFNpZVp4VFJBdkhOdTVVb1R4Z0VwZG1yRFd3TnJHY3ZLcDhzOHAtNm85UjFLeHVaUGg0aTlNUVNBRQ?oc=5"
+          "source": "Colorado Newsline",
+          "title": "Colorado voters approve measure to ban trans children from playing school sports",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoT3VFSHJNWDdkOEV0dm5Vdm9rSkc0WklSaUljOF8zcmY0OUVLWXRnUmlmNFNaR19DeEhLOUcxbkhwNkN5MzFVTm5tcDBPbHdoc1hxMFVEMGMxbXVUUTdVUjA5MTgxX0VfaGNYWnBPZUxTNE0wVVBxM1ZLa2VmZw?oc=5"
         },
         {
-          "source": "Colorado Springs Gazette",
-          "title": "2026 Midterm Results: El Paso County, Colorado Springs races",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLU94SHJxVzVMV2syV19aZWtUVk5WZFdmMjl6T0NrU2U4Zkt0MF9uSjJ4aDVRU1NVVTU1QzlBbnpxT0x6YTlVZ1UtMXd3RmhsNG0tRnJmaTB2cG1ZUGdzNGlwS0Z0TlI3MnJ0alRrdWFXYUxRNE44MHd6WHU0NVVBRDFqVm93UzBibkZiWlhOWER3SHFO?oc=5"
+          "source": "The Denver Post",
+          "title": "Colorado voters approve measure restricting transgender athletes’ participation in school sports",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONDZfLVh1ektRV1BCVG1hMFNqUlJPUXNEQkNkNkVFS2d6ZF9nRmFoZzZSdzFMbU9aR2N3dWFlbWpObGRDRmsxSzlXWWJ2ZXB3TXVyWXZyMkgzT1VtdHN6bkNVS1ZURlRQNXJTN0M0ejl3U0MwNG5xRFBqWGpuVzFCc1dvaEpZWmJLUnJRSkthT1Frc1JSeVZ2amo3OWFJeGM?oc=5"
         },
         {
-          "source": "Colorado Springs Gazette",
-          "title": "2026 Midterm Results: El Paso County, Colorado Springs ballot measures",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjJGaXV1Si1TSnpaTlJseEhHd1hkVVl5WEl0anh6bDB5d3pyQllPMVhyWkU3Q2FRbnZFR0ZMcG55WVRhbUJ3eGUtNUtYSmxqTU9XOXVqV0pkQ1dnVDQwZVByRDJ4LW9SVTVnalhkWkNqcWRTTkt1ZkwtaXJQVjktMk9fTkYyRkpXZThkbVpUWXowR1pRcjNHNk1hLW9NVjBjcUE?oc=5"
+          "source": "The Colorado Sun",
+          "title": "Colorado voters approve measure banning transgender athletes from gendered school sports",
+          "link": "https://coloradosun.com/2026/11/05/proposition-134-transgender-youth-sports-passes/"
         },
         {
-          "source": "Denver Gazette",
-          "title": "4 takeaways from Colorado’s 2026 election",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFVTYk5wYmZEcEZ0aGV3NlZjcXJwWkprTGpSNzNxSTk2QVU2QzA4TG9fQ0lUdnBYMWNwRU1sZEhfY0RjUnFTVWhDVC1NWk13V3FubUctNHhILVZqdmNQX2xLTmZBQ0JQYUQtam83bE9zZWJDQWpxZ3NwT0hvcWx0R1pCSGxyemNrYVE?oc=5"
-        },
-        {
-          "source": "AP News",
-          "title": "2026 Colorado Amendment 82 Election Live Results",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zRXRTVXE1UGJYVjRZSEk0ZUF1TjF2RUNTdW9jWUlZLWp4a3Roc3NERnhTZndPaGtnaEM1bE1ORG1BRmxLX1dzRGx5cndKNjV5MW1oRmk4dUozUnNmR3d1NGdULVdETGFDN3psQnRvSWpOS3V4cWszRTVrYktJQQ?oc=5"
+          "source": "The Colorado Sun",
+          "title": "Colorado voters approve measure banning transgender athletes from gendered school sports",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSm9QR0QwN01xNFFwVDYxWS1nMWJ6S0VaVFQ2di1mU21XUXFlZkVRVlU2V0RaaDF5b01EaWhtXzIxWk1kWTAzdlFCSFdFaTlDdkhoR0NIb2lVVzdzalRhZ0VKcW9PN1JxMWhGVXhJdzFGX1pHVlpzTWRaRDJTcDhtV2x6TDZFaWJZdEZ3?oc=5"
         }
       ],
-      "score": 31.97
+      "score": 10.83
     },
     {
-      "title": "Lauren Boebert’s fight for reelection remains too close to call in Colorado’s ‘safest’ red seat",
-      "link": "https://kdvr.com/news/local/lauren-boeberts-fight-for-reelection-remains-too-close-to-call-in-colorados-safest-red-seat/",
-      "source": "FOX31 Denver",
-      "published": "2026-11-05T03:45:04+00:00",
-      "summary": "Congresswoman Lauren Boebert remains in the hot seat Wednesday night as she waits for the final results in her reelection campaign.",
-      "image": "https://kdvr.com/wp-content/uploads/sites/11/2026/11/Lauren-Boebert.jpg?w=900",
-      "image_source": "FOX31 Denver",
+      "title": "Things to do in Denver this weekend, Nov. 6-8",
+      "link": "https://denverite.com/2026/11/06/things-to-do-in-denver-this-weekend-nov-6-8-2026/",
+      "source": "Denverite",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "What are you doing this fine first November weekend?",
+      "image": null,
+      "image_source": null,
       "outlets": [
-        "Colorado Public Radio",
-        "FOX31 Denver",
+        "9NEWS",
+        "Denverite"
+      ],
+      "coverage": [
+        {
+          "source": "9NEWS",
+          "title": "9Things to do this weekend in Colorado: Nov. 6-8",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVlvRWZCNldlYTlrajBHY2xJQ2xuYWU3cFNyTnNQLXBvVjY1Q1k0V2FSVXRSX1JWaUlyNVlrR3hlQUluNU00ZzctSGpHTzJaTFBETjRyUVVSdmYyRDZYV3NLSlVtMGxNQXVIU2pQTkVDd1JqR2J6TDVMSWJ5TFdjLW5VZmhONm4wWE9zNTZ6TXRKWjNJdVRscVo2VElGREdkaHhaWlpJMngyRUF1U295VGZmYmRnSXJicGpwOVZaZ29Cb01SMGdHREJHcGpuUFpjVThVbUV1ZGEwUEtIWkVCTg?oc=5"
+        }
+      ],
+      "score": 7.96
+    },
+    {
+      "title": "When will we see results in 4th District between Boebert, Laubacher?",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1QyX0pnZVpTSktwQ3I4VkhONThQNFRiMVNTLTltS2ZCY0xWdDlMMWxBVEVoNVJ6VUdXVHA2QnAwYVZ5YjdNcmg5UUhtaS0tY05fWkdKYnNJWTBXTFpqQzRhWldUTjhHc2c3WVY1aVNQd3lFbFN0NlBBQmU2VmNJM2VudXlrNzlZMmp1Q2hUWlBNdEo3d3NDRmZPTUxWNGVnUWEwUEljdFpwR2E0aUZrZVFBREdNUG45Z1E?oc=5",
+      "source": "The Coloradoan",
+      "published": "2026-11-06T04:01:00+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Denver7",
+        "The Coloradoan"
+      ],
+      "coverage": [
+        {
+          "source": "Denver7",
+          "title": "Voters weigh in on close race in Colorado's 4th Congressional District between Boebert, Laubacher",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWJCa0JrZXVaLXpyeVA2MV94cEdDVXd3Q0FPTUptZE1uZThWRU15c3NEV3lNX2RLQ0hHTTAyWUhGVzZFdmdJYUpyd0puN05VUzZhNVJMUlFDcWx0WFpyUHBpaDhINzVlRV9PMWNvejRpWUVjOTBtSTJIVTM3bm1lMFBJbV9sTHV0QU5kMUJxZHpMWFhYMFIyaGFjX1FaaVVRd3VvLW9UQjFmZkk?oc=5"
+        }
+      ],
+      "score": 7.87
+    },
+    {
+      "title": "Supporters of Colorado’s graduated income tax measure declare victory",
+      "link": "https://coloradonewsline.com/2026/11/05/colorado-graduated-income-tax-2/",
+      "source": "Colorado Newsline",
+      "published": "2026-11-05T23:41:55+00:00",
+      "summary": "With their narrow lead holding steady with an estimated 90% of the statewide vote counted, proponents of a ballot measure to establish a graduated income tax system in Colorado declared victory on Thursday, heralding the most seismic shift…",
+      "image": "https://coloradonewsline.com/wp-content/uploads/2026/11/DSC00678-1024x683.jpeg",
+      "image_source": "Colorado Newsline",
+      "outlets": [
+        "Colorado Newsline",
+        "Colorado Public Radio"
+      ],
+      "coverage": [
+        {
+          "source": "Colorado Public Radio",
+          "title": "Group behind Colorado graduated income tax ballot measure claims victory",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckRGdDlwUGdFU2pvQXRGR28tRVZXNDJBalFsbjRfQXZHaVZ6WG1ZdUtQZnA2QnRQV09Vdm9LQW5IT19EMFVtUTdjZ0NqeHBkSE01VGdTeEFRYUVmZ3FUbXNFZDh4UGVOUHU3R3ZlTjBDbXhPallqMmVGU2NsSHh3VENnZHRuQjBVRzlqeEtpVXZMYzBTWjU1Q2FJdlJnY29C?oc=5"
+        },
+        {
+          "source": "Colorado Newsline",
+          "title": "Supporters of Colorado’s graduated income tax measure declare victory",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZMkFNOXpILVpCelRzNjVsOFdWdktHU185RmZvNlN4RGRkclZLdkdLM3F0OGd2ZTdwRE13ZjgzTllMUlJSSkstd3E0NkZUQU5WR1Z2R2RGNmhHeXhBSUZBZmlqN2E0OU9oZ1NtemM1aUd2VTJtY3lTSGRTXzM?oc=5"
+        }
+      ],
+      "score": 7.85
+    },
+    {
+      "title": "Rep. Lauren Boebert trails Democratic challenger in Colorado’s 4th Congressional District",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNzJ2LVZSMlBlN3Rkc09MdHpQTjBiUHFRRFpYOHI5YlJRZkgza1lRWmM2VURacF9keEFJZUtrNmxNMDdKV1AzSG0tQnFobFdoVkhXaXg1Zk91UFJiZDFhb1dPbk9HQ2phckFwNTJKN1pDMEI2V3p6d25DcVZIUFRzWjMtQ2I2ajh2NzI4?oc=5",
+      "source": "Chicago Tribune",
+      "published": "2026-11-05T17:05:51+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Chicago Tribune",
         "The Colorado Sun"
       ],
       "coverage": [
@@ -78,468 +294,142 @@
           "source": "The Colorado Sun",
           "title": "Lauren Boebert’s reelection bid in Colorado’s 4th Congressional District is too close to call",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlZseXh0WVBGbVcxZlhYeXpkMVZ6aWVhVmo4cW9RWHV2RmpwZTNqd21DUDdiOGNmeS1DcjE0SllsTDUwY3QzY3JnRERZeWNDOXBLeDJDVWoxLWdCZndZSXgwcEc1T0dJWGlleF8wcWdXZmtldFE0c2Rqa0RiTlgtMFpEeUpuZVNneVBkem9Nd1NPdFRZdTJQU0ZYM2J0OEx4WXFVag?oc=5"
-        },
-        {
-          "source": "Colorado Public Radio",
-          "title": "Lauren Boebert in big fight to keep her seat in Congress in too-close-to-call race",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNDFfRHJkUEZuSlctdDV0TmI4NERZMGZKNlhhMEZ3ek9xaVJyWWY3NGpqdnZ5cDlRbU1Bc0RkeF9PaGpjd0FQaXhSZEw4R3BIZlp6ZldDcVczQ3BLSG5pTmM5SzE0R0ptTGYtTTVqWkpYS1l3WHdKbzBBZFFCMmtXN0VOVnRJUkdBRGp0bzJCUU5jQXVmU0NYX0tkaUk1X1VtTGc?oc=5"
         }
       ],
-      "score": 10.87
+      "score": 7.73
     },
     {
-      "title": "Colorado voters OK two tax changes, while income-tax overhaul too close to call",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVTBndlh1bjB6d3VpUVFiTHBrOW9BNEh6cGFkTmwtUkNCNEhEX2lNemZieFpXSS05cW9IcEZwRUZuZWF0UTlHWTVhUzE2SHN3TGx2V29hY29sb1M4TkFUWDlzQ3cxTDlFbXBPTjhZenlYbl81WldiUEhRTmtoalltVG1GWkdORWZtTm13SEtnSW5manp2Q0VNQ0lIRGlRSTNZenViNzd3?oc=5",
-      "source": "The Sum and Substance",
-      "published": "2026-11-05T00:36:11+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "Denver Gazette",
-        "The Colorado Sun",
-        "The Sum and Substance"
-      ],
-      "coverage": [
-        {
-          "source": "Denver Gazette",
-          "title": "Colorado's tiered income tax initiative still too close to call",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamRLbnpPdFhMbURJcjRCX2pxLTFpUUw0MGF2V1F3TW1kSV9nbmZfWDdkeGpjUFI2RlY0YVBSS0lxUnlBX0FrYkptN3dMbE9hMGlNMG5GS2ZfT3RuY1RlSzNGckNoZk5ScTZIMlBHTXlUdjI3OW1nRDJxUkw3d01BOFpKTkhac2tqVDJvdFAzSHRpWTdrQnJ1SnBiN2dSR1ZHamo3VC13WQ?oc=5"
-        },
-        {
-          "source": "The Colorado Sun",
-          "title": "Colorado voters split over Amendment 87 tax hikes on rich, with race still too close to call",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSG9EeU1WaGZtMkxvYWdhN1BsOENVSW9zZlcydHdOeDFlR3puLTVuQU43ZEdDSDBQVFR6WVBEZlVYT2VlMUZ3RzJtSTZJbVRKZGxRSEtsam9vRHFUMGFsaXdCWlp6WHAtbXFxTFJORFpZYUJNMTAtVDVhRnpTbDNfUEUxRQ?oc=5"
-        }
-      ],
-      "score": 10.83
-    },
-    {
-      "title": "Colorado voters reject amendment making hunting and fishing a constitutional right",
-      "link": "https://coloradosun.com/2026/11/04/colorado-voters-reject-amendment-making-hunting-fishing-constitutional-right/",
-      "source": "The Colorado Sun",
-      "published": "2026-11-04T20:36:24+00:00",
-      "summary": "Amendment 83, brought by a conservative law firm and backed by hunting groups, could have affected how the legislature or Colorado Parks and Wildlife Commission make policies about hunting and fishing",
-      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/Ballot-15.jpg?fit=1024%2C683&ssl=1",
-      "image_source": "The Colorado Sun",
-      "outlets": [
-        "CBS News",
-        "Colorado Public Radio",
-        "The Colorado Sun"
-      ],
-      "coverage": [
-        {
-          "source": "CBS News",
-          "title": "Colorado voters reject Amendment 83, constitutional right to hunt and fish",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFNudERzRzFFZEdLR2o1N2U2cjl1VFdLd1NoaTkzMmVhenZCaFQzZWswS2k2b29teHJzNDRqbGlnREFhekt0enJHamtMdmZVNklRLXFZczB2RGkwRDJsZndza2FQQUhhVHdfMHJraDR0V2dIMFpFU0M1d3BjZjBYRWdiYzhGeDJLTjJrVVhubF84bnZFREtVMlNTYkw0UQ?oc=5"
-        },
-        {
-          "source": "CBS News",
-          "title": "Colorado voters reject Amendment 82, constitutional right to natural gas",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeENHcmJfM0dzSGU2RGtSQUNpZ3F5MU1UdFRHdk5uS3FPZnFpWnVEdHBWd2NVVzM0Qm5nTzBWUnM4TGdpenZaMV9vcEVWRlJ5YXByOW5pbV9CYkg0ZG90ZldCYk0yLWpSQmhDRXhqV1ktamwtTElPNVZSZFE3YlBrOVNRODJZTEtEMWxqSVZqM3JxdDNJbG5wMEVZQnhuX3NjMkNfR0ZEM1pxcTQ?oc=5"
-        },
-        {
-          "source": "The Colorado Sun",
-          "title": "Colorado voters reject amendment making hunting and fishing a constitutional right",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnZxNmZwYkpHLVF1dEd0emtaZlVYMV9XZWkyODVxc2JjZ0phYlFTVkxsRldjU0g1S0F6dnlybE9UNlotY0RuRFZnTDZheHpsU2ZmYzRidno1UU9lN21MUkdjeXJ3YldMMVFIRGxjWEppb0JZY0xTTURpZ1FXak5QbDhHZFZudmhSWkI3OHBEWWY3cEU2eXRNWGRoa2RsSTlVM1FVTkFJVy10dUN1MDYyeXNR?oc=5"
-        },
-        {
-          "source": "The Colorado Sun",
-          "title": "Colorado voters reject effort to place right to natural gas in state constitution",
-          "link": "https://coloradosun.com/2026/11/04/colorado-rejection-amendment-82-natural-gas/"
-        },
-        {
-          "source": "Colorado Public Radio",
-          "title": "Voters reject Amendment 82, a right to natural gas",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFJacE5VUkEzWlNoMFdGT3JROFFLYkQ4MmFLSTZrcXk5REZjM1diS2RKTUN4TWNaa3JJWmJZU2tuTXhJRzBLa0dLeHVDMnhrMFVBWmw5elJRZ2lJYXlGdlZEUGl3dDYyZW92d1hFN05TSWVyTU5EZmxfczBPMzFSdGt2VllMaXBsU1E?oc=5"
-        }
-      ],
-      "score": 10.81
-    },
-    {
-      "title": "Colorado transgender ballot measures spark plans for legislative challenge as votes are counted",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMXoyUFJWVkxYZUZZQWZ5aV9ycTVnSVZjOG51R1NsVV9hQ09SYVVFZ0lUeGk4YWZnOVV6MUtYcEVqTWxZY2YtWFd0TGtiQ0tWaFNDd01LRlpsbWtoenQ2RTVhcE00S042bTRxYXhnR19qc19HbkRqUDVXY0xkM1VZN01EUnBFekZ6SXJsWUtGSnJQd1FsUHlZcTlhcmtJVnVtaXItbXktVG5hYUpEX2JlUGZzV2o3UThHUmVNZHdvclpCZ0Y5MGozU2thWmV2MVE?oc=5",
-      "source": "CBS News",
-      "published": "2026-11-05T05:33:28+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "CBS News",
-        "Colorado Public Radio"
-      ],
-      "coverage": [
-        {
-          "source": "Colorado Public Radio",
-          "title": "Colorado’s two ballot measures on transgender youth hold leads as votes continue to be counted",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUJjZVRZNVcza0dRS0h4dFBIV3BGTFRUZEQ5RkFsbkx4OXZKeFJ5N3RaMEt0Rll4UVgtWFVQTzlZRGU1WkZNUDBZcV92Q1RMSHdhclBhRmNZaFhvLVBvZEh4ZjVqY1lyNS1rMGRNUlotdENBWk96NFVodFZFWVpES0x3MjhzSUlLMTAwT3BXZWs0ZDI4V1l3aQ?oc=5"
-        }
-      ],
-      "score": 7.89
-    },
-    {
-      "title": "Front Range Passenger Rail District talks next steps after 7A passes",
-      "link": "https://kdvr.com/news/local/front-range-passenger-rail-district-talks-next-steps-after-7a-passes/",
-      "source": "FOX31 Denver",
-      "published": "2026-11-05T04:20:47+00:00",
-      "summary": "The group behind Ballot Issue 7A to fund the Colorado Connector passenger train is claiming victory after Tuesday’s election and offered a look ahead at what to expect next.",
-      "image": "https://kdvr.com/wp-content/uploads/sites/11/2026/04/Use_Descriptive_File_Name-79-e1793839356689.jpg?w=900",
-      "image_source": "FOX31 Denver",
-      "outlets": [
-        "Colorado Public Radio",
-        "FOX31 Denver"
-      ],
-      "coverage": [
-        {
-          "source": "Colorado Public Radio",
-          "title": "Tax to fund Front Range Passenger Rail District poised to pass",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV3NhbU9rOTJyOVRQdEg2VFdkbG44TFFSMW4zSGhmSzdWVTQ0bHBtLU52U0h2aWh4UFZSV0NDRXFJYkJYQUgzcHJxdzhHdy12N25fZE1ERFpVdEhZd3ZsZmZXbm9kSnl6XzlyTTFXY0MzVkZUejgwZzVfQ3FNZ0Y4WldDWWtRUWxsdk94RmNyX0pvdFpjOWNv?oc=5"
-        }
-      ],
-      "score": 7.87
-    },
-    {
-      "title": "Colorado's 8th district hands decisive victory to Democrat Manny Rutinel",
-      "link": "https://kdvr.com/news/politics/election/colorados-8th-district-hands-decisive-victory-to-democrat-manny-rutinel/",
-      "source": "FOX31 Denver",
-      "published": "2026-11-05T01:36:27+00:00",
-      "summary": "Democrat Manny Rutinel won Colorado's Congressional District 8, ousting Rep. Gabe Evans in a race that had been seen as a toss-up through much of the year.",
-      "image": "https://kdvr.com/wp-content/uploads/sites/11/2026/11/AP26308142092469-e1793771554767.jpg?w=900",
-      "image_source": "FOX31 Denver",
-      "outlets": [
-        "Colorado Public Radio",
-        "FOX31 Denver"
-      ],
-      "coverage": [
-        {
-          "source": "Colorado Public Radio",
-          "title": "Colorado’s 8th Congressional District seat flips, Democrat Manny Rutinel wins",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVp1S2VsMjBwR19IVEhtRWhib1dhNWVUbFBZcTZwQWltc1pOWk0zc3FTZlNxS3hncXNidWNUczJaOWtDU29abFg3Zl9rd1lOaV9Ud0dXY0xnNk5hN3NJTlkxZ09EQXZEU04wYV8ydlpTdUJWX2tjaFZaSjdBWFdfeFRVMXNjQTJMN0c1R3hpYUhZclJUcHllOEJPOFY?oc=5"
-        }
-      ],
-      "score": 7.84
-    },
-    {
-      "title": "Colorado voters approve Proposition NN, sending TABOR refunds to schools, according to Associated Press",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRFRqY3JFbW4wUllWMEdsaG03WG1FbW5NbDZXQnlaUXk1aktnYmNVTTdlN3JKbGNjTmhST0JDaklBX3luVlRuQkJCeE9WUTROejNqenlLc2VQai1ibEI0SlE1azNmUEU4THZySGVQNk9RVklybzA4WFZyaHdpX29rVU5FakJIUWZEX21vRE0wQmlVemdtNEdWcUkyajRLY2E1Z2c?oc=5",
-      "source": "CBS News",
-      "published": "2026-11-04T18:26:00+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "CBS News",
-        "The Colorado Sun"
-      ],
-      "coverage": [
-        {
-          "source": "The Colorado Sun",
-          "title": "Colorado voters pass Proposition NN, sending TABOR refunds to K-12 schools",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2Z2cHpTa1dibXg0OGEweUhkYzVTTnA5aU1YNXZpOTBYdzF5XzRNYVNobGMtekZxZnM2UG5IVkQxcGhpdi13eldWRFhpVEcwOEpZVWxxVEZCc0tyZzBRZnEzMG1QSDg2SHRvS0xuX28tTHI5T2pLb21wOEtDRzlpRWpWWGhuQlhsVkZV?oc=5"
-        }
-      ],
-      "score": 7.75
-    },
-    {
-      "title": "2 college students found dead in Colorado mountains fell to their deaths while climbing: Authorities",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWdkb19kaVNSWDJhZi12WUF1bHZ4YlZVakJHQXJrSUFxMmpqSW1HanJjRmxOdnFKdFhrVzJpQ0p1S0d1aVJrVXNNSVRhR1FGOXZULTE4NjdOYjN4R1RMZUhWazl6dHFLeXQwczV5dVR5WG9zVFBEcjl1UFgza2VJSDl6YXpSNklzcUhRNHVBc2lvUzBnbXA2bTlQWdIBoAFBVV95cUxPbkxmX2R4OG1wanRtUmdJcXBtNXpRLTlibTVtVTYwandZQjhpRTVkUVZFeEliLW14NEJPU3ZVczhydjUtR2xDRzJNN0E4QWFnNFI0SjlNQjJwR2xOSXZwOFk0dUpzaEgxUzlJRUFqaEV2Y1gwQTZnS0pRYUdFeVJ5QXpQRDNzNGdndDg5Rzg1SHl5blZZLVlrdTd6R1pYUFI3?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-11-04T18:11:46+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "ABC7 Los Angeles"
-      ],
-      "coverage": [
-        {
-          "source": "ABC7 Los Angeles",
-          "title": "Kaden Matsuda and Jackson Donlon college students found dead in Colorado mountains fell to their deaths when climbing anchor broke",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWUlvX19KbGtuR3Z4MDJUeFJ4Z3I5YmxURGhHcWFvNE1OenJPelBxYVRpVGZLcXZZM25zdTRybW9jNEhva04wSnQyUjlCSkJKWFNvYmc2S2pHLU5xRWRjNUc2cnpSbk81cFY4VG1lbkYzQnZDeUl6dzZmVjFUTnV6aTlHY0VwR09UTTV0Y0RHY0dmTWliSXlrM2xENGhzd2NGWHgzWEtxanJWTDhmeW1CMXFsVUpGRXVGMlZ6bWVDQTJHQklGOFgtQkRDbm9wV2FUV1BFMS1zeWF1bnhTWkZv0gHkAUFVX3lxTE1VOG1EVXduaXd6R1RzeHFneWJkNjcyRVBsd3BLQkw5Tklic1lRNGxkRmIzcnBRMVVCNGNjVUpwR19WNWNaVFVXXzNsTXhXVnAwUFJMenMzN2hwLUduNDdCWlZTWmczM29rMWMwQXRHN3lPLWVSLW44N1ZVcWR0WUJ6LVZsTjhPSFp1NmdOY3BfYUpLeWJVTW5OaFR3XzNSSVoxWDIyR0EtUXpVZ2lXQzZnZERUSUNUbHRtWGNCU1MtMU9RdFpMZU5tSnZpWkdIQ0o5ZTVDMWRBT25DX0JjOGVFTElrNQ?oc=5"
-        }
-      ],
-      "score": 7.75
-    },
-    {
-      "title": "Jessica Killin narrowly leads Jeff Crank in Colorado’s 5th CD",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDNrZHFUTDFkMEpkTHdiRndUVUl3RGpEeXdYZkJPRHlqWUIwU2VZelNjcm9iYS04R3pmdHhLa2hfVWNJUmQtRm1vXzRyR3IxdGlUWG45STJDSEtyZ1c3d0d2cF8wWk5adjVMOTBrNktVNkRoS2lzbTF6WUlaNUd1alVLUlEyeWhuckpfTG1XV1RLOWM0NDFN?oc=5",
-      "source": "Colorado Springs Gazette",
-      "published": "2026-11-04T06:09:41+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "Colorado Public Radio",
-        "Colorado Springs Gazette"
-      ],
-      "coverage": [
-        {
-          "source": "Colorado Public Radio",
-          "title": "Jessica Killin leads Rep. Jeff Crank in effort to flip Colorado’s 5th Congressional District seat",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON29BcDVMU29CbnJwOVktVFdmakpBcUdoRm5McWIteXRxa1JUcmRpU0g3SmNjY3puZjRHTjNTM3ktaGo2R1hGRU9WTGZrSGVGcHNqdTB6Vi1jSzVBQVhwLWpUSEFBblF3Z1hRSW8tTTF0bzdjUjY4VDBiSFVTUXRpVDZJeVdmcnROdFhIb25MbTVqbjlCQXZYSW5Mbw?oc=5"
-        }
-      ],
-      "score": 7.6
-    },
-    {
-      "title": "REEL NEWS IN A RUSH: Top headlines in Thursday’s NewsMinute video",
-      "link": "https://sentinelcolorado.com/nation-world/nation/reel-news-in-a-rush-top-headlines-in-thursdays-newsminute-video-9/",
+      "title": "Lured into an online scam network, an African man spent almost a year in Cambodia trying to go home",
+      "link": "https://sentinelcolorado.com/uncategorized/lured-into-an-online-scam-network-an-african-man-spent-almost-a-year-in-cambodia-trying-to-go-home/",
       "source": "Sentinel Colorado",
-      "published": "2026-11-05T14:21:10+00:00",
+      "published": "2026-11-06T14:17:53+00:00",
+      "summary": "Thousands of migrant workers remain stranded in Cambodia following a massive government crackdown on multi-billion dollar online scam operations that relied on human trafficking and physical abuse.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26308166212625.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 5.0
+    },
+    {
+      "title": "Movie Review: In ‘I Play Rocky,’ a middleweight crowd-pleaser about the making of a classic",
+      "link": "https://sentinelcolorado.com/uncategorized/movie-review-in-i-play-rocky-a-middleweight-crowd-pleaser-about-the-making-of-a-classic/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-06T14:17:25+00:00",
+      "summary": "Peter Farrelly's new film, I Play Rocky, explores the improbable journey of Sylvester Stallone as he fought to star in the legendary boxing drama nearly fifty years ago.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26252577493700-1.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 5.0
+    },
+    {
+      "title": "Football: Capsule preview Cherokee Trail vs. Heritage, 5A 1st round",
+      "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-capsule-preview-cherokee-trail-vs-heritage-5a-1st-round/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-06T14:17:11+00:00",
+      "summary": "A capsule preview of the 2025 Class 5A state football 1st round playoff contest between Fountain-Fort Carson and Cherokee Trail scheduled for Nov. 6, 2026.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/WMFB.CT0140FB2300.jpg?fit=1024%2C757&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 5.0
+    },
+    {
+      "title": "Uninsured and flooded out, a Colorado man worries if life will be normal again",
+      "link": "https://sentinelcolorado.com/state-and-region-news/colorado-news-state-and-region-news/uninsured-and-flooded-out-a-colorado-man-worries-if-life-will-be-normal-again/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-06T14:01:59+00:00",
+      "summary": "We're in trouble, all of us are. Not just me, everybody, — Matthew Martinez",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26309739345134.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Steven Stamkos scores on OT power play as Predators beat Avalanche 3-2",
+      "link": "https://sentinelcolorado.com/sports/steven-stamkos-scores-on-ot-power-play-as-predators-beat-avalanche-3-2/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-06T13:57:59+00:00",
+      "summary": "Steven Stamkos scored a power-play goal in overtime to give the Nashville Predators a 3-2 victory.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26310194641060.jpg?fit=1024%2C670&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Toon in Thursday",
+      "link": "https://sentinelcolorado.com/opinion/toon-in-thursday-578/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-06T13:41:34+00:00",
+      "summary": "A look at the world on Friday through the eyes of political cartoonists from across the globe",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/political-establishment-vs-blue-tsunami.png?fit=600%2C424&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "REEL NEWS IN A RUSH: Top headlines in Friday’s NewsMinute video",
+      "link": "https://sentinelcolorado.com/nation-world/nation/reel-news-in-a-rush-top-headlines-in-fridays-newsminute-video-11/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-06T13:40:17+00:00",
       "summary": "From around the globe, a closer look at top stories you'll be talking about",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.20.00-AM.png?fit=737%2C433&ssl=1",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-6.38.39-AM.png?fit=543%2C329&ssl=1",
       "image_source": "Sentinel Colorado",
       "outlets": [
         "Sentinel Colorado"
       ],
       "coverage": [],
-      "score": 5.0
+      "score": 4.99
     },
     {
-      "title": "Denver weather: Afternoon sunshine and seasonal",
-      "link": "https://kdvr.com/weather/weather-forecast/denver-weather-afternoon-sunshine-and-seasonal-2/",
-      "source": "FOX31 Denver",
-      "published": "2026-11-05T14:20:39+00:00",
-      "summary": "After some morning clouds clear, there will be mainly sunny skies this afternoon as metro temperatures return to seasonal averages.",
-      "image": "https://kdvr.com/wp-content/uploads/sites/11/2026/11/Getty-Diamond-Hill-City.jpg?w=900",
-      "image_source": "FOX31 Denver",
-      "outlets": [
-        "FOX31 Denver"
-      ],
-      "coverage": [],
-      "score": 5.0
-    },
-    {
-      "title": "How Anthony Ippolito talked his way into playing Sylvester Stallone in ‘I Play Rocky’",
-      "link": "https://sentinelcolorado.com/uncategorized/how-anthony-ippolito-talked-his-way-into-playing-sylvester-stallone-in-i-play-rocky/",
+      "title": "Aurora Mayor Coffman pursues data center moratorium amid calls for new regs, tax-break ban",
+      "link": "https://sentinelcolorado.com/sentinel-biz-news/aurora-mayor-coffman-pursues-data-center-moratorium-amid-calls-for-new-regs-tax-break-ban/",
       "source": "Sentinel Colorado",
-      "published": "2026-11-05T14:18:20+00:00",
-      "summary": "Actor Anthony Ippolito landed the lead role in the film 'I Play Rocky' after sending an unsolicited audition tape to director Peter Farrelly, which depicts Sylvester Stallone's journey to write and star in the original 'Rocky'.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26252577509201.jpg?fit=1024%2C682&ssl=1",
+      "published": "2026-11-06T13:33:58+00:00",
+      "summary": "No decision has been made to relocate the project. — Mark Freeman",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-6.28.09-AM.png?fit=540%2C368&ssl=1",
       "image_source": "Sentinel Colorado",
       "outlets": [
         "Sentinel Colorado"
       ],
       "coverage": [],
-      "score": 5.0
+      "score": 4.99
     },
     {
-      "title": "Movie Review: In ‘Wild Horse Nine,’ death looms for a CIA goon",
-      "link": "https://sentinelcolorado.com/uncategorized/movie-review-in-wild-horse-nine-death-looms-for-a-cia-goon/",
+      "title": "Aurora lawmakers consider reducing and rearranging its city council committees",
+      "link": "https://sentinelcolorado.com/metro/aurora-lawmakers-consider-reducing-and-rearranging-its-city-council-committees/",
       "source": "Sentinel Colorado",
-      "published": "2026-11-05T14:17:56+00:00",
-      "summary": "Martin McDonagh's new film Wild Horse Nine, starring John Malkovich and Sam Rockwell, follows two CIA agents navigating mortality and political unrest during a 1973 trip to Easter Island.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26204461807167.jpg?fit=1024%2C682&ssl=1",
+      "published": "2026-11-06T13:23:59+00:00",
+      "summary": "Council is scheduled to discuss the new committees at its Nov. 9 study session.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-6.21.25-AM.png?fit=453%2C279&ssl=1",
       "image_source": "Sentinel Colorado",
       "outlets": [
         "Sentinel Colorado"
       ],
       "coverage": [],
-      "score": 5.0
+      "score": 4.99
     },
     {
-      "title": "Multiple flights in Europe again diverted after bomb threats deemed ‘malicious hoaxes’",
-      "link": "https://sentinelcolorado.com/a-town-magazine/travel/multiple-flights-in-europe-again-diverted-after-bomb-threats-deemed-malicious-hoaxes/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-05T14:16:53+00:00",
-      "summary": "Security checks on diverted Aer Lingus and Finnair aircraft revealed no hazardous or suspicious materials.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26309441173237.jpg?fit=1024%2C682&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 5.0
-    },
-    {
-      "title": "Tanker struck by projectiles in the Persian Gulf off Qatar, and other Mideast news",
-      "link": "https://sentinelcolorado.com/nation-world/nation/tanker-struck-by-projectiles-in-the-persian-gulf-off-qatar-and-other-mideast-news/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-05T14:15:35+00:00",
-      "summary": "Iranian and Omani foreign ministers held talks to resume navigation through the Strait of Hormuz.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26297341385583.jpg?fit=1024%2C682&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 5.0
-    },
-    {
-      "title": "Inflation, tariffs and a voter revolt: The midterm verdict on Trump’s economy",
-      "link": "https://sentinelcolorado.com/nation-world/nation/inflation-tariffs-and-a-voter-revolt-the-midterm-verdict-on-trumps-economy/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-05T14:14:35+00:00",
-      "summary": "A majority of voters expressed concern that the current economy disproportionately benefits wealthy individuals.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26308662693906.jpg?fit=1024%2C682&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 5.0
-    },
-    {
-      "title": "Jokic scores 32 in 3rd triple-double this season as Nuggets roll to 128-109 win over Raptors",
-      "link": "https://sentinelcolorado.com/sports/pro/nuggets/jokic-scores-32-in-3rd-triple-double-this-season-as-nuggets-roll-to-128-109-win-over-raptors/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-05T14:13:23+00:00",
-      "summary": "Nikola Jokic recorded 32 points, 11 assists, and 10 rebounds to lead the Denver Nuggets past the Toronto Raptors.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26309166074949.jpg?fit=1024%2C632&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 5.0
-    },
-    {
-      "title": "After taking control of Congress, Dems vow major probes into Trump’s ‘tentacles of corruption’",
-      "link": "https://sentinelcolorado.com/nation-world/nation/after-taking-control-of-congress-dems-vow-major-probes-into-trumps-tentacles-of-corruption/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-05T14:06:47+00:00",
-      "summary": "Pete Hegseth \"has no business being at the top of the Pentagon\" — Rep. Jason Crow",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26308641271482.jpg?fit=1024%2C682&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 5.0
-    },
-    {
-      "title": "Batman’s bike could be yours, if you have a spare $1.2 million",
-      "link": "https://krdo.com/news/2026/11/05/batmans-bike-could-be-yours-if-you-have-a-spare-1-2-million/",
+      "title": "Uruguay, el país más secular de América, espera al papa León XIV con pompa y honores",
+      "link": "https://krdo.com/news/2026/11/06/uruguay-el-pais-mas-secular-de-america-espera-al-papa-leon-xiv-con-pompa-y-honores/",
       "source": "KRDO",
-      "published": "2026-11-05T14:03:11+00:00",
-      "summary": "By Jack Guy (CNN) — Batman’s motorbike, known as the Batpod, is going under the hammer as part of a movie memorabilia auction, with an estimate of up to £900,000 ($1.2 million). The vehicle was used in Christopher Nolan movies “The Dark…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Her Princess Diana collection is built on manifestation. And a few re-mortgages",
-      "link": "https://krdo.com/news/2026/11/05/her-princess-diana-collection-is-built-on-manifestation-and-a-few-re-mortgages/",
-      "source": "KRDO",
-      "published": "2026-11-05T14:00:15+00:00",
-      "summary": "By Leah Dolan, CNN (CNN) — Renae Plant and her husband Livinio Stuyck were about to become restaurant investors. A local pizza place in their Los Angeles neighborhood had approached the couple, offering them the opportunity to own a small…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "La ola demócrata desata inquietud entre los republicanos por Samuel Alito y el futuro de la Corte Suprema",
-      "link": "https://krdo.com/news/2026/11/05/la-ola-democrata-desata-inquietud-entre-los-republicanos-por-samuel-alito-y-el-futuro-de-la-corte-suprema/",
-      "source": "KRDO",
-      "published": "2026-11-05T13:56:50+00:00",
-      "summary": "Por John Fritze, CNN La contundente victoria demócrata en las elecciones intermedias del martes provocó una inmediata sensación de inquietud entre los conservadores por el futuro de la Corte Suprema y una nueva ola de preocupación entre…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Día por día, así será el recorrido del papa León XIV por Latinoamérica",
-      "link": "https://krdo.com/news/2026/11/05/dia-por-dia-asi-sera-el-recorrido-del-papa-leon-xiv-por-latinoamerica/",
-      "source": "KRDO",
-      "published": "2026-11-05T13:53:10+00:00",
-      "summary": "Por Anabella González, CNN en Español Tres países de Latinoamérica cuentan las horas para la visita del papa León XIV, que este viernes comienza una gira por Uruguay, Argentina y Perú con visitas a distintas ciudades durante 11 días, en lo…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Republicans quickly turn against Pete Hegseth after midterms rout",
-      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/05/republicans-quickly-turn-against-pete-hegseth-after-midterms-rout/",
-      "source": "KRDO",
-      "published": "2026-11-05T13:52:47+00:00",
-      "summary": "By Adam Cancryn, Sarah Ferris, Zachary Cohen, Alayna Treene, CNN (CNN) — President Donald Trump may have made the decision to launch the war that tanked voters’ support for the GOP and dealt them a midterm shellacking. But the historic…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXcybzYybm8wMDA2M2I2dGxkMm95eTZo-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzJiY3luMDAwMHkyN3F0NXEzN2R4ZGk.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "EDITORIAL: Colorado and the nation need Medicaid, but state taxpayers alone can’t pay for it",
-      "link": "https://sentinelcolorado.com/opinion/editorial-colorado-and-the-nation-need-medicaid-but-state-taxpayers-alone-cant-pay-for-it/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-05T13:51:27+00:00",
-      "summary": "\"State Medicaid expenditures currently consume 40% of the budget, costing between $14 billion and $16 billion yearly\"",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP25315495754931.jpg?fit=1024%2C683&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Rescates y evacuaciones en curso ante un “evento de inundación catastrófica” en el norte de Georgia y el sur de Tennessee",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/05/rescates-y-evacuaciones-en-curso-ante-un-evento-de-inundacion-catastrofica-en-el-norte-de-georgia-y-el-sur-de-tennessee/",
-      "source": "KRDO",
-      "published": "2026-11-05T13:45:47+00:00",
-      "summary": "Por el meteorólogo Chris Dolce, CNN Se registran viviendas inundadas, así como rescates acuáticos y evacuaciones, mientras emergencias por inundaciones repentinas —el nivel más alto de alerta por inundaciones— afectan al norte de Georgia y…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Aurora seeks task force volunteers to advise city on new registration program to protect renters",
-      "link": "https://sentinelcolorado.com/metro/aurora-seeks-task-force-volunteers-to-advise-city-on-new-registration-program-to-protect-renters/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-05T13:30:24+00:00",
-      "summary": "City council approved a new rental registration program in June to enhance local building code enforcement.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2025/02/Closed-edge-1.jpg?fit=552%2C552&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Musk bet big on keeping Texas red. What happens to his business empire now?",
-      "link": "https://krdo.com/money/cnn-business-consumer/2026/11/05/musk-bet-big-on-keeping-texas-red-what-happens-to-his-business-empire-now/",
-      "source": "KRDO",
-      "published": "2026-11-05T13:20:58+00:00",
-      "summary": "By Chris Isidore, CNN (CNN) — Elon Musk poured nearly half a billion dollars into the midterms to support Republican candidates, most to help Ken Paxton defeat Democrat James Talarico in the Texas Senate race. Talarico won. But it was the…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXcyb3JyeTIwMDAxM2I2dGZuYXBrbml3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzJuajBkNTAwMjAyNm50MWVneTNqZDU.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Vance y DeSantis toman medidas rápidas tras desastrosas elecciones para los republicanos que redefinen la contienda de 2028",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/05/vance-y-desantis-toman-medidas-rapidas-tras-desastrosas-elecciones-para-los-republicanos-que-redefinen-la-contienda-de-2028/",
-      "source": "KRDO",
-      "published": "2026-11-05T12:59:57+00:00",
-      "summary": "Por Steve Contorno, CNN El camino que parecía tan sencillo para que el vicepresidente de EE.UU., J. D. Vance, sucediera al presidente Donald Trump de repente se ve mucho más turbio. La aplastante derrota republicana en las elecciones…",
+      "published": "2026-11-06T13:09:23+00:00",
+      "summary": "Por Darío Klein, CNN en Español Cuando León XIV pise por primera suelo latinoamericano como pontífice este viernes, lo hará en el país menos religioso de la región, que lo espera con toda la pompa y algunas polémicas políticas. Uruguay es…",
       "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
       "image_source": "KRDO",
       "outlets": [
@@ -549,158 +439,304 @@
       "score": 4.98
     },
     {
-      "title": "Water rescues, evacuations underway as ‘catastrophic flood event’ hits North Georgia and southern Tennessee",
-      "link": "https://krdo.com/cnn-weather-environment/2026/11/05/water-rescues-evacuations-underway-as-catastrophic-flood-event-hits-north-georgia-and-southern-tennessee/",
+      "title": "Fresh bomb threats hit European flights and media organizations — but mystery remains who is behind them",
+      "link": "https://krdo.com/news/national-world/cnn-world/2026/11/06/bomb-threats-have-disrupted-more-than-20-flights-across-europe-this-week-heres-what-we-know/",
       "source": "KRDO",
-      "published": "2026-11-05T12:51:29+00:00",
-      "summary": "By Meteorologist Chris Dolce, CNN (CNN) — Homes are flooded and water rescues and evacuations are in progress as flash flood emergencies — the highest level of flood warning — impact North Georgia and southern Tennessee. The flash flood…",
+      "published": "2026-11-06T13:08:46+00:00",
+      "summary": "By Sophie Tanno, CNN (CNN) — Dozens of flights and several media organizations across Europe this week have been impacted by a string of hoax bomb threats which have disrupted travel plans and left authorities scrambling to identify the…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXczbTdlZ2swMDVuMmVxY2V2dWE5OWxl-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzNtN2VnazAwNjIyZXFjNmdrb2U2YXU-scaled.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Longtime road & drainage issues east of Interstate 25 & Air Force Academy end with recent overnight paving work",
+      "link": "https://krdo.com/news/top-stories/2026/11/06/longtime-road-drainage-issues-east-of-interstate-25-air-force-academy-end-with-recent-overnight-paving-work/",
+      "source": "KRDO",
+      "published": "2026-11-06T13:00:32+00:00",
+      "summary": "COLORADO SPRINGS, Colo. (KRDO) -- It was the summer of 2024 when KRDO 13's The Road Warrior learned of complaints about potholes, crumbling pavement, and poor drainage at the intersection of North Gate Boulevard and Struthers Road.…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/Untitled-design-59.png",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "¿Qué es el “Decision Day” de la MLS y qué define este año?",
+      "link": "https://krdo.com/news/2026/11/06/que-es-el-decision-day-de-la-mls-y-que-define-este-ano/",
+      "source": "KRDO",
+      "published": "2026-11-06T13:00:15+00:00",
+      "summary": "Por Federico Leiva, CNN en Español Una sola jornada separa la temporada regular de los playoffs de la MLS. El ya tradicional “Decision Day” reunirá a los 30 equipos de la liga en 15 partidos el mismo día, y definirá el cuadro para la…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Meteorite found in the Sahara shows what Mars was like 4.1 billion years ago",
+      "link": "https://krdo.com/news/2026/11/06/meteorite-found-in-the-sahara-shows-what-mars-was-like-4-1-billion-years-ago/",
+      "source": "KRDO",
+      "published": "2026-11-06T13:00:15+00:00",
+      "summary": "By Jacopo Prisco, CNN (CNN) — Scientists have identified one of the oldest Martian rocks ever found on Earth — and it’s revealing new clues about the red planet’s earliest history, including evidence that water altered its crust at least…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Tracking a nice weekend ahead!",
+      "link": "https://krdo.com/news/2026/11/06/tracking-a-nice-weekend-ahead-2/",
+      "source": "KRDO",
+      "published": "2026-11-06T13:00:01+00:00",
+      "summary": "TODAY: Highs stay mild in the 50s in most lower-lying areas. Expect some incoming clouds as a few isolated snow showers pop off across the mountains later. WEEKEND: We're tracking a gorgeous weekend! Skies clear back out with dry…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/11.6.png",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "THANK YOU!! Our Season of Sharing Food Drive collects tens of thousands of pounds",
+      "link": "https://krdo.com/news/2026/11/06/thank-you-our-season-of-sharing-food-drive-collects-tens-of-thousands-of-pounds/",
+      "source": "KRDO",
+      "published": "2026-11-06T12:56:49+00:00",
+      "summary": "COLORADO SPRINGS, Colo. (KRDO) - Our viewers showed up in force Thursday at American Furniture Warehouse, where our crew collected tens of thousands of pounds of non-perishable food benefiting the Care and Share Food Bank. As of our 6 p.m.…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/Untitled-design-2026-11-06T055750.912.png",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Kenyan cult leader sentenced to 200 years in prison over the deaths of 190 children",
+      "link": "https://krdo.com/news/national-world/cnn-world/2026/11/06/kenyan-cult-leader-sentenced-to-200-years-in-prison-over-the-deaths-of-190-children/",
+      "source": "KRDO",
+      "published": "2026-11-06T12:54:56+00:00",
+      "summary": "By Nimi Princewill, CNN (CNN) — A Kenyan cult leader has been sentenced to 200 years in prison for the murder of 191 people, all but one of them children, in a campaign of abuse and forced fasting. Paul Mackenzie, founder of the Good News…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXc0cTVsa2IwMDAzM2I2dHl5bWZ4Mmdm-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzRxNDB2bzAwNWsyOHFsM2U3dzFnNGg.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Batman’s bike could be yours, if you have a spare $1.2 million",
+      "link": "https://krdo.com/entertainment/cnn-entertainment/2026/11/06/batmans-bike-could-be-yours-if-you-have-a-spare-1-2-million/",
+      "source": "KRDO",
+      "published": "2026-11-06T12:51:20+00:00",
+      "summary": "By Jack Guy (CNN) — Batman’s motorbike, known as the Batpod, is going under the hammer as part of a movie memorabilia auction, with an estimate of up to £900,000 ($1.2 million). The vehicle was used in Christopher Nolan movies “The Dark…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXczaTRqMGowMDAxM2I2dGhtanN5OHgy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzNlbTgwaTAwNXQyN3FtaGM0Z2Q3cXc-scaled.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "More than 40 pilot whales die in ‘distressing’ mass stranding on New Zealand coast",
+      "link": "https://krdo.com/news/national-world/cnn-world/2026/11/06/more-than-40-pilot-whales-die-in-distressing-mass-stranding-on-new-zealand-coast/",
+      "source": "KRDO",
+      "published": "2026-11-06T12:31:21+00:00",
+      "summary": "By Amarachi Orie, CNN (CNN) — More than 40 pilot whales have died on a New Zealand beach following a mass stranding that rescuers described as “difficult and distressing.” The pod of pilot whales was found stranded on the Ngawi coast near…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXc0dGgwaTMwMDAyM2I2dGNnNXNuZjdv-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzRyemdjczAwODAyOHA3NXNhajkzNzQ.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "El viaje del papa León XIV a América Latina lo lleva a más de 3.350 metros de altitud semanas después de su cirugía",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/06/el-viaje-del-papa-leon-xiv-a-america-latina-lo-lleva-a-mas-de-3-350-metros-de-altura-semanas-despues-de-su-cirugia/",
+      "source": "KRDO",
+      "published": "2026-11-06T12:27:39+00:00",
+      "summary": "Por Christopher Lamb, CNN Hace poco más de tres semanas, la visita más significativa del pontificado del papa León parecía estar en duda. La cirugía de cáncer de pulmón a la que se sometió el pontífice, de 71 años, llevó a algunos en el…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.97
+    },
+    {
+      "title": "Can diet and exercise reverse type 2 diabetes? What a new study found",
+      "link": "https://krdo.com/health/cnn-health/2026/11/06/can-diet-and-exercise-reverse-type-2-diabetes-what-a-new-study-found/",
+      "source": "KRDO",
+      "published": "2026-11-06T12:00:15+00:00",
+      "summary": "By Katia Hetter, CNN (CNN) — While an estimated 38 million Americans have type 2 diabetes, the condition is increasingly being diagnosed in younger adults. Without treatment, they face decades of elevated risk for complications like heart…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXcycGhreXEwMDAwM2I2dG1hdHYzN2lr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzI0a2RiNTAwNWEyY25yMWR2d2RuejU.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.97
+    },
+    {
+      "title": "2 of Colorado’s wolf packs are showing potential signs of a skin parasite — can the state diagnose and treat it?",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcnd2T19sRWVQNVNhaWlWckJTRHphQmtaWFBQb3JUWndKT2lvTXhNUjFrd2FSdnA5a3Nhbm05T3JXNm96ejF3c0dleWFZdUlWeFF4RE1XdHFCWkEtWmRxaVFncG04dzJhbGE3OExKcjhESkpSa3BtLXBrTlVaMk83UVczUTk5NHM?oc=5",
+      "source": "AspenTimes.com",
+      "published": "2026-11-06T12:00:00+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "AspenTimes.com"
+      ],
+      "coverage": [],
+      "score": 4.97
+    },
+    {
+      "title": "Storm shifts into East Coast after causing ‘catastrophic’ flooding in Georgia and Tennessee",
+      "link": "https://krdo.com/cnn-weather-environment/2026/11/06/water-rescues-evacuations-underway-as-catastrophic-flood-event-hits-north-georgia-and-southern-tennessee/",
+      "source": "KRDO",
+      "published": "2026-11-06T11:53:42+00:00",
+      "summary": "By Meteorologists Chris Dolce, and Mary Gilbert, and CNN’s Kate S. Petersen (CNN) — The first significant rainfall in weeks is falling along parts of the Northeast coast on Friday from the same storm that produced historic and catastrophic…",
       "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXczaTAzOWcwMDIwM2I2dGJwbzJwcDh2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzNnbjBxNTAwMHkyZG56NDk0cDJvNWk.jpg",
       "image_source": "KRDO",
       "outlets": [
         "KRDO"
       ],
       "coverage": [],
-      "score": 4.98
+      "score": 4.97
     },
     {
-      "title": "Trump y De la Espriella hacen causa común en una insólita lucha: los museos y el movimiento “woke”",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/05/trump-y-de-la-espriella-hacen-causa-comun-en-una-insolita-lucha-los-museos-y-el-movimiento-woke/",
+      "title": "Amenazas de bomba han afectado más de 20 vuelos en toda Europa esta semana. Esto sabemos sobre su origen y alcance",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/06/amenazas-de-bomba-han-afectado-mas-de-20-vuelos-en-toda-europa-esta-semana-esto-sabemos-sobre-su-origen-y-alcance/",
       "source": "KRDO",
-      "published": "2026-11-05T12:40:36+00:00",
-      "summary": "Análisis de Juan Carlos López, CNN en Español El Museo de Historia Estadounidense queda en la Alameda de Washington y es uno de los más visitados de la red Smithsonian; en 2025 recibió 1,8 millones de visitantes, solo superado por el del…",
+      "published": "2026-11-06T11:40:02+00:00",
+      "summary": "Por Sophie Tanno, CNN El tráfico aéreo europeo se vio afectado este viernes por tercer día consecutivo debido a falsas amenazas de bomba, las cuales han perturbado más de 20 vuelos en todo el continente y, en algunos casos, han obligado a…",
       "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
       "image_source": "KRDO",
       "outlets": [
         "KRDO"
       ],
       "coverage": [],
-      "score": 4.98
+      "score": 4.96
     },
     {
-      "title": "Voters weigh in on close race in Colorado's 4th Congressional District",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWJCa0JrZXVaLXpyeVA2MV94cEdDVXd3Q0FPTUptZE1uZThWRU15c3NEV3lNX2RLQ0hHTTAyWUhGVzZFdmdJYUpyd0puN05VUzZhNVJMUlFDcWx0WFpyUHBpaDhINzVlRV9PMWNvejRpWUVjOTBtSTJIVTM3bm1lMFBJbV9sTHV0QU5kMUJxZHpMWFhYMFIyaGFjX1FaaVVRd3VvLW9UQjFmZkk?oc=5",
-      "source": "Denver7",
-      "published": "2026-11-05T12:32:54+00:00",
+      "title": "Doomscrolling (and kids) destroyed my reading habit. Could the ‘Booker Challenge’ save it?",
+      "link": "https://krdo.com/entertainment/cnn-style/2026/11/06/doomscrolling-and-kids-destroyed-my-reading-habit-could-the-booker-challenge-save-it/",
+      "source": "KRDO",
+      "published": "2026-11-06T11:39:08+00:00",
+      "summary": "By Oscar Holland, CNN Novels are an endangered art form. In the early 1990s, more than 60% of American adults finished at least one book a year; today, fewer than half do. Gen Z often takes the heat for this decline, but we’re all to blame…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXcyeTE0dHYwMDFmM2I2dHVnd3pmZ3lu-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdXVwZzR2YTAwM2oyN3A2N2doODQ0MXc.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.96
+    },
+    {
+      "title": "Bolsas mundiales se tambalean tras la pérdida de US$ 2,5 billones en los mercados de EE.UU. por temores vinculados a la IA",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/06/los-mercados-asiaticos-siguen-el-desplome-de-ee-uu-ante-el-temor-por-la-inversion-en-ia/",
+      "source": "KRDO",
+      "published": "2026-11-06T11:19:10+00:00",
+      "summary": "Por Stephanie Yang, CNN Una oleada de ventas de acciones en el sector tecnológico se extendió el viernes por los mercados globales, provocando caídas en las bolsas de Asia y Europa, en medio de la creciente preocupación de que un Congreso…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.96
+    },
+    {
+      "title": "Comienza el juicio político contra Santiago Peña tras su renuncia en medio de la crisis por el cierre de Ueno Bank",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/06/santiago-pena-renuncia-a-la-presidencia-de-paraguay-en-medio-de-la-crisis-por-el-cierre-de-ueno-bank/",
+      "source": "KRDO",
+      "published": "2026-11-06T11:13:03+00:00",
+      "summary": "Por Gonzalo Zegarra, Mauricio Torres y Anabella González, CNN en Español El presidente de Paraguay, Santiago Peña, renunció a su cargo este jueves. Horas más tarde, en una sesión especial, el Congreso debía decidir si aceptaba o rechazaba…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.96
+    },
+    {
+      "title": "Wildlife officials release reports detailing Colorado wolf control as feds threaten to amend criteria for lethal removal",
+      "link": "https://coloradosun.com/2026/11/06/feds-threaten-amending-colorado-wolf-program/",
+      "source": "The Colorado Sun",
+      "published": "2026-11-06T11:10:00+00:00",
+      "summary": "The Department of the Interior released an order saying it would review Colorado Parks and Wildlife's use of the rule that allows it to kill wolves that have preyed on livestock",
+      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/08/AP20310797940569-scaled.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "The Colorado Sun",
+      "outlets": [
+        "The Colorado Sun"
+      ],
+      "coverage": [
+        {
+          "source": "The Colorado Sun",
+          "title": "Wildlife officials release reports detailing Colorado wolf control as feds threaten to amend criteria for lethal removal",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdlRuSGJ2YjQxLXVkekY2RUNoYTdONHdwZTN0Z0VhZ2piSDVqTDc4eF9fUlQ1SWlDRUcyX2xDZW9kLUlHZEUxUlZOeUFyNFoyRk9mLXBTTjZkWmFBdmlaQlMwWHNFcEF6MndORXNuX1AtQXY3akM5VmROZjh0RmVkUUFqTHAwY00?oc=5"
+        }
+      ],
+      "score": 4.96
+    },
+    {
+      "title": "Southern Colorado arts center offering new artist residency",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44N3draTJGWFpYckZucGpOZ202dEI4VGswTmlHT3dVUDg5czc5dGUycnEtY040aGFBVUZrMmkzeWdIdDVaODNmRkdOUkdTc2U4cnlQWGZMeWZ6RnhRdXAtNGYyaXhfY0lWWHpobUVvUXBnWVFWYjFkQ291NFI?oc=5",
+      "source": "Colorado Public Radio",
+      "published": "2026-11-06T11:05:11+00:00",
       "summary": "",
       "image": null,
       "image_source": null,
       "outlets": [
-        "Denver7"
+        "Colorado Public Radio"
       ],
       "coverage": [],
-      "score": 4.98
+      "score": 4.96
     },
     {
-      "title": "More Mountain Snow; Moisture stays West",
-      "link": "https://krdo.com/video/weather-video-2/2026/11/05/more-mountain-snow-moisture-stays-west/",
+      "title": "Wisconsin’s beloved American Birkebeiner Nordic ski race, which draws thousands, heads to Colorado",
+      "link": "https://coloradosun.com/2026/11/06/american-birkebeiner-nordict-race-snow-mountain-ranch-colorado/",
+      "source": "The Colorado Sun",
+      "published": "2026-11-06T11:05:00+00:00",
+      "summary": "The inaugural Birkie West Nordic Ski Race comes to the weather resilient Snow Mountain Ranch in Grand County Jan. 22-23, launching a tradition",
+      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/11/KOZLOWSKICO-10248.jpg?fit=1024%2C683&ssl=1",
+      "image_source": "The Colorado Sun",
+      "outlets": [
+        "The Colorado Sun"
+      ],
+      "coverage": [],
+      "score": 4.96
+    },
+    {
+      "title": "Melania Trump touts her diplomatic role as Russia-Ukraine peace eludes her husband",
+      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/06/melania-trump-touts-her-diplomatic-role-as-russia-ukraine-peace-eludes-her-husband/",
       "source": "KRDO",
-      "published": "2026-11-05T12:26:47+00:00",
-      "summary": "Today: High temperature in Colorado Springs will be 54 degrees and 57 in Pueblo. Winds throughout the day stay mild making it nice conditions for outdoor activities. Tomorrow: Spotty snow showers pops up over the San Juans and Northern…",
-      "image": "https://krdo.b-cdn.net/2025/12/12.29.png",
+      "published": "2026-11-06T11:02:31+00:00",
+      "summary": "By Betsy Klein, CNN (CNN) — First lady Melania Trump hosted representatives from the highest levels of Russia’s and Ukraine’s governments at the White House on Thursday to celebrate the conclusion of a localized ceasefire — a humanitarian…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXczc3RsbzcwMDAxM2I2dGMybzBuZHNp-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzNuanMwYTAwMXgyY3A2OXhqODZoYmo.jpg",
       "image_source": "KRDO",
       "outlets": [
         "KRDO"
       ],
       "coverage": [],
-      "score": 4.97
-    },
-    {
-      "title": "Cristiano Ronaldo retires from international soccer after a record-breaking career with Portugal",
-      "link": "https://krdo.com/sports/cnn-sports/2026/11/05/cristiano-ronaldo-retires-from-international-soccer/",
-      "source": "KRDO",
-      "published": "2026-11-05T12:25:23+00:00",
-      "summary": "By Ben Church, CNN (CNN) — Cristiano Ronaldo has announced his retirement from international soccer after a record-breaking career with Portugal. The 41-year-old broke the news on Thursday in a long video where he read a letter to his…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXczZXBtY24wMDBiM2I2dHlka3NhNGtt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzNlbThibjAwNmYyN3BhNzJuaWVwM3I.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.97
-    },
-    {
-      "title": "Bob the poet, meet Bob the priest: Pope Leo receives Bob Dylan at the Vatican",
-      "link": "https://krdo.com/news/national-world/cnn-world/2026/11/05/bob-the-poet-meet-bob-the-priest-pope-leo-receives-bob-dylan-at-the-vatican/",
-      "source": "KRDO",
-      "published": "2026-11-05T12:09:36+00:00",
-      "summary": "By Christopher Lamb, CNN Rome (CNN) — They are two of the world’s best-known Bobs from the US Midwest. Now Pope Leo XIV, whose birth name is Robert Prevost, and Bob Dylan, the legendary musician, have met in the Vatican. Leo and Dylan were…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXcyZzF0c2kwMDBqM2I2dGFzaDQ0YWIy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzJmejJicjAwMnEyOHFmZ3A3amZzbnI-scaled.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.97
-    },
-    {
-      "title": "Cristiano Ronaldo se retira de la selección de Portugal",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/05/cristiano-ronaldo-se-retira-del-futbol-internacional/",
-      "source": "KRDO",
-      "published": "2026-11-05T12:04:15+00:00",
-      "summary": "Por Ben Church, CNN Cristiano Ronaldo anunció su retirada de la selección de Portugal tras una trayectoria histórica con el equipo de su país. El jugador, de 41 años, dio la noticia este jueves en un largo video de Instagram en el que leyó…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.97
-    },
-    {
-      "title": "Kanye West anuncia concierto en Ciudad de México en 2027",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/05/kanye-west-anuncia-concierto-en-ciudad-de-mexico-en-2027/",
-      "source": "KRDO",
-      "published": "2026-11-05T12:03:48+00:00",
-      "summary": "Por Gonzalo Jiménez, CNN en Español El rapero Kanye West anunció el martes, a través de la cuenta oficial en Instgram de su gira, que ofrecerá un concierto en el Estadio Banorte (antiguo Estadio Azteca), en Ciudad de México, el 19 de marzo…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.97
-    },
-    {
-      "title": "Three charts that prove clean energy progress is really happening",
-      "link": "https://krdo.com/cnn-other/2026/11/05/three-charts-that-prove-clean-energy-progress-is-really-happening/",
-      "source": "KRDO",
-      "published": "2026-11-05T12:00:16+00:00",
-      "summary": "By Andrew Freedman, Sam Hart, CNN (CNN) — Renewable sources of energy are on the rise around the world, from solar panels paired with battery storage to rapid electric vehicle adoption. Countries are expanding the share of energy coming…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXcyaTJpazMwMDAwM2I2dzZ3MG5yam5l-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdmpsZWFnZjAwMHkyZW1lMDVhbDRuZHE-scaled.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.97
-    },
-    {
-      "title": "What to watch as the NFL season crosses the halfway point",
-      "link": "https://krdo.com/sports/cnn-sports/2026/11/05/what-to-watch-as-the-nfl-season-crosses-the-halfway-point/",
-      "source": "KRDO",
-      "published": "2026-11-05T12:00:15+00:00",
-      "summary": "By Andy Scholes, CNN (CNN) — We’ve crossed the halfway point of the NFL season, and the race to separate contenders from pretenders is heating up. From Joe Burrow taking his hot streak to Spain to Josh Allen facing Minnesota’s stingy…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.97
-    },
-    {
-      "title": "Mississippi Senate race turns into a nail-biter",
-      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/05/how-mississippi-became-an-unlikely-senate-battleground/",
-      "source": "KRDO",
-      "published": "2026-11-05T11:54:40+00:00",
-      "summary": "By Fredreka Schouten, Tierney Sneed, CNN (CNN) — An unpopular president, a charismatic Democratic candidate and an incumbent who has underperformed other Republicans in recent elections have turned a US Senate race in Mississippi into the…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXcya2VxdHEwMDAwM2I2dDg4azgzOTV3-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdzJrNmhjZTAwNnEyOXBiMWljdzZhbmk.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.97
+      "score": 4.96
     }
   ]
 }
