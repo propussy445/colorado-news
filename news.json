@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:26:54.034081+00:00",
+  "updated": "2026-11-21T14:14:03.145351+00:00",
   "days": 7,
   "sources_ok": [
     "The Colorado Sun (10)",
@@ -11,54 +11,6 @@
     "Google News (100)"
   ],
   "stories": [
-    {
-      "title": "U.S. judge says ICE ‘made a mockery of court orders’ in Colorado",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdi16cWdQWGFIQ0FmVmp6aDE2blVLZGxIalVDaFpaeVZZLVgyV2sxSzhCSDVVQ1FMeS1vSkx5NTV2OEZjWmpKNXpTSEt0dUFiakJPX3RCVVF3Qmo3QkxEMGxEOVk2eDB4UDBRUzUzcjJMUEI0SEowU0F0NnUyQi05ZW9NZHk2bFJvbXIzaEdzYzF3ZmtWeGlYUS13MlBoTXItVHc?oc=5",
-      "source": "NBC News",
-      "published": "2026-11-19T10:13:57+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "Colorado Public Radio",
-        "NBC News",
-        "Reuters"
-      ],
-      "coverage": [
-        {
-          "source": "Reuters",
-          "title": "US judge says ICE 'made a mockery of court orders' in Colorado",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN09sc1ptNUcwSDFKOUNOZnZvaDNFSlpOd29ZeUd0Nk9PUl9VOHFhc0tKYlFDeEhkZGZ3Vmdid01VbEJKMFV0RkVDZXBmb09vMGJ3VVlpUTNPZFFIcTFaSnJHVGI0MEhSZG01TFEzMVljamNFUkxFWU1fbXp5VG91RG5fc0R4WGx0RTFvZ2dOcU9fcnRjaTR2N2FkQmZBWFBaN1lCT3FTano?oc=5"
-        },
-        {
-          "source": "Colorado Public Radio",
-          "title": "ICE ‘made a mockery of court orders’ in Colorado, federal judge says",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11eWZUWkxNZldYZ0RXWkxYdWZtRHJaaXNFV1R1ODVBaUNJOFAyZDF5S2I1MXU3a0dmdFZ6b1JjTXlsUWFEWkhxaGVaZUFCbWNKcWpBOFZmM2ZJdmIycjlnVkxfNDBKZGpUU2lfeldqWFdYZkpsclAwc0FWV3k?oc=5"
-        }
-      ],
-      "score": 10.65
-    },
-    {
-      "title": "Cincinnati Zoo’s famed Fiona the hippo dies days after eating a visitor’s hat",
-      "link": "https://sentinelcolorado.com/a-town-magazine/celebrities/cincinnati-zoos-famed-fiona-the-hippo-dies-days-after-eating-a-visitors-hat/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-20T13:29:51+00:00",
-      "summary": "Veterinarians attempted to move the hat through her digestive tract using hydration and a vibration plate.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26320773799425-1.jpg?fit=1024%2C682&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "KRDO",
-        "Sentinel Colorado"
-      ],
-      "coverage": [
-        {
-          "source": "KRDO",
-          "title": "Globally adored hippo Fiona dies after eating a visitor’s hat at Cincinnati Zoo",
-          "link": "https://krdo.com/news/national-world/cnn-national/2026/11/19/globally-adored-hippo-fiona-dies-at-cincinnati-zoo/"
-        }
-      ],
-      "score": 7.99
-    },
     {
       "title": "Things to do in Denver this weekend, Nov. 20-22",
       "link": "https://denverite.com/2026/11/20/things-to-do-in-denver-this-weekend-nov-20-22-2026/",
@@ -78,28 +30,7 @@
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa0dzOU8yWmJtWi1wcEZqTkJpc3Jac28xaDZNLXQzWFpGa0t3MlQwQnBxcVFhUHp5dVdHTUZfQ09WU1FVRHJxS2NlekczcVZTQmFoRHd0V2psZ2RwSUpvQzYwVE1kbFdkVXl4UkRRUzctZjBPS3pTN013OUFlWk9majhTRE0yWkpvSE9Fek9hZkpnRi1LSHA5QTNLZ2pFd1pFRnpGSUFZZUo1c0pISDlrR1dOQUVXMHB5ZUJSVXZPM3ZUeTZGd1NOOGRjd2RnOHc1Y2ROT1MwUWNPcjkwZm5MYWpXSQ?oc=5"
         }
       ],
-      "score": 7.96
-    },
-    {
-      "title": "Body found in Park County believed to be missing Littleton city employee",
-      "link": "https://kdvr.com/news/local/body-found-in-park-county-believed-to-be-missing-littleton-city-employee/",
-      "source": "FOX31 Denver",
-      "published": "2026-11-20T04:30:37+00:00",
-      "summary": "The body of a person believed to be a Littleton city employee was found in Park County on Thursday night,",
-      "image": "https://kdvr.com/wp-content/uploads/sites/11/2026/11/Use_Descriptive_File_Name_5e4829.jpg?w=900",
-      "image_source": "FOX31 Denver",
-      "outlets": [
-        "CBS News",
-        "FOX31 Denver"
-      ],
-      "coverage": [
-        {
-          "source": "CBS News",
-          "title": "Body found, believed to be that of Littleton employee and police say no evidence of foul play",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmZrUXJqQWZURlo3WVM1MWxjZ0xPZVR4bHJXYjlMd3JQTnNQQngxd3BPdC1rZnpkNWNkTDdHZ09GWlNiZ1JYbFJPR1VZaklnekNVdjJDVVp5SlpadWpEMC1mUHZwQUppR090dmJpTlBQcGRXTmpxTzVkcXh1c0tJX25sTDhUMW8?oc=5"
-        }
-      ],
-      "score": 7.88
+      "score": 7.66
     },
     {
       "title": "Schools don’t have to check gender to comply with trans athlete measure, Colorado officials say",
@@ -120,447 +51,147 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFBkT0YyOEwwN0gzWXdUTTgyRTY5Wi1GRXZoUzJHcXVKVVpaNE16YzNoYVViQ3V5b18zYVJPMUVxUG42UmhwazhtbURaZkl1eDRFbWVGM2FkX3dTMF9aT3d3TEFmTkhQcVkyVk5weGoxQ2Jpc2ZZYnNhU3FwM1l2TlI1eG5UZm10eWctd1hwLVlqdnRZeUpwLW5Yd21ZbDlIZFRQU3JjR1dwSEVUNUE?oc=5"
         }
       ],
-      "score": 7.78
+      "score": 7.49
     },
     {
-      "title": "State submits bid to host new U.S. Space Academy in Colorado Springs",
-      "link": "https://coloradosun.com/2026/11/19/colorado-submits-us-space-academy-bid/",
-      "source": "The Colorado Sun",
-      "published": "2026-11-19T20:19:31+00:00",
-      "summary": "Colorado’s proposal calls for an $8.2 billion campus at Banning Lewis Ranch, with the first students starting classes at UCCS in 2028",
-      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/11/261023-GOVERNOR-JARED-POLIS-US-SPACE-FORCE-ACADEMY-DANBOYCE-01.webp?fit=1024%2C683&ssl=1",
-      "image_source": "The Colorado Sun",
-      "outlets": [
-        "Colorado Public Radio",
-        "The Colorado Sun"
-      ],
-      "coverage": [
-        {
-          "source": "Colorado Public Radio",
-          "title": "State submits bid to host new U.S. Space Academy in Colorado Springs",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNdDNyVGhwNWoybzN6VHBKczBfcEJwa3Nzdi1FbUlINlBGcG82VFduM2oyTzlPWEFCbnBfVFVZR0ZWY3VYQ0ZjQW1keS15NmlRUVJYMmV1NEpOV3VYcEhCb3h6QjZVUGd2Q2JCMGdJTXJuWDQ5b19MNA?oc=5"
-        }
-      ],
-      "score": 7.77
-    },
-    {
-      "title": "‘Critical roads’ damaged by southwest Colorado floods to reopen ahead of Thanksgiving",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ3l4YTBtOGZSd2d5QURsbHNmTHRKeWMzNnZFV1VBNER5eTNTTlcwVU9uaUxKTFppMllmczZaWG1rX19DRnFyZjBBdzh0ZVVmNWhhNTNjc1lYNVdhSC1LRTVKbE4xajVrUVdCMW9lOHA2MnphbHpkenJOdUUwdnI5MkcxUzd0Vjg2?oc=5",
-      "source": "The Denver Post",
-      "published": "2026-11-19T19:03:24+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "Colorado Department of Transportation (.gov)",
-        "The Denver Post"
-      ],
-      "coverage": [
-        {
-          "source": "Colorado Department of Transportation (.gov)",
-          "title": "CDOT on track to reopen critical roads ahead of Thanksgiving travel",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcDVUSDZDakwwQ1hHM2VzQWRPVEFJN1N6Tnd2S3FYcmtsQ3BBZnVBMDdNVTA4US03YnJfUUJLUGxZOHM0RW9wbWw3TGpLZlF0M2l4UGJfX3JWTi1YY1ZDdkV0NUctWHhRbFl1TFhoRGhCZkFPcGlINlpoRHNLZXRHRTRyRkVGeEdDSlRLcTlpNzlxNlpub1JrcjJpeFM1M1VMMjZ2WE55U0ZHRlI4TjJCeDRfOE82cEk?oc=5"
-        }
-      ],
-      "score": 7.76
-    },
-    {
-      "title": "Colorado’s Joe Neguse elected assistant speaker of U.S. House",
-      "link": "https://coloradonewsline.com/2026/11/18/colorado-joe-neguse-assistant-speaker/",
-      "source": "Colorado Newsline",
-      "published": "2026-11-18T18:19:18+00:00",
-      "summary": "U.S. Rep. Joe Neguse will be the next assistant speaker of the U.S. House of Representatives after Democrats unanimously elected him Wednesday. Neguse, of Lafayette, will be the fourth highest-ranking representative in the chamber’s…",
-      "image": "https://coloradonewsline.com/wp-content/uploads/2026/11/DSC01331-1024x683.jpeg",
-      "image_source": "Colorado Newsline",
-      "outlets": [
-        "CBS News",
-        "Colorado Newsline"
-      ],
-      "coverage": [
-        {
-          "source": "Colorado Newsline",
-          "title": "Colorado’s Joe Neguse elected assistant speaker of U.S. House",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNG04QkZFYkkyaWNRZ2plQ1pzVThwRm5EV1FOT3pfR3M5QU1fcjFHdkFOa1FMbnF4VXNKRzRaU05DV0lJNFRyajdFUFJnMDBoWkNGVEM5cHdFYTk2Y1JiTzlOcTh1S25wd3pfQU1wNnppR3JaMG9pZEthZXVyMDFMeENBZzM?oc=5"
-        },
-        {
-          "source": "CBS News",
-          "title": "Colorado Rep. Joe Neguse elected Assistant Speaker of the U.S. House",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTNmV0FPeG1uUTFqOUpIZXlvazBpSFNRNUxnZnR2cFBpaUJYZXpqTUxfX0Z0ejA2NjFONWdMWjd3MDNLVW1pd1hZaVViV3UtSXVMQXZxQ0FWR1lVSnVLeE1GNmJtNDVZdVlMMlZldVZ2TERZUFlnV1RGcVk5TElsUXdMU0ZVZkRiUzZzWkZ4anpfSGtLSzZlNi1hbE40am9feEo0VXpRVnlGUQ?oc=5"
-        }
-      ],
-      "score": 7.45
-    },
-    {
-      "title": "I-25 near Lone Tree partially closed after fuel tank detaches",
-      "link": "https://kdvr.com/news/local/i-25-near-lone-tree-partially-closed-after-fuel-tank-detaches/",
-      "source": "FOX31 Denver",
-      "published": "2026-11-20T14:20:00+00:00",
-      "summary": "Portions of Interstate 25 near Lone Tree are closed after a fuel tank detached from a commercial vehicle on Friday morning.",
-      "image": "https://kdvr.com/wp-content/uploads/sites/11/2026/11/Screenshot-2026-11-20-071837.png?w=900",
-      "image_source": "FOX31 Denver",
-      "outlets": [
-        "FOX31 Denver"
-      ],
-      "coverage": [],
-      "score": 5.0
-    },
-    {
-      "title": "A Somali American Uber driver was strangled and run over by a passenger, authorities say",
-      "link": "https://sentinelcolorado.com/uncategorized/a-somali-american-uber-driver-was-strangled-and-run-over-by-a-passenger-authorities-say/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-20T13:58:17+00:00",
-      "summary": "A 25-year-old man was charged with attempted murder and carjacking following a violent attack on a Somali American Uber driver near Minneapolis.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26321842545888.jpg?fit=819%2C1024&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Movie Review: Andrew Scott stuns in deeply moving biopic of a fallen actor in ‘Elsinore’",
-      "link": "https://sentinelcolorado.com/uncategorized/movie-review-andrew-scott-stuns-in-deeply-moving-biopic-of-a-fallen-actor-in-elsinore/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-20T13:57:38+00:00",
-      "summary": "The new film Elsinore depicts actor Ian Charleson's powerful 1989 performance as Hamlet while he was secretly battling AIDS.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26317692244058.jpg?fit=1024%2C648&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Claus Guth never thought he’d be a stage director. Now he’s among the world’s best",
-      "link": "https://sentinelcolorado.com/uncategorized/claus-guth-never-thought-hed-be-a-stage-director-now-hes-among-the-worlds-best/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-20T13:57:20+00:00",
-      "summary": "Claus Guth, recently named stage director of the year for 2025-26 by Opernwelt, continues his international career with current productions including Leoš Janáček's Jenůfa at the Metropolitan Opera.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26321493422937.jpg?fit=1024%2C705&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Toon in Friday",
-      "link": "https://sentinelcolorado.com/opinion/toon-in-friday-589/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-20T13:56:11+00:00",
-      "summary": "A look at the world on Friday through the eyes of political cartoonists from across the globe",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/trump-claims-kinship-with-allies.png?fit=600%2C450&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "REEL NEWS IN A RUSH: Top headlines in Friday’s NewsMinute video",
-      "link": "https://sentinelcolorado.com/nation-world/nation/reel-news-in-a-rush-top-headlines-in-fridays-newsminute-video-13/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-20T13:51:56+00:00",
-      "summary": "From around the globe, top stories in 60 seconds you'll be talking about today",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-6.50.56-AM.png?fit=760%2C444&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Advance Colorado sues to overturn tax overhaul Prop 87, saying schools won’t benefit",
-      "link": "https://sentinelcolorado.com/metro/advance-colorado-sues-to-overturn-tax-overhaul-prop-87-saying-schools-wont-benefit/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-20T13:47:01+00:00",
-      "summary": "\"It's clear that Amendment 87 should have been filed as two measures, not a single one\"",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2024/03/AP24061781601830.jpg?fit=1024%2C683&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "White House national cyber director being replaced as nation reels from tech outages",
-      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/20/white-house-national-cyber-director-being-replaced-as-nation-reels-from-tech-outages/",
+      "title": "Tracking first snow for Saturday",
+      "link": "https://krdo.com/video/weather-video-2/2026/11/21/tracking-first-snow-for-saturday/",
       "source": "KRDO",
-      "published": "2026-11-20T13:38:39+00:00",
-      "summary": "By Alejandra Jaramillo and Sean Lyngaas, CNN (CNN) — Sean Cairncross is being replaced as the White House national cyber director, administration officials confirmed on social media Thursday — a move which comes as the nation is still…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdvOWhxZncwMDA2M2I2dDFlMWY0NGZr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd285ZW13cjAwNTAyZG5pNWVkZDVycWc-scaled.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Anthropic’s IPO caps an explosive growth period for the AI startup, filled with contradictions",
-      "link": "https://sentinelcolorado.com/nation-world/nation/anthropics-ipo-caps-an-explosive-growth-period-for-the-ai-startup-filled-with-contradictions/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-20T13:37:09+00:00",
-      "summary": "Founders faced criticism over balancing their mission for public benefit with massive personal wealth gains.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26323561013974.jpg?fit=1024%2C682&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "NYC ‘will close Rikers Island once and for all’: Mamdani aims to shutter controversial jail in 2032",
-      "link": "https://krdo.com/news/national-world/cnn-national/2026/11/20/mamdani-pledged-to-work-toward-closing-rikers-island-by-2027-now-his-new-plan-aims-to-shutter-it-5-years-later/",
-      "source": "KRDO",
-      "published": "2026-11-20T13:36:36+00:00",
-      "summary": "By Gloria Pazmino, CNN (CNN) — New York City Mayor Zohran Mamdani released on Friday his administration’s plan to close the Rikers Island jail complex, proposing to delay the legally required closing deadline of 2027 for five more years…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdvZmlyOWcwMDAwM2I2dGV0YTZtMGw5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd29lcGh0NDAwNXoyZG5pMGt6bTB0MHo-scaled.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Asian American women feel the impact of Nvidia CEO affair scandal and ‘spy’ accusations",
-      "link": "https://sentinelcolorado.com/nation-world/nation/asian-american-women-feel-the-impact-of-nvidia-ceo-affair-scandal-and-spy-accusations/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-20T13:35:36+00:00",
-      "summary": "\"So few Asian women in general make it to the news for positive things. This is just going to continue to perpetuate negative stereotypes or biases for Asian women\"",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26315231483708-1.jpg?fit=1024%2C750&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "House Democrat investigates government agencies’ use of messaging apps to discuss official business",
-      "link": "https://sentinelcolorado.com/nation-world/nation/house-democrat-investigates-government-agencies-use-of-messaging-apps-to-discuss-official-business/",
-      "source": "Sentinel Colorado",
-      "published": "2026-11-20T13:28:41+00:00",
-      "summary": "Raskin expressed concern that Trump administration officials are using encrypted apps to circumvent record laws.",
-      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26295509829163.jpg?fit=1024%2C682&ssl=1",
-      "image_source": "Sentinel Colorado",
-      "outlets": [
-        "Sentinel Colorado"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Hours after Trump reportedly says ‘tired’ Putin is ready for a deal, Ukraine hit with massive strikes",
-      "link": "https://krdo.com/news/national-world/cnn-world/2026/11/20/hours-after-trump-putin-talks-russia-hits-ukraine-with-massive-deadly-attack/",
-      "source": "KRDO",
-      "published": "2026-11-20T13:22:55+00:00",
-      "summary": "By Daria Tarasova-Markina, Lex Harvey, Ivana Kottasová, CNN Kyiv (CNN) — Russia launched a deadly attack on Ukraine overnight into Friday, hours after President Vladimir Putin met his US and Chinese counterparts for historic trilateral…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdvbTg0cXYwMDA2M2I2dDg2eGN0OHFq-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd29rdmRkcDAwNnkyN3A5N3czdjU4NnM-scaled.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Más de una docena de personas son acusadas de integrar una red de robo a trenes que sustrajo mercancías por US$ 22 millones",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/20/mas-de-una-docena-de-personas-son-acusadas-de-integrar-una-red-de-robo-a-trenes-que-sustrajo-mercancias-por-us-22-millones/",
-      "source": "KRDO",
-      "published": "2026-11-20T13:16:04+00:00",
-      "summary": "Por Karina Tsui, CNN Catorce personas fueron acusadas el jueves de robar más de US$ 22,5 millones en bienes de consumo —incluyendo zapatillas deportivas y herramientas eléctricas— de decenas de trenes de carga en el sur de California a lo…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "Ten years on, is the UK preparing to undo Brexit?",
-      "link": "https://krdo.com/news/national-world/cnn-world/2026/11/20/ten-years-on-is-the-uk-preparing-to-undo-brexit/",
-      "source": "KRDO",
-      "published": "2026-11-20T13:15:41+00:00",
-      "summary": "By Issy Ronald, CNN (CNN) — Leaders from the United Kingdom and European Union have held what’s been hailed as a landmark summit, as British Prime Minister Andy Burnham pushes for a closer relationship with the bloc a decade after the…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdtOW04dWMwMDAxM2I2dDg0dGFxeHdt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd2FrZTViNDAwMHkyNnFxYWp1a2Fobms.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.99
-    },
-    {
-      "title": "La Casa Blanca reemplazará al director nacional de ciberseguridad en medio de una serie de fallas tecnológicas en EE.UU.",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/20/la-casa-blanca-reemplazara-al-director-nacional-de-ciberseguridad-en-medio-de-una-serie-de-fallas-tecnologicas-en-ee-uu/",
-      "source": "KRDO",
-      "published": "2026-11-20T13:10:59+00:00",
-      "summary": "Por Alejandra Jaramillo y Sean Lyngaas, CNN Sean Cairncross será reemplazado como director nacional de ciberseguridad de la Casa Blanca, confirmaron el jueves funcionarios de la administración a través de redes sociales, en momentos en que…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.98
-    },
-    {
-      "title": "The spectacular archaeological jewel seen only by a few handfuls of people",
-      "link": "https://krdo.com/entertainment/cnn-style/2026/11/20/the-hidden-eagles-nest-city-that-alexander-the-great-couldnt-conquer-2/",
-      "source": "KRDO",
-      "published": "2026-11-20T13:02:11+00:00",
-      "summary": "By Barry Neild, CNN Termessos, Turkey (CNN) — Alexander the Great tried to conquer Termessos but failed. Today, the incredible deserted ruins of this once-powerful city, perched like a fortified eagle’s nest high in the mountains of…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWZxeGhwZG4wMDY4MmNubzdpeDE1ZGxp-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZnF4aHBkbjAwNm4yY25vY2g5c2E3dmk.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.98
-    },
-    {
-      "title": "Friday brings changes — and solves a mystery — at four street project locations in Colorado Springs",
-      "link": "https://krdo.com/news/top-stories/2026/11/20/friday-brings-changes-and-solves-a-mystery-at-four-street-project-locations-in-colorado-springs/",
-      "source": "KRDO",
-      "published": "2026-11-20T12:59:15+00:00",
-      "summary": "Starting Friday, several road closures and reopenings are scheduled across Colorado Springs, including work on Cheyenne Road, South Academy Boulevard, and the Willwood Tunnel.",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/Untitled-design-69.png",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.98
-    },
-    {
-      "title": "“Marcar un límite”: los demócratas advierten al Gobierno de Trump sobre la supuesta destrucción de documentos",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/20/marcar-un-limite-los-democratas-advierten-al-gobierno-de-trump-sobre-la-supuesta-destruccion-de-documentos/",
-      "source": "KRDO",
-      "published": "2026-11-20T12:48:12+00:00",
-      "summary": "Por Annie Grayer, CNN Los demócratas y la Casa Blanca ya están enfrentados por la supuesta destrucción de documentos, y el partido de la oposición ni siquiera ha tomado el control del Congreso todavía. Los legisladores e investigadores…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.98
-    },
-    {
-      "title": "Bukele presentó su candidatura presidencial: este fue el recorrido para llegar a su nueva postulación",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/20/bukele-presento-su-candidatura-presidencial-este-fue-el-recorrido-para-llegar-a-su-nueva-postulacion/",
-      "source": "KRDO",
-      "published": "2026-11-20T12:42:28+00:00",
-      "summary": "Por Merlin Delcid, CNN en Español Horas antes de que venciera el plazo para la inscripción de candidaturas a la presidencia y vicepresidencia de El Salvador, Nayib Bukele y Félix Ulloa se inscribieron para aspirar a un tercer mandato en El…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.98
-    },
-    {
-      "title": "Christmas cheer takes over ‘Holiday Home Tour’ in Monument, benefiting local nonprofit",
-      "link": "https://krdo.com/news/2026/11/20/christmas-cheer-takes-over-holiday-home-tour-in-monument-benefiting-local-nonprofit/",
-      "source": "KRDO",
-      "published": "2026-11-20T12:36:32+00:00",
-      "summary": "MONUMENT, Colo. (KRDO) - The \"Joy of the Season\" Holiday Home Tour returns to Monument Friday with five professionally decorated homes that perfectly reflect Colorado Christmas cheer. The tour is the largest fundraiser for the Tri-Lakes…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-20T053409.588.png",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.98
-    },
-    {
-      "title": "Horas después de que Trump diga que un Putin “cansado” está dispuesto a llegar a un acuerdo, Ucrania recibe un ataque masivo",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/20/horas-despues-de-las-conversaciones-entre-trump-y-putin-rusia-ataca-ucrania-con-un-bombardeo-masivo-y-mortal/",
-      "source": "KRDO",
-      "published": "2026-11-20T12:35:15+00:00",
-      "summary": "Por Daria Tarasova-Markina, Lex Harvey y Ivana Kottasová, CNN Rusia lanzó un ataque masivo y letal contra Ucrania durante la madrugada del viernes, horas después de que el presidente Vladimir Putin se reuniera con sus homólogos de EE.UU. y…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.98
-    },
-    {
-      "title": "Mamdani se había comprometido a trabajar para lograr el cierre de Rikers Island para 2027. Su nuevo plan apunta a 2032",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/20/mamdani-se-habia-comprometido-a-trabajar-para-lograr-el-cierre-de-rikers-island-para-2027-su-nuevo-plan-apunta-a-2032/",
-      "source": "KRDO",
-      "published": "2026-11-20T12:34:50+00:00",
-      "summary": "Por Gloria Pazmino, CNN El alcalde de la ciudad de Nueva York, Zohran Mamdani, presentó el viernes el plan de su administración para cerrar Rikers Island. La propuesta contempla posponer cinco años más la fecha límite de cierre, fijada…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.98
-    },
-    {
-      "title": "GOP leaders fume after members who lost reelection are no-shows",
-      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/20/republicans-who-lost-reelection-arent-showing-up-to-vote-party-leaders-are-fuming/",
-      "source": "KRDO",
-      "published": "2026-11-20T12:25:44+00:00",
-      "summary": "By Sarah Ferris, CNN (CNN) — In one of Republicans’ final weeks in power, GOP leaders couldn’t convince enough of their members to come back to Washington to actually vote on their own bills — and Rep. Greg Murphy was furious. Murphy, who…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdueHhmYngwMDAwM2I2dG1yaGtyaGo5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd252dmwzZjAwMHkyZXAwNXNldjI3N2U-scaled.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.97
-    },
-    {
-      "title": "Tracking a chance to get some weekend snow",
-      "link": "https://krdo.com/video/weather-video-2/2026/11/20/tracking-a-chance-to-get-some-weekend-snow/",
-      "source": "KRDO",
-      "published": "2026-11-20T12:15:48+00:00",
-      "summary": "Today: We're tracking a very windy Friday. Gusts will be 20-30 mph throughout the day. The southern Sangre De Cristo Mountains are under a High Wind Warning until 4 pm. Wind gusts for the peak mountain areas could get up to 60-70 mph.…",
+      "published": "2026-11-21T12:57:13+00:00",
+      "summary": "Today: We're tracking snow showers throughout Saturday. Widespread snow impacts Douglas County around 14 pm. Woodland Park and Teller County get their first snow around that same timeframe. Colorado Springs will likely get light snow…",
       "image": "https://krdo.b-cdn.net/2026/05/5.4.png",
       "image_source": "KRDO",
       "outlets": [
         "KRDO"
       ],
       "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Nayib Bukele le prometió a Haití un “triunfo”. ¿Están cumpliendo sus fuerzas?",
+      "link": "https://krdo.com/news/2026/11/21/nayib-bukele-le-prometio-a-haiti-un-triunfo-estan-cumpliendo-sus-fuerzas/",
+      "source": "KRDO",
+      "published": "2026-11-21T12:25:01+00:00",
+      "summary": "Análisis por Caitlin Hu, CNN Robots armados avanzando por un callejón oscuro. El resplandor de un cohete lanzado desde un helicóptero. La mansión de un jefe de pandilla derrumbándose bajo el sol. Miles de soldados salvadoreños…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Judge halts Army’s plan to detonate 5 tons of bomb-making material as Iowa residents worry about lead exposure",
+      "link": "https://krdo.com/news/national-world/cnn-national/2026/11/20/army-plans-to-detonate-5-tons-of-bomb-making-material-as-iowa-residents-worry-about-lead-exposure/",
+      "source": "KRDO",
+      "published": "2026-11-21T02:17:09+00:00",
+      "summary": "By Taylor Romine, Holly Yan, Julia Vargas Jones, Eduardo Cuevas, CNN (CNN) — A federal judge has ordered the US Army to pause its plans to detonate five tons of lead azide on Monday after environmental activists filed a lawsuit expressing…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdwNzNudzEwMDAwM2I2c2dsYzlmMWQw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd29hM2FjYjAwNDkyOHA0YXByaDJ1eHk-scaled.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [
+        {
+          "source": "KRDO",
+          "title": "Fears about toxic lead dust spur battle over US Army plan to detonate bomb-making material in Iowa. Here’s what we know",
+          "link": "https://krdo.com/news/national-world/cnn-national/2026/11/21/heres-what-we-know-about-the-armys-planned-detonation-in-iowa-after-a-judge-ordered-temporary-pause/"
+        }
+      ],
+      "score": 4.98
+    },
+    {
+      "title": "Two sisters checked into an English B&B. The trouble started when the key broke in the lock",
+      "link": "https://krdo.com/entertainment/cnn-style/2026/11/21/two-sisters-checked-into-an-english-bb-the-trouble-started-when-the-key-broke-in-the-lock/",
+      "source": "KRDO",
+      "published": "2026-11-21T12:00:15+00:00",
+      "summary": "By Maureen O’Hare and Jeanne Bonner, CNN (CNN) — In our roundup of travel stories this week: An American artist who paints Paris, clay tablets that illuminate life centuries ago, a “rescue” at a country inn, plus another CNN Postcard. An…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
       "score": 4.97
     },
     {
-      "title": "Anaheim Ducks - Colorado Avalanche - Nov 19, 2026",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1weTdXZVpZbmQyemJwS2FYVGJsNzAxSFpqWWhyWXBrbTlpZm9QakVUOVZPR1dFaTFTUHZ6d0Y4UVlJN0h6b3hnb2hudW1iYkY3cWNhTVZud0xaU00yMk5BUzZpQ1RBb21WOEM1M3VtR2c?oc=5",
-      "source": "NHL.com",
-      "published": "2026-11-20T11:56:18+00:00",
+      "title": "Earth has a new temporary ‘mini-moon’",
+      "link": "https://krdo.com/cnn-other/2026/11/21/earth-has-a-new-temporary-mini-moon/",
+      "source": "KRDO",
+      "published": "2026-11-21T11:30:16+00:00",
+      "summary": "By Jacopo Prisco, CNN (CNN) — Earth is currently hosting a second moon. Our planet’s gravity captured the tiny asteroid in April. This temporary “mini-moon” — about 2 meters (6 feet) in diameter — will stick around until early December,…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.97
+    },
+    {
+      "title": "Family member say something rude? Here’s what to say back, according to experts",
+      "link": "https://krdo.com/news/2026/11/21/what-to-say-when-someone-lobs-a-horrible-comment-your-way-over-holiday-dinner-according-to-experts-2/",
+      "source": "KRDO",
+      "published": "2026-11-21T11:30:16+00:00",
+      "summary": "By Madeline Holcombe, CNN (CNN) — The table is set, friends and family draw near, and you already know what comments or questions are going to come your way. Maybe the remarks are about food, your weight, money, relationships, career or…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.97
+    },
+    {
+      "title": "This Thanksgiving, make your guests grateful for your superb hosting skills",
+      "link": "https://krdo.com/health/cnn-health/2026/11/21/as-halloweekend-kicks-off-the-holidays-the-first-thing-a-good-party-host-should-do-is-read-this/",
+      "source": "KRDO",
+      "published": "2026-11-21T11:30:15+00:00",
+      "summary": "By Kristen Rogers, CNN (CNN) — For party-hosting vets and newbies, Thanksgiving is one of the biggest days of the most wonderful time of the year. But will your planning and execution skills leave your guests grateful, or aghast? “I’ve had…",
+      "image": "https://krdo.com/wp-content/uploads/2026/10/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXZqdnpjZDYwMDAxM2I2c2Y1MnZvNm45-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdXBwNWVpYzAwMXgyN3FvZWZjbThhNHI.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.97
+    },
+    {
+      "title": "Gen Z are protesting across 25 European countries – why?",
+      "link": "https://krdo.com/news/national-world/cnn-world/2026/11/21/youth-led-strikes-sweep-europe-as-students-protest-rising-cost-of-living-and-war/",
+      "source": "KRDO",
+      "published": "2026-11-21T11:25:25+00:00",
+      "summary": "By Sana Noor Haq, CNN (CNN) — Another day, another sea of placards expected to spill out onto Europe’s streets. Protests are set to continue on Saturday after tens of thousands filled the continent’s cities on Friday in a youth-led day of…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdvdHFuNjQwMDAxM2I2dG90NmR4MDM2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd290aHVzNjAwMXcyN250MmpocmhudGs.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.96
+    },
+    {
+      "title": "No. 12 TIgers Fall to No. 18 Miami",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZDIyN252dDNjMTdhUlk2UVFLVUZOYmMwNk1QWGlfYU5SMUVZZ3RzSHYxQnZUbHRaXzBDaU1VRGsyVzRuSnAwajFBVTBINXY3MDE4V3VJUFhJd0ZGSUVqUWxXQ0FET3lJajAyR1pxTG5GR2YxWVB4U2o0UDRUSmNBWlZJWVN3RXZVZUh0WUFreW8wMWk0?oc=5",
+      "source": "Colorado College Athletics",
+      "published": "2026-11-21T11:15:00+00:00",
       "summary": "",
       "image": null,
       "image_source": null,
       "outlets": [
-        "NHL.com"
+        "Colorado College Athletics"
       ],
       "coverage": [],
-      "score": 4.97
+      "score": 4.96
     },
     {
-      "title": "More than a dozen charged in train heist ring that stole $22 million in goods",
-      "link": "https://krdo.com/news/national-world/cnn-national/2026/11/20/more-than-a-dozen-charged-in-train-heist-ring-that-stole-22-million-in-goods/",
+      "title": "Capturan en México a cabecilla de un cártel que figuraba en la lista de los más buscados del FBI, según informes",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/21/capturan-en-mexico-a-cabecilla-de-un-cartel-que-figuraba-en-la-lista-de-los-mas-buscados-del-fbi-segun-informes/",
       "source": "KRDO",
-      "published": "2026-11-20T11:34:01+00:00",
-      "summary": "By Karina Tsui, CNN (CNN) — Fourteen people were charged Thursday with stealing more than $22.5 million in consumer goods, including sneakers and power tools, from dozens of freight trains across Southern California over two years,…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdvdnd4anMwMDA3M2I2dDdjaWtheW5l-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd29zZWludTAwM3kyN28yZWg4cTd4d2g.jpg",
+      "published": "2026-11-21T11:06:55+00:00",
+      "summary": "Por Laura Sharman, Diego Mendoza Diaz, Isaac Yee y Fidel Gutiérrez, CNN El Ejército mexicano capturó a un presunto narcotraficante que figuraba entre los 10 fugitivos más buscados por el FBI, lo que provocó violentos intercambios de…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
       "image_source": "KRDO",
       "outlets": [
         "KRDO"
@@ -569,12 +200,12 @@
       "score": 4.96
     },
     {
-      "title": "In historic first, UN top court rules a country committed genocide",
-      "link": "https://krdo.com/news/national-world/cnn-world/2026/11/20/un-top-court-finds-myanmar-guilty-of-committing-genocide-against-rohingya-minority/",
+      "title": "Cartel kingpin on FBI’s most wanted list captured in dramatic Mexican military operation",
+      "link": "https://krdo.com/news/national-world/cnn-world/2026/11/21/cartel-kingpin-on-fbis-most-wanted-list-reportedly-captured-in-dramatic-mexican-military-operation/",
       "source": "KRDO",
-      "published": "2026-11-20T11:28:21+00:00",
-      "summary": "By Helen Regan, CNN (CNN) — Myanmar committed genocide against the country’s long-persecuted Rohingya minority, the United Nations’ top court found Thursday, an unprecedented ruling that survivors of the atrocities have waited almost a…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXduM2hmZGcwMDA3M2I2dDRpYW5nZXpr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd24zZnAzYTAwMnAyOHBiNDUwNGZ5aW0-scaled.jpg",
+      "published": "2026-11-21T11:01:55+00:00",
+      "summary": "Laura Sharman, Diego Mendoza, Isaac Yee and Fidel Gutierrez (CNN) — Mexico’s military captured an alleged drug lord listed among the FBI’s 10 most wanted fugitives, sparking violent exchanges of gunfire in Sinaloa state on Friday that sent…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
       "image_source": "KRDO",
       "outlets": [
         "KRDO"
@@ -583,40 +214,12 @@
       "score": 4.96
     },
     {
-      "title": "Older people with religious or spiritual beliefs enjoy better quality of life, study suggests",
-      "link": "https://krdo.com/health/cnn-health/2026/11/20/older-people-with-religious-or-spiritual-beliefs-enjoy-better-quality-of-life-study-suggests/",
-      "source": "KRDO",
-      "published": "2026-11-20T11:13:19+00:00",
-      "summary": "By Amarachi Orie, CNN (CNN) — Older adults who are religious or spiritual enjoy a better quality of life than those without faith in a higher power, a study of more than 5,000 people has found. Public health researchers at the University…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdmNWNud3YwMDAwM2I2dDJqYnZhMnls-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd2V6dnQ4ZTAwMXcyOHA0YzI2a2J2Z3o.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.96
-    },
-    {
-      "title": "40% more Colorado households need help with energy bills. State regulators open probe of soaring shutoffs.",
-      "link": "https://coloradosun.com/2026/11/20/utility-bills-gas-electricity-energy-outreach-colorado-puc-probe/",
-      "source": "The Colorado Sun",
-      "published": "2026-11-20T11:06:00+00:00",
-      "summary": "Energy Outreach Colorado pays about $1M a week to help households that are $750 behind on their utility bills on average.",
-      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/Xcel-Presser-01.jpg?fit=1024%2C683&ssl=1",
-      "image_source": "The Colorado Sun",
-      "outlets": [
-        "The Colorado Sun"
-      ],
-      "coverage": [],
-      "score": 4.96
-    },
-    {
-      "title": "GAO prods ICE for new immigration detention plans",
-      "link": "https://coloradonewsline.com/2026/11/20/repub/new-immigration-detention-plans/",
+      "title": "National outages, emergency alerts become fodder for doomsday conspiracy theories",
+      "link": "https://coloradonewsline.com/2026/11/21/repub/fodder-doomsday-conspiracy-theories/",
       "source": "Colorado Newsline",
-      "published": "2026-11-20T11:00:19+00:00",
-      "summary": "The nonpartisan Government Accountability Office urged federal immigration authorities to plan immigration detention costs more carefully to avoid more wasted taxpayer funds, in a new report released Thursday. Immigration and Customs…",
-      "image": "https://coloradonewsline.com/wp-content/uploads/2026/11/roxbury-ice-1024x6831794935368-1.jpg",
+      "published": "2026-11-21T11:00:34+00:00",
+      "summary": "Stock up on food and medicine. Fill containers with water. Prepare to live off the grid for at least 90 days. Those were among the warnings circulating on social media in recent weeks, as online posts predicted a looming national…",
+      "image": "https://coloradonewsline.com/wp-content/uploads/2026/11/GettyImages-2269432681.jpg",
       "image_source": "Colorado Newsline",
       "outlets": [
         "Colorado Newsline"
@@ -625,18 +228,380 @@
       "score": 4.96
     },
     {
-      "title": "Prosecuting Comey remains at the center of Trump DOJ’s legal priorities",
-      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/20/prosecuting-comey-remains-at-the-center-of-trump-dojs-legal-priorities/",
+      "title": "A capsizing cruise ship and a gutsy risk: How a quick-thinking police chief turned a looming tragedy into a miracle",
+      "link": "https://krdo.com/news/national-world/cnn-national/2026/11/21/a-capsizing-cruise-ship-and-a-gutsy-risk-how-a-quick-thinking-police-chief-turned-a-looming-tragedy-into-a-miracle/",
       "source": "KRDO",
-      "published": "2026-11-20T11:00:15+00:00",
-      "summary": "By Katelyn Polantz, CNN (CNN) — The three attempts to criminally charge former FBI Director James Comey were only the beginning. Over the past week, several government proceedings have shined a light on the outsize reach of the Comey cases…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdud3lud24wMDAwM2I2dG9odHJsdzgz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd250Y2p3MzAwMHkyZHAxZWNqZDVsY2c.jpg",
+      "published": "2026-11-21T11:00:17+00:00",
+      "summary": "By Taylor Romine, CNN (CNN) — Melanie Montroll had just grabbed a plate of food at the Thanksgiving potluck when she got the call. She and her colleagues at the New Orleans Harbor Police Department carved 45 minutes out of their busy…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
       "image_source": "KRDO",
       "outlets": [
         "KRDO"
       ],
       "coverage": [],
       "score": 4.96
+    },
+    {
+      "title": "How a young couple can become multimillionaires by retirement age, according to an expert",
+      "link": "https://krdo.com/money/cnn-business-consumer/2026/11/21/how-a-young-couple-can-become-multimillionaires-by-retirement-age-according-to-an-expert/",
+      "source": "KRDO",
+      "published": "2026-11-21T11:00:16+00:00",
+      "summary": "By Jeanne Sahadi, CNN (CNN) — When you have decades to make money and save, achieving long-term financial goals is certainly possible with a little consistency and strategy. In this week’s Ask the Expert, certified financial planner…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.96
+    },
+    {
+      "title": "Tennis coach takes on more work and cuts spending after expert advice",
+      "link": "https://krdo.com/money/cnn-business-consumer/2026/11/21/tennis-coach-takes-on-more-work-and-cuts-spending-after-expert-advice/",
+      "source": "KRDO",
+      "published": "2026-11-21T11:00:16+00:00",
+      "summary": "By Jeanne Sahadi, CNN (CNN) — The last time CNN checked in with Savings Challenge participant Jeff Kizer, a 57-year-old math teacher and tennis coach, he was relieved to see that certified financial planner Craig Toberman was able to map…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.96
+    },
+    {
+      "title": "Your 401(k) is full of AI. How to deal with the volatility",
+      "link": "https://krdo.com/money/cnn-business-consumer/2026/11/21/your-401k-is-full-of-ai-how-to-deal-with-the-volatility/",
+      "source": "KRDO",
+      "published": "2026-11-21T11:00:15+00:00",
+      "summary": "By John Towfighi, CNN New York (CNN) — The S&P 500 shed $5.6 trillion in market value this week and closed down more than 10% from its record high in early October. By the end of Friday’s session, AI stocks, which are a major part of the…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.96
+    },
+    {
+      "title": "What’s Working: Why a Thanksgiving meal costs less in Colorado than the rest of the nation this year",
+      "link": "https://coloradosun.com/2026/11/21/thanksgiving-meal-inflation-turkey-sales-prices-colorado/",
+      "source": "The Colorado Sun",
+      "published": "2026-11-21T11:00:00+00:00",
+      "summary": "Credit turkey deals but there’s more to it. Farm Bureau’s annual survey shows costs rose 6% nationwide. Plus: Thanksgiving travel numbers, Colorado unemployment hits 4.4% and more!",
+      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/11/11192022-Credit_NationalTurkeyFederation.png?fit=900%2C507&ssl=1",
+      "image_source": "The Colorado Sun",
+      "outlets": [
+        "The Colorado Sun"
+      ],
+      "coverage": [
+        {
+          "source": "The Colorado Sun",
+          "title": "What’s Working: Why a Thanksgiving meal costs less in Colorado than the rest of the nation this year",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnptMUdfWVVKTXpSeWZJRDE5aGZlOXRvUGVocW9TMFFldnQ1NFRsNkQ1LWVtZ0cyRGdfczYtcTRxMXJkVUNrei1xNXpoek8wRUQwWFlFVzIwb0VROVZBcVUzdlVvQlltbWJ2eFVmTi1LWkx0a0lYOFNwMGtOTWpSVE5YVHVzajFaMkFBc24xTmxLMlNDQ0E4?oc=5"
+        }
+      ],
+      "score": 4.96
+    },
+    {
+      "title": "Melania Trump busca la “soledad” en una nueva serie documental",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/21/melania-trump-busca-la-soledad-en-una-nueva-serie-documental/",
+      "source": "KRDO",
+      "published": "2026-11-21T10:14:16+00:00",
+      "summary": "Por Betsy Klein, CNN La docuserie de Melania Trump, estrenada por Amazon el viernes, revela a una primera dama introvertida que comparte nuevas perspectivas sobre su matrimonio y sus prioridades. Los dos episodios, que complementan el…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.95
+    },
+    {
+      "title": "Colorado Advances To Second Round In NCAA Championship",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYllzeEFjMXJXSEpPSV9nZ09WVEF4T004TXlINUVzMWZVSG4zSVY5WE5PbGxVWjhuT1FDU2pDR08wSjN1NEZ4ZWFKb254cllrWE9SdHFJcjRheFpJY0IxbkppOHBPcmpsMUIxaUM4MzJuSnVfN3AweVc1TkJyWjkyQV9GUVk1SlZESnBhc3BtZUVraExNZWdWdl9xOHV0UQ?oc=5",
+      "source": "University of Colorado Athletics",
+      "published": "2026-11-21T09:52:24+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "University of Colorado Athletics"
+      ],
+      "coverage": [],
+      "score": 4.95
+    },
+    {
+      "title": "Essay: This holiday season, Colorado moms need to put down the camera and get in the picture",
+      "link": "https://coloradosun.com/2026/11/21/opinion-holiday-moms-photographs-colorado-2/",
+      "source": "The Colorado Sun",
+      "published": "2026-11-21T08:30:00+00:00",
+      "summary": "As we celebrate in the coming weeks, we need to make sure the women who are the glue to these gatherings remain in focus",
+      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/11/christine-sig.png?fit=1024%2C700&ssl=1",
+      "image_source": "The Colorado Sun",
+      "outlets": [
+        "The Colorado Sun"
+      ],
+      "coverage": [
+        {
+          "source": "The Colorado Sun",
+          "title": "Essay: This holiday season, Colorado moms need to put down the camera and get in the picture",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTmo0dEdoSk9RRk5Da09CM3pYZEd1N2NsUk5oV19YdlQ4UDNHaDhsOGpVM3hxNmk1dFlYZlBCUFU2UmVCSkZBaHoyc3RRa0xDQVVsWWx4bVFiNlBLck1RT0F2RTMtblVXelRBdVVaNHdIVy0wX2lRWWhPaVE2NWludHhuU2piQQ?oc=5"
+        }
+      ],
+      "score": 4.93
+    },
+    {
+      "title": "Investigación del DOJ sobre la contienda por el Senado en Alaska se centra en la campaña de Peltola y operadores demócratas",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/21/investigacion-del-doj-sobre-la-contienda-por-el-senado-en-alaska-se-centra-en-la-campana-de-peltola-y-operadores-democratas/",
+      "source": "KRDO",
+      "published": "2026-11-21T08:07:45+00:00",
+      "summary": "Por Hannah Rabinowitz y Evan Perez, CNN Ahora que se ha anunciado el resultado de las elecciones al Senado de Alaska, el Departamento de Justicia de EE.UU. está centrando su atención en la campaña de la senadora electa Mary Peltola como…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.92
+    },
+    {
+      "title": "Rams Unable to Overcome Harvard Pressure, Defense",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGlxY0lma2Z1SFVvcm9Ua2VIdHNnamJUMnd3WlBoQ2RpdDZLazczR2hXanpzWmtxNUNOdEpiSDE3VnNWVFk4c0M3S2w5MXZPcThVaGE1amwyMXZzeE5lVm01enNWeXBvdkMxUDhOQXFWb0RsZjBsS1A2RkJsVXZhU0h1M3FkSDZBU1lWN1hqTXFHcTZ5TTA1V01LbUV5UTd6dUZ0eXl3?oc=5",
+      "source": "Colorado State Athletics",
+      "published": "2026-11-21T07:02:20+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Colorado State Athletics"
+      ],
+      "coverage": [],
+      "score": 4.91
+    },
+    {
+      "title": "La Marina no cambiará el nombre del portaviones que honra a un héroe de guerra negro, después de considerar poner el de Trump",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/20/la-marina-no-cambiara-el-nombre-del-portaviones-que-honra-a-un-heroe-de-guerra-negro-despues-de-considerar-poner-el-de-trump/",
+      "source": "KRDO",
+      "published": "2026-11-21T06:40:51+00:00",
+      "summary": "Por Aleena Fayaz, CNN La Armada de Estados Unidos ya no contempla cambiar el nombre de un portaviones en construcción que iba a ser rebautizado en honor a un marinero negro aclamado por sus heroicas acciones durante el ataque a Pearl…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.91
+    },
+    {
+      "title": "Your guide to Thanksgiving volunteering and community service opportunities across Colorado",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYkVjb0JSbUlhekM1bU1HbDJQWFdmc3ROSVV4UmstVFBnZEZIdGlzeHA0YVZHZVhkaEl4Z1ZQbWdrT0FaSDM2SXNyNVFiUlBVRFVyUW9ZWHdpRGJDWW1VZm1FUFhtVTlaSnJZdmJoOHB5NjhMOU9YNk9DT0NuLVFBbThVbUViMXh4M1E?oc=5",
+      "source": "Colorado Public Radio",
+      "published": "2026-11-21T06:40:29+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Colorado Public Radio"
+      ],
+      "coverage": [],
+      "score": 4.91
+    },
+    {
+      "title": "Women’s Basketball Routs Colorado State, 75-42",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2UxSVBEOHBwMmF2X0lSTm84WjI4RTZyOXpIcmZDSFB0dmFsWFJfVXBac3RxakRZUGlNZDc1SWZKY0paZFZCTjd6UWt5ZlNlTm5PMlp6NHNGMWExVk9MSlRLQTJSZFo1WVhLOWtQQVdqaF84MEZ6YlROWGpaMHZkTVdscUFMOWk3Y3Fvb0V6VS1jMVBRWi01SDZGV0hodWRKWXVPc2c3UzM?oc=5",
+      "source": "Harvard Athletics",
+      "published": "2026-11-21T06:30:21+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Harvard Athletics"
+      ],
+      "coverage": [],
+      "score": 4.9
+    },
+    {
+      "title": "Gold prices continue to fall after hitting all-time highs, local gallery sees more buyers than sellers",
+      "link": "https://krdo.com/news/2026/11/20/gold-prices-continue-to-fall-after-hitting-all-time-highs-local-gallery-sees-more-buyers-than-sellers/",
+      "source": "KRDO",
+      "published": "2026-11-21T06:11:15+00:00",
+      "summary": "COLORADO SPRINGS, COLO. (KRDO) -- It was a brutal day on the markets to follow a rough week overall. While gold prices can usually avoid the ups and downs, there were big changes there too. Gold prices have been dropping, especially this…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/Untitled-Design-17.png",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.9
+    },
+    {
+      "title": "Aurora prep sports scoreboard, 11.20.26",
+      "link": "https://sentinelcolorado.com/sports/preps/prep-scoreboard/aurora-prep-sports-scoreboard-11-20-26/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-21T06:03:49+00:00",
+      "summary": "The Aurora prep sports scoreboard for Friday, Nov. 20, 2026, includes results and highlights for Aurora area teams in football, Unified Bowling and ice hockey.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/Scores112026.jpg?fit=1024%2C658&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.9
+    },
+    {
+      "title": "Air Force rolls defeating UTEP in the final home game of the season 52-3",
+      "link": "https://krdo.com/news/2026/11/20/air-force-rolls-defeating-utep-in-the-final-home-game-of-the-season-52-3/",
+      "source": "KRDO",
+      "published": "2026-11-21T05:55:33+00:00",
+      "summary": "COLORADO SPRINGS, Colo. (KRDO)--Air Force is one step closer to potentially earning a Mountain West Conference Championship game appearance with their win at home. They play New Mexico next week in a must-win game.",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/air-force-fb.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.9
+    },
+    {
+      "title": "Swimmers Claim Six Podium Finishes on Day Three of Colorado Mesa Invite, Divers Claim Two at Home",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObG81QmhhV3lQd3h5MXFmVENsTXJoMjJVbXBvd2xKeG1jQTN6WXNNdlZtMHA3N2hydmJ4SUVTblpCeHVmR29DNkg0OFlONEFlYW5SUkRLQzdXSHF3NU90dU03Zl9DWDRiWFkxLUJWQ25FZWh4Q0lleWlBdGtTdXZYZjhMRVdUX1RYWElwcWVzM2p4YkdQVENFS2hCT0VCYzdMSmNFZ2VfaXljTnlGM215YUMyN2tIVVcycmR5dmJEV3ZIc0RCZzlzSmZVTWxRblFCWk1BT3pDZ0pRZGNWWEtvd3duRXhnLXZDaWRVU2FpSUlqdXNGNlBwQ1o0NlJtbmlpY0Vjay1HeEswbXJrMllB?oc=5",
+      "source": "Northern Arizona University Athletics",
+      "published": "2026-11-21T05:54:27+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Northern Arizona University Athletics"
+      ],
+      "coverage": [],
+      "score": 4.9
+    },
+    {
+      "title": "Palmer Ridge advances to 3A semifinals with 56-28 rout of Conifer",
+      "link": "https://krdo.com/news/sports-news/2026/11/20/palmer-ridge-advances-to-3a-semifinals-with-56-28-rout-of-conifer/",
+      "source": "KRDO",
+      "published": "2026-11-21T05:52:38+00:00",
+      "summary": "MONUMENT, Colo. (KRDO)--Palmer Ridge will play in the 3A semifinals against the winner of Evergreen and Mead game.",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/palmer-ridge-conifer.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.9
+    },
+    {
+      "title": "Zohran Mamdani hace una aparición sorpresa en el programa de CNN “Have I Got News for You”",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/20/zohran-mamdani-hace-una-aparicion-sorpresa-en-el-programa-de-cnn-have-i-got-news-for-you/",
+      "source": "KRDO",
+      "published": "2026-11-21T05:32:33+00:00",
+      "summary": "Por Brian Stelter, CNN “Va a salir alguien divertido”, dijo Roy Wood Jr. al público presente en el estudio del programa de comedia de CNN “Have I Got News for You” este viernes por la tarde. A juzgar por los vítores y los aplausos, el…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.89
+    },
+    {
+      "title": "Eagles Earn Point in 4-3 Overtime Loss to Grand Rapids",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92UlgybE1TOGlKRTFoeGUyb2tQdDZIOE5ZdDRxTllUS1h0Z0UyWVRaa1dJdHhZQ184THBOZTRHQmJKbGhDN1ctNmFGWm9GNHAwMS01Rm1FN04wYjRKZUpMYlo1MEpQbHJNVTRsby14dVNsTVgt?oc=5",
+      "source": "Colorado Eagles",
+      "published": "2026-11-21T05:11:52+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Colorado Eagles"
+      ],
+      "coverage": [],
+      "score": 4.89
+    },
+    {
+      "title": "Football: 2026 Class 5A state football playoff scoreboard, schedule",
+      "link": "https://sentinelcolorado.com/sports/preps/boys-football/football-2026-class-5a-state-football-playoff-scoreboard-schedule/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-21T04:45:00+00:00",
+      "summary": "Scoreboard and schedule for the 2026 Class 5A state football playoffs through Friday's quarterfinal round.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/WMHigh.FB_.EagValor1729FB2300.jpg?fit=1024%2C743&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.88
+    },
+    {
+      "title": "Aurora residents worry about crosswalk safety after USPS truck drives feet away from children",
+      "link": "https://kdvr.com/news/local/aurora-residents-worry-about-crosswalk-safety-after-usps-truck-drives-feet-away-from-children/",
+      "source": "FOX31 Denver",
+      "published": "2026-11-21T04:16:47+00:00",
+      "summary": "Aurora residents are concerned about a crosswalk where they've seen several near-accidents, including recently when a USPS van drove by two kids who were in the middle of the crosswalk.",
+      "image": "https://kdvr.com/wp-content/uploads/sites/11/2026/11/Crosswalk-near-Tollgate-Elementary-in-Aurora.jpg?w=900",
+      "image_source": "FOX31 Denver",
+      "outlets": [
+        "FOX31 Denver"
+      ],
+      "coverage": [],
+      "score": 4.88
+    },
+    {
+      "title": "FACT CHECK: A look at false and misleading claims Trump made at news conference after his Asia trip",
+      "link": "https://sentinelcolorado.com/nation-world/nation/fact-check-a-look-at-false-and-misleading-claims-trump-made-at-news-conference-after-his-asia-trip/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-21T04:16:29+00:00",
+      "summary": "President Donald Trump made multiple false and misleading claims Friday",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26323323725536.jpg?fit=1024%2C683&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.88
+    },
+    {
+      "title": "DOJ Alaska Senate race investigation shifts focus toward Peltola campaign and Democratic operatives",
+      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/20/doj-alaska-senate-race-investigation-shifts-focus-toward-peltola-campaign-and-democratic-operatives/",
+      "source": "KRDO",
+      "published": "2026-11-21T03:52:16+00:00",
+      "summary": "By Hannah Rabinowitz, Evan Perez, CNN (CNN) — With Alaska’s Senate race now called, the Justice Department is shifting focus toward Sen.-elect Mary Peltola’s campaign as part of its ongoing criminal investigation into an alleged scheme to…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.87
+    },
+    {
+      "title": "The FBI was hacked again, this time the breach targeted its crime database",
+      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/20/the-fbi-was-hacked-again-this-time-the-breach-targeted-its-crime-database/",
+      "source": "KRDO",
+      "published": "2026-11-21T03:31:41+00:00",
+      "summary": "By Evan Perez, CNN (CNN) — The FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the investigation…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdwcHM1eW8wMDAwM2I2dHFtNjQ5ZnF1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3BwbnBvdTAwNXkyN28yMTFuZ2Q5eGo.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.87
+    },
+    {
+      "title": "Navy won’t rename carrier slated to honor Black war hero after considering switching it to Trump",
+      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/20/navy-says-it-wont-rename-carrier-slated-to-honor-black-war-hero-after-considering-switching-it-to-trump/",
+      "source": "KRDO",
+      "published": "2026-11-21T03:18:01+00:00",
+      "summary": "By Aleena Fayaz, CNN (CNN) — The US Navy is no longer considering renaming an aircraft carrier under construction that was set to honor a Black sailor hailed for his heroic actions during the attack on Pearl Harbor. During President Donald…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.86
     }
   ]
 }
