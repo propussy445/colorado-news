@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T14:12:38.734694+00:00",
+  "updated": "2026-11-23T14:34:52.116427+00:00",
   "days": 7,
   "sources_ok": [
     "The Colorado Sun (10)",
@@ -12,85 +12,58 @@
   ],
   "stories": [
     {
-      "title": "Loss to Cincinnati eliminates Deion Sanders, Colorado from bowl eligibility",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWDdjNkJIRUdjSkVETGFJLTdaVV9wVTJYV0pXZWRRMGxrR2VzT3ZnWXdPbThrYW1VQzdRTm5wMU40NnZad2hmQkNva3loTkhHTExuODItT2hTR3liNnVxd1RyMXZRUzB5NkdfRDJ6Qk5kSHM2WXRZOUphQ205X0lXOXUxc2RrS3A1SHM2M2YtUzg2SFM4cHlTVFdreFRUczhncDJaSms2OEZ0alRRY00xMDY4b2VyMExmX0RId3k5N1BzeHZJbThobnM3VC04a2RZQkE?oc=5",
-      "source": "NBC Sports",
-      "published": "2026-11-22T02:57:19+00:00",
+      "title": "Deion Sanders makes questionable claim about Colorado after loss to Cincinnati ends bowl hopes",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajB0b0xjdnpoNkJ3Z0RMVVlyZzVFSlNtQ0ItT1NrdVkwcW9ibG1BT3BrRkFYZXkxdjV0ZDR2TWFDaVNIY05lNHIxcmc3UG1LV04xTTQ4TXN0dTg2OHpkMWN3MjNwQUt5ZGhJN0VCOG1wUi1INnMwSkJsX0xIUHFYdUM4TndIWEdNYjBkUzJZZEc?oc=5",
+      "source": "Yahoo Sports",
+      "published": "2026-11-22T14:20:01+00:00",
       "summary": "",
       "image": null,
       "image_source": null,
       "outlets": [
-        "Buffaloes Wire",
-        "DNVR",
         "NBC Sports",
         "The New York Times",
-        "USA Today"
+        "USA Today",
+        "Yahoo Sports"
       ],
       "coverage": [
+        {
+          "source": "NBC Sports",
+          "title": "Loss to Cincinnati eliminates Deion Sanders, Colorado from bowl eligibility",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWDdjNkJIRUdjSkVETGFJLTdaVV9wVTJYV0pXZWRRMGxrR2VzT3ZnWXdPbThrYW1VQzdRTm5wMU40NnZad2hmQkNva3loTkhHTExuODItT2hTR3liNnVxd1RyMXZRUzB5NkdfRDJ6Qk5kSHM2WXRZOUphQ205X0lXOXUxc2RrS3A1SHM2M2YtUzg2SFM4cHlTVFdreFRUczhncDJaSms2OEZ0alRRY00xMDY4b2VyMExmX0RId3k5N1BzeHZJbThobnM3VC04a2RZQkE?oc=5"
+        },
         {
           "source": "USA Today",
           "title": "Deion Sanders says ‘it’s on me’ after Colorado loss kills bowl hopes, turns up heat",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVURod0NzdFhkZi1SQ3lWeVJVREVqREc2VGZnMnlya2FTR24yeHRaRUIxWkNBUHFDcGg0VjRHeGtsZnF6M2wwNDdSdkxUOFpvekJHakhybVlSY2ZFYUUwLV9LOVVtV2ZXbGRHS29LdTMyVHFsMi1GSXY0R211NTFOMVhYellRZDY3Zm05R0ZpZmwxcEpLamkwdV92c1RQVHpVcHRGTjFVdWxpNnVBem8xYmF6Nmd0SjRoX1hzbHMybWN6WXJzRzhpVFAyNA?oc=5"
         },
         {
-          "source": "Buffaloes Wire",
-          "title": "Everything Deion Sanders said after Colorado's loss to Cincinnati",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPU2xKNkJocDhiLWp0enNQTDJucmFWTGZ6SkNtTGM1eXZyOG9kYXVRaWZ5ZWphazJIMHE0dlhhN3BJN1JNT1hpdEpvb2pmaHhjQlU5RXh5OGMzSUVldUNKTDQ2THdUWi0xal9CT3luWDZhSW5pVmtDd2hkYVhUSF9Za283b3pQbkZxNkhzMWFHSjQtVmh4Q0NvdGlrLXpFcWk5M1lDeG03OXVldU1aaHNPNDdab0J1QWlGXzVVcm0tZUtMRHMzdjdCNWNNM1BBME10X3VBUzFOMXZGd0xtV3dOY0xaeWtjWF9ieXExMEhnbTdVQlEwOWVMUGdrUnh2NDZaYVNJ?oc=5"
-        },
-        {
           "source": "The New York Times",
           "title": "Is Deion Sanders on the hot seat after Colorado’s disappointing loss to Cincinnati?",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQXJqYS13Q21WQ0g4S1MxYlRqTTdQekZJeWQtU2s2ZmZDTG1RYjZmR0dpdWQxZWFwTUE0ZWtGRGliTDFiSVRVNW9fYm4zZy1hREZjWmt5c2EzSndCa3pzMmFuRnBVUUtsRWRsN096Z2NSOXhuZXBzUzVqcDVWNWJqOUU5LXllZw?oc=5"
-        },
-        {
-          "source": "DNVR",
-          "title": "Deion Sanders' Colorado football team eliminated from bowl eligibility after loss to Cincinnati: 3 takeaways",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oUmZjWlZMR09mZXJVeUxwdnJVZVN1WXZxT19RSWJCNjlldXBINEVfLXctVDZYUmxyS19aZ0J4eUVMbDVWaUJiTWZieGVHM0tvMUxnYmthby1sVEJBdU5FdTZBU1ZVZ29acEtwd2RuNWFFVGxJWDY5Mjc2U0dnQmM?oc=5"
         }
       ],
-      "score": 16.86
+      "score": 13.7
     },
     {
-      "title": "Where to watch Colorado vs. Cincinnati: Time, TV channel for Week 12",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTUVhVG1LUFV4aFFKVHVZd2lmR0Q2Z3lCZ3pkbFBsVUhmdFlrWDQ2cTBCRW1jQzFRc0lLNVVnSDFKX0NTSENmSXlmWWRuZXBZQktUZFZSbXRmQ1RodFlnaWZuQ1hiZk03Z3huY1VQS2J4M2oxdXdLQk0yQ1Vod2Fyamxmb0NDMHRTY09hNzV0a3ZnR251Q3NXcHFadzI4cjN0V2xqaVBnTUgzc0xyZDdzTTkwVnlrVldjQ08ydjUzcy1pcTV0Si1IMm05aHhSYWUzNzNz?oc=5",
-      "source": "The Coloradoan",
-      "published": "2026-11-21T17:10:00+00:00",
+      "title": "Fresno State holds off a late rally to beat Colorado State 49-42 and become bowl eligible",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEpENTh5elZiVk5tU2JXTUF3OHVUaWRwR3BFNHhBYUxnMjVCSVlwSklBdEdqY3U5SU5OLWxEM2RpcXpBUnZKRThqZnVZNmZtWEhSVDB0Z1Rlc2ItQnZjOTM5c2NIMXZyZVVtUXFXaTMyVlJNRDRiZm5veGZhTDEwTHNad25IenRIOVRzbzY4cEVyRThCLTlLN3NtUXFLWm5vZ0lPNllmSjlaNUXSAbABQVVfeXFMTXFhTlBFVWRlZUxRUlBfOEp5NDJzZ1k2cDNCN0JvLV9xbVl3VEpKV3dqb1JoMEwya1FvSEZ4aEJpU2lqaGxzcURiSXh6aGdqbzIydXpQMlJ0WmlpODRkVmhOYi1zX1V4eFVwNGdmeDFmeUkyWTFxdklDWWVrbFROS0Q0VENsMzJReEp1RnNkaWZYWDRTaC1FcGFXWWozbDU3MW5OUHB0U1ZHR3luZlFKay0?oc=5",
+      "source": "ABC30 Fresno",
+      "published": "2026-11-22T05:31:41+00:00",
       "summary": "",
       "image": null,
       "image_source": null,
       "outlets": [
-        "Buffaloes Wire",
-        "The Coloradoan"
+        "ABC30 Fresno",
+        "Fresno Bee"
       ],
       "coverage": [
         {
-          "source": "Buffaloes Wire",
-          "title": "Where to watch Colorado vs. Cincinnati today: Time, channel, streaming",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOUxDUGltcDQwZkFXNWdSUFVsSm1FWWVBTVFDY3BKVG5Ra3VxczdkbTdPRnZOUHNlR0d3MWVVSjU5ZEEwZlp4VDJwOUZxMlVPSk5ZYUZKOS1oa0R2LVRzdDZLc3VENkVfTmVzRGtIVUxnbkdVWnRFOVhuZ3BvZl9iYnlhNjBRYlJ5bGtzd2pLWnBjREdOMjBqYWxMR2JvaG1kb0NqX202WUk1M2o0Y0F6STYwM2VibmFPeWgwN3R5OXd3blpGNEdJQVdLTWVUTWpOSmNTZ2dUdHN6MlZ1d1dqUFU0amh2cWw1RzRMVzdBUWlJUFFJOWw4S0lXVQ?oc=5"
+          "source": "Fresno Bee",
+          "title": "Fresno State survives late Colorado State rally to become bowl-eligible",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdGZaWU5JLXVfZ1dRNmFaUEVTd2pLMWZmNnFuYnRjSVZ6YzVwQWlsNDVCQU9DVWFkRmhaR1VOWUZMaThQR3c4SlpweTdSUzBObVZtdUg0YVJWbWFsSmZvQXBSaElWVWx1MHNGY0lNRmNEQXdkNzJUOTBKUTNPWlFrdlJZaDVWTHV1aHVxRlZBa1c2TEVkNWZXN0J0QVJsTjhPMS1tOU5ySWEyRnfSAasBQVVfeXFMTUdULTgwY1JncGh4bXZZalpkU0FVRmFSLUZneEFxVWhZWWxFSlBiYnp3cnlMekhXX1pMUnNwRE9INVNBRXJiX2lQdzZ5ZnUtNFRoOXluajdydGFDLWlNX2xYckdjV1BXQk5EcnVZYUotZjhjbXRfcnJOUWlpUDVRVEthS1JjdWg4eDdWTmxJbTktUzg2RkN3NlNuaHFvT1FlYkVaZm1qR0JzWjJB?oc=5"
         }
       ],
-      "score": 7.74
-    },
-    {
-      "title": "Things to do in Denver this weekend, Nov. 20-22",
-      "link": "https://denverite.com/2026/11/20/things-to-do-in-denver-this-weekend-nov-20-22-2026/",
-      "source": "Denverite",
-      "published": "2026-11-20T11:00:00+00:00",
-      "summary": "Don't forget to start defrosting your turkey.",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "9NEWS",
-        "Denverite"
-      ],
-      "coverage": [
-        {
-          "source": "9NEWS",
-          "title": "9Things to do in Colorado this weekend: Nov. 20-22",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa0dzOU8yWmJtWi1wcEZqTkJpc3Jac28xaDZNLXQzWFpGa0t3MlQwQnBxcVFhUHp5dVdHTUZfQ09WU1FVRHJxS2NlekczcVZTQmFoRHd0V2psZ2RwSUpvQzYwVE1kbFdkVXl4UkRRUzctZjBPS3pTN013OUFlWk9majhTRE0yWkpvSE9Fek9hZkpnRi1LSHA5QTNLZ2pFd1pFRnpGSUFZZUo1c0pISDlrR1dOQUVXMHB5ZUJSVXZPM3ZUeTZGd1NOOGRjd2RnOHc1Y2ROT1MwUWNPcjkwZm5MYWpXSQ?oc=5"
-        }
-      ],
-      "score": 7.41
+      "score": 7.59
     },
     {
       "title": "Schools don’t have to check gender to comply with trans athlete measure, Colorado officials say",
@@ -111,15 +84,43 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFBkT0YyOEwwN0gzWXdUTTgyRTY5Wi1GRXZoUzJHcXVKVVpaNE16YzNoYVViQ3V5b18zYVJPMUVxUG42UmhwazhtbURaZkl1eDRFbWVGM2FkX3dTMF9aT3d3TEFmTkhQcVkyVk5weGoxQ2Jpc2ZZYnNhU3FwM1l2TlI1eG5UZm10eWctd1hwLVlqdnRZeUpwLW5Yd21ZbDlIZFRQU3JjR1dwSEVUNUE?oc=5"
         }
       ],
-      "score": 7.19
+      "score": 6.88
     },
     {
-      "title": "Department of Homeland Security’s holiday advice to employees: Don’t talk about your work",
-      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/22/department-of-homeland-securitys-holiday-advice-to-employees-dont-talk-about-your-work/",
+      "title": "Victim self-transports to hospital after being shot in Denver",
+      "link": "https://kdvr.com/news/local/victim-self-transports-to-hospital-after-being-shot-in-denver/",
+      "source": "FOX31 Denver",
+      "published": "2026-11-23T14:26:31+00:00",
+      "summary": "A victim self-transported to the hospital after being shot in Denver on Sunday night.",
+      "image": "https://kdvr.com/wp-content/uploads/sites/11/2025/11/vlcsnap-2025-11-29-20h04m07s506-e1771883688412.png?w=900",
+      "image_source": "FOX31 Denver",
+      "outlets": [
+        "FOX31 Denver"
+      ],
+      "coverage": [],
+      "score": 5.0
+    },
+    {
+      "title": "Eastbound Highway 7 closed for crash east of Boulder",
+      "link": "https://kdvr.com/news/local/eastbound-highway-7-closed-for-crash-east-of-boulder/",
+      "source": "FOX31 Denver",
+      "published": "2026-11-23T14:15:36+00:00",
+      "summary": "Eastbound Highway 7 is closed due to a crash just east of Boulder.",
+      "image": "https://kdvr.com/wp-content/uploads/sites/11/2026/08/CSP_14fcb3.jpg?w=900",
+      "image_source": "FOX31 Denver",
+      "outlets": [
+        "FOX31 Denver"
+      ],
+      "coverage": [],
+      "score": 5.0
+    },
+    {
+      "title": "La junta directiva de Nvidia restituye a Jensen Huang como director ejecutivo",
+      "link": "https://krdo.com/news/2026/11/23/la-junta-directiva-de-nvidia-restituye-a-jensen-huang-como-director-ejecutivo/",
       "source": "KRDO",
-      "published": "2026-11-22T13:01:03+00:00",
-      "summary": "By Gabe Cohen, Priscilla Alvarez, CNN (CNN) — It’s often good advice to avoid talking too much about work at holiday gatherings. Especially, it seems, if you work at the Department of Homeland Security. Some DHS employees were advised in…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdwaHprcXYwMDAwM2I2c3M0NXZra3Fj-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3BocDNxODAwOHkyN3A5ZWliNWVuMW4-scaled.jpg",
+      "published": "2026-11-23T14:08:58+00:00",
+      "summary": "Por Clare Duffy, CNN La junta directiva de Nvidia restituyó a Jensen Huang como director ejecutivo, presidente y miembro de la junta directiva, informó la empresa en un comunicado este lunes. La decisión se produjo tras “una serie de…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
       "image_source": "KRDO",
       "outlets": [
         "KRDO"
@@ -128,12 +129,278 @@
       "score": 4.99
     },
     {
-      "title": "Tracking a cold work week with more high country snow",
-      "link": "https://krdo.com/video/weather-video-2/2026/11/22/tracking-a-cold-work-week/",
+      "title": "DNC plans to hold 12 debates for 2028 primary – with a new rule for Democrats who want in",
+      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/23/dnc-plans-to-hold-12-debates-for-2028-primary-with-a-new-rule-for-democrats-who-want-in/",
       "source": "KRDO",
-      "published": "2026-11-22T12:59:03+00:00",
-      "summary": "Today: Morning temperatures will be some of the coldest in a long time. Most areas drop down into the low 20s. Eastern areas including Cheyenne, Kit Carson, and Yuma Counties are under a Dense Fog Advisory until 10 am. High temperatures…",
-      "image": "https://krdo.b-cdn.net/2026/04/4.16.png",
+      "published": "2026-11-23T14:07:34+00:00",
+      "summary": "By Patrick Svitek, CNN (CNN) — The Democratic National Committee announced Monday it will hold twelve debates for the next presidential primary starting in June — and is adding a significant new condition for candidates to participate.…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdwbmlvZmgwMDAwM2I2djAyYzZ2cW84-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3BpcXBuODAwNjEyY3AwN2VzazE5YW8-scaled.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Trump headlines “exclusive” dinner to promote his meme coin",
+      "link": "https://krdo.com/politics/cnn-us-politics/2026/11/23/trump-organization-hosts-exclusive-dinner-to-promote-presidents-meme-coin/",
+      "source": "KRDO",
+      "published": "2026-11-23T14:07:32+00:00",
+      "summary": "By Julia Benbrook, CNN (CNN) — President Donald Trump was the featured speaker at a private event on Sunday where the price of admission was a major stake in his meme coin. The White House referred CNN’s questions about the event to the…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdzZ2tyaDYwMDAwM2I2dGFkaTE0aHpp-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3NnMGhtaDAwa3MyZnA0MWllNDlmbWw-scaled.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Nvidia board reinstates Jensen Huang as CEO",
+      "link": "https://krdo.com/news/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo/",
+      "source": "KRDO",
+      "published": "2026-11-23T14:07:08+00:00",
+      "summary": "By Clare Duffy, CNN New York (CNN) — Nvidia’s board has reinstated Jensen Huang as chief executive, president and as a member of the board, the company said in an announcement Monday. The board said it received input from “senior levels of…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Ukrainian drones sink Russian warship in North Africa",
+      "link": "https://krdo.com/news/national-world/cnn-world/2026/11/23/russian-vessel-docked-in-libya-hit-in-suspected-drone-attack-authorities-say/",
+      "source": "KRDO",
+      "published": "2026-11-23T14:02:50+00:00",
+      "summary": "By Billy Stockwell, Lex Harvey, Brad Lendon, CNN (CNN) — Ukraine sank a Russian warship docked in Libya and disabled a cargo vessel off the North African country’s coast, President Volodymyr Zelensky said Monday, in Kyiv’s latest attack on…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdzMXZzZGYwMDdrMjdwMTN5NzgxbHAz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3MxdnNkZjAwN2wyN3AxM2w2YjM4dHk.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Declaran culpable a hombre de Florida de asesinar a una mujer que conoció en el sitio porno Motherless",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/23/juzgan-a-hombre-de-florida-por-asesinato-de-una-mujer-que-conocio-en-el-sitio-porno-motherless/",
+      "source": "KRDO",
+      "published": "2026-11-23T13:50:30+00:00",
+      "summary": "Por Kara Fox y Saskya Vandoorne, CNN Un hombre de Florida fue declarado culpable de secuestrar y matar a una mujer británica el año pasado tras conocerla en el ya desaparecido Motherless.com, un sitio de pornografía extrema que ha atraído…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Las acciones de EE.UU. se preparan para recuperarse tras una fuerte ola de ventas",
+      "link": "https://krdo.com/news/2026/11/23/las-acciones-de-ee-uu-se-preparan-para-recuperarse-tras-una-fuerte-ola-de-ventas/",
+      "source": "KRDO",
+      "published": "2026-11-23T13:50:17+00:00",
+      "summary": "Por Hanna Ziady, CNN Las acciones de EE.UU. se encaminan a un fuerte repunte este lunes, después de una dura ola de ventas de acciones tecnológicas impulsada por el temor sobre la solidez del auge de la inversión en inteligencia…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Compró su nueva casa a un muy buen precio. Luego, empezaron a aparecer grietas",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/23/compro-su-nueva-casa-a-un-muy-buen-precio-luego-empezaron-a-aparecer-grietas/",
+      "source": "KRDO",
+      "published": "2026-11-23T13:40:29+00:00",
+      "summary": "Por Samantha Delouya, CNN Brette Abshier no prestó mucha atención cuando se formó una grieta en la baldosa de su sala de estar el año pasado. Pero aquello fue solo el comienzo de lo que parecía ser un problema mucho más grave. Hace unos…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "REEL NEWS IN A RUSH: Top headlines in Monday’s NewsMinute video",
+      "link": "https://sentinelcolorado.com/nation-world/world/reel-news-in-a-rush-top-headlines-in-mondays-newsminute-video-11/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-23T13:36:42+00:00",
+      "summary": "From around the globe, top stories in 60 seconds you'll be talking about today",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/Screenshot-2026-11-23-at-6.35.43-AM.png?fit=772%2C432&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Adam Driver on ‘Paper Tiger’ and gaming the Hollywood system",
+      "link": "https://sentinelcolorado.com/uncategorized/adam-driver-on-paper-tiger-and-gaming-the-hollywood-system/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-23T13:35:00+00:00",
+      "summary": "Actor Adam Driver explores themes of artistic purpose and industry resistance through his role in James Gray's upcoming crime drama Paper Tiger.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26315619373631.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Godzilla returns in special-effects glory in the latest movie with an anti-war message",
+      "link": "https://sentinelcolorado.com/uncategorized/godzilla-returns-in-special-effects-glory-in-the-latest-movie-with-an-anti-war-message/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-23T13:34:42+00:00",
+      "summary": "Takashi Yamazaki's new film Godzilla Minus Zero has achieved record-breaking success at the North American box office, continuing the franchise's legacy of using the iconic monster as a metaphor for nuclear war.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26302003768334.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "‘Now You See Me Live’ comes to Broadway, hoping to have the same magic touch as the film series",
+      "link": "https://sentinelcolorado.com/uncategorized/now-you-see-me-live-comes-to-broadway-hoping-to-have-the-same-magic-touch-as-the-film-series/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-23T13:34:24+00:00",
+      "summary": "A stage show inspired by the Now You See Me film franchise, featuring a quartet of international magicians, has opened at New York City's Al Hirschfeld Theatre through January.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26321730320517.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Melania Trump gives a peek inside her marriage, motherhood and more in new series",
+      "link": "https://sentinelcolorado.com/uncategorized/melania-trump-gives-a-peek-inside-her-marriage-motherhood-and-more-in-new-series/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-23T13:34:04+00:00",
+      "summary": "Melania Trump's two-part follow-up documentary series, which explores her personal history, marriage to President Donald Trump, and relationship with her son Barron, is set to be released on Prime Video.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26309595484339-1.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "(Not) up in the air: Travelers’ trepidations spike as Thanksgiving nears and tech hiccups abound",
+      "link": "https://sentinelcolorado.com/uncategorized/not-up-in-the-air-travelers-trepidations-spike-as-thanksgiving-nears-and-tech-hiccups-abound/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-23T13:33:51+00:00",
+      "summary": "Travelers face rising anxieties over potential air-travel disruptions and record-high holiday airfares ahead of the 2026 Thanksgiving travel week.",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/AP26317825173897.jpg?fit=1024%2C682&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "The Army plans to blow up 5 tons of lead azide in Iowa despite outcry and legal challenges. Here’s how we got here",
+      "link": "https://krdo.com/news/national-world/cnn-national/2026/11/23/the-army-plans-to-blow-up-5-tons-of-toxic-lead-in-iowa-despite-outcry-and-legal-challenges-heres-how-we-got-here/",
+      "source": "KRDO",
+      "published": "2026-11-23T13:30:58+00:00",
+      "summary": "By Danya Gainor, CNN (CNN) — Lead azide, a volatile material used to detonate munitions, has long been stored behind the guarded gates of the Iowa Army Ammunition Plant — where the state’s flat, southeastern cornfields suddenly give way to…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdzcHR4b3kwMDBlM2I2c29tdXNsZHVh-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3M5bW9xdjAwY2wyNnFjY3NhZDN6MGM-scaled.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Toon in Monday",
+      "link": "https://sentinelcolorado.com/opinion/toon-in-monday-585/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-23T13:29:49+00:00",
+      "summary": "A look at the world on Monday through the eyes of political cartoonists from across the globe",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/virginia-foxx-in-role-of-wh-press-secretary.png?fit=600%2C420&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "San Francisco se prepara para mareas casi récord mientras una tormenta coincide con los viajes de Acción de Gracias",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/23/san-francisco-se-prepara-para-mareas-casi-record-mientras-una-tormenta-coincide-con-los-viajes-de-accion-de-gracias/",
+      "source": "KRDO",
+      "published": "2026-11-23T13:28:41+00:00",
+      "summary": "Por Alaa Elassar, CNN El nivel del agua en la bahía de San Francisco podría alcanzar valores cercanos a los récords esta semana, mientras una fuerte tormenta, combinada con algunas de las mareas más altas del año, llega a la costa y…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "San Francisco braces for near-record tides as a storm collides with Thanksgiving travel‌",
+      "link": "https://krdo.com/cnn-weather-environment/2026/11/23/san-francisco-braces-for-near-record-tides-as-a-storm-collides-with-thanksgiving-travel/",
+      "source": "KRDO",
+      "published": "2026-11-23T13:27:04+00:00",
+      "summary": "By Alaa Elassar, CNN (CNN) — San Francisco Bay could rise to near-record levels this week, as a strong storm coupled with some of the year’s highest tides moves ashore, threatening to flood city streets and a major West Coast airport on…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdzODJwcWUwMDAzM2I2czN3anU1ZGQ4-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3M4Mjl2ZjAwN3AyN3BjYTZtZWg1bHE-scaled.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "El Comité Nacional Demócrata planea 12 debates para primarias de 2028, con una nueva regla para quienes quieran participar",
+      "link": "https://krdo.com/news/2026/11/23/el-comite-nacional-democrata-planea-12-debates-para-primarias-de-2028-con-una-nueva-regla-para-quienes-quieran-participar/",
+      "source": "KRDO",
+      "published": "2026-11-23T13:23:19+00:00",
+      "summary": "Por Patrick Svitek El Comité Nacional Demócrata (DNC, por sus siglas en inglés) anunció este lunes que realizará 12 debates para las próximas primarias presidenciales a partir de junio, y que suma una nueva condición importante para que…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.99
+    },
+    {
+      "title": "Aurora City Council moves toward stricter rules linked to public comment, virtual attendance",
+      "link": "https://sentinelcolorado.com/metro/aurora-city-council-moves-toward-stricter-rules-linked-to-public-comment-virtual-attendance/",
+      "source": "Sentinel Colorado",
+      "published": "2026-11-23T13:19:44+00:00",
+      "summary": "One proposed change would require city lawmakers to appear in person or on camera at meetings they cast votes",
+      "image": "https://i0.wp.com/sentinelcolorado.com/wp-content/uploads/2026/11/CIty-Council-time-limit-Jeff-Brown.png?fit=865%2C567&ssl=1",
+      "image_source": "Sentinel Colorado",
+      "outlets": [
+        "Sentinel Colorado"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Florida man found guilty of murdering British woman after meeting her on porn site Motherless",
+      "link": "https://krdo.com/news/national-world/cnn-national/2026/11/23/no-shortage-of-depraved-men-willing-to-kill-british-woman-on-porn-site-motherless-us-court-hears/",
+      "source": "KRDO",
+      "published": "2026-11-23T13:14:21+00:00",
+      "summary": "By Kara Fox, Saskya Vandoorne, CNN (CNN) — A Florida man has been found guilty of kidnapping and murdering a British woman last year after meeting her on the now defunct Motherless.com, an extreme porn site that has drawn international…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdveXVvdm4wMDA0M2I2dDJ6bWRpZ2Zm-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd295OTRnNDAwMXoyN3BjMHAzcWZxN2Y.jpg",
       "image_source": "KRDO",
       "outlets": [
         "KRDO"
@@ -142,11 +409,11 @@
       "score": 4.98
     },
     {
-      "title": "Cómo sería un impuesto a la riqueza en la era de los multimillonarios de la IA",
-      "link": "https://krdo.com/news/2026/11/22/como-seria-un-impuesto-a-la-riqueza-en-la-era-de-los-multimillonarios-de-la-ia/",
+      "title": "Estos nietos de exiliados españoles no podrán votar. Pero la campaña puso el foco en ellos",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/23/estos-nietos-de-exiliados-espanoles-no-podran-votar-pero-la-campana-puso-el-foco-en-ellos/",
       "source": "KRDO",
-      "published": "2026-11-22T12:56:59+00:00",
-      "summary": "Por Natasha Chen, CNN La salida a bolsa de Anthropic convirtió a muchas personas en multimillonarias de la noche a la mañana (y a algunas, en milmillonarias), y el momento no podría ser más delicado. Estas personas acceden a una fortuna…",
+      "published": "2026-11-23T13:03:00+00:00",
+      "summary": "Por Pau Mosquera, CNN en Español Más de 38,7 millones de personas están llamadas a participar el próximo 29 de noviembre en las elecciones generales de España. Sin embargo, el foco del debate recae sobre un grupo de votantes mucho más…",
       "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
       "image_source": "KRDO",
       "outlets": [
@@ -156,11 +423,25 @@
       "score": 4.98
     },
     {
-      "title": "Israeli settlers launch attacks across West Bank as Netanyahu rival decries “Jewish terrorism”",
-      "link": "https://krdo.com/news/2026/11/22/israeli-settlers-launch-attacks-across-west-bank-as-netanyahu-rival-decries-jewish-terrorism/",
+      "title": "KRDO 13 viewers express safety concerns about new left turn lanes, center median on Fillmore Street hill in Colorado Springs",
+      "link": "https://krdo.com/news/top-stories/2026/11/23/krdo-13-viewers-express-safety-concerns-about-new-left-turn-lanes-center-median-on-fillmore-street-hill-in-colorado-springs/",
       "source": "KRDO",
-      "published": "2026-11-22T12:49:53+00:00",
-      "summary": "By Ibrahim Dahman, Dana Karni, Oren Liebermann, CNN (CNN) — Israeli settlers launched a series of attacks across the occupied West Bank, torching at least a dozen cars and vandalizing several homes overnight Sunday, in what Gadi Eisenkot,…",
+      "published": "2026-11-23T12:55:32+00:00",
+      "summary": "Colorado Springs city officials are considering installing new signage following viewer concerns regarding visibility and lane alignment at a recently completed road project on Fillmore Street.",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/Untitled-design-70.png",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.98
+    },
+    {
+      "title": "Los republicanos evalúan un acuerdo que financiaría a las Fuerzas Armadas pero limitaría las operaciones en Irán",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/23/los-republicanos-evaluan-un-acuerdo-que-financiaria-a-las-fuerzas-armadas-pero-limitaria-las-operaciones-en-iran/",
+      "source": "KRDO",
+      "published": "2026-11-23T12:35:38+00:00",
+      "summary": "Por Sarah Ferris, CNN En los últimos días de control republicano del Congreso en Washington, el Pentágono enfrenta la posibilidad real de no recibir más fondos este año, a menos que los legisladores republicanos lleguen a un acuerdo con…",
       "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
       "image_source": "KRDO",
       "outlets": [
@@ -170,39 +451,53 @@
       "score": 4.98
     },
     {
-      "title": "Quería dormir sin el celular. Pero ¿y si alguien me necesita?",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/22/queria-dormir-sin-el-celular-pero-y-si-alguien-me-necesita/",
-      "source": "KRDO",
-      "published": "2026-11-22T12:41:37+00:00",
-      "summary": "Por Cordilia James, CNN La primera vez que dormí sin el celular en mi habitación, me desperté con 13 llamadas perdidas. Mi compañera de apartamento había bajado al sótano a lavar la ropa y, sin querer, se quedó fuera de nuestro apartamento…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.98
-    },
-    {
-      "title": "Why Cincinnati’s win over Colorado is especially important",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMnVaYUZ3cXp2WE5RTEMxc0ZWSE5uVnd2bGIwanpRRGVScHozc21fYVA5UVVhX1JGTG1zVm5ETkpjWkk0SlFrLXoyLUJISERPRC1CYUZIWEVTRmluMFQ1NmM0VFkzQXZOX00yaTF0RlFyRndtbmtQOWROeW8td3F6WGhPaEdTaDdG?oc=5",
-      "source": "Yahoo Sports",
-      "published": "2026-11-22T12:24:53+00:00",
+      "title": "For this Adams County family, Colorado’s transgender sports ban is personal",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR3E3ZFMxV25uUWxnQklrT0M5WnUxQmhnQTBZMmtqcGZvakpIREZhUks0Q21XV3QtbjA5em82SGFZVS1fcV9GQnl4LU44aEQ1MzhSVklfbEs2cWx6di05RTRWY090UDFyX1dIb2xSWktKaEFYbnFkQktBYk4ydl9MckZtcnpvcTRMYW1hNEdEa3AwZWMzVzdGSEZXcmtYUlBIckI0RzVGOG1XWjgxaGhMVkplRGw?oc=5",
+      "source": "KUNC",
+      "published": "2026-11-23T12:34:00+00:00",
       "summary": "",
       "image": null,
       "image_source": null,
       "outlets": [
-        "Yahoo Sports"
+        "KUNC"
       ],
       "coverage": [],
-      "score": 4.98
+      "score": 4.97
     },
     {
-      "title": "Tras un año difícil, Ariana Grande lleva la franquicia “Focker” a 2026",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/22/tras-un-ano-dificil-ariana-grande-lleva-la-franquicia-focker-a-2026/",
+      "title": "‘Project Angel Heart’ brings Thanksgiving dinner to thousands suffering from illness",
+      "link": "https://krdo.com/news/2026/11/23/project-angel-heart-brings-thanksgiving-dinner-to-thousands-suffering-from-illness/",
       "source": "KRDO",
-      "published": "2026-11-22T11:57:40+00:00",
-      "summary": "Por David Mack, CNN Ha sido un año difícil para Ariana Grande. En septiembre, decidió alejarse brevemente de la vida pública al final de su gira mundial de conciertos, después de que su figura cada vez más delgada suscitara críticas.…",
+      "published": "2026-11-23T12:33:17+00:00",
+      "summary": "SOUTHERN COLORADO, Colo. (KRDO) - Colorado nonprofit \"Project Angel Heart\" will prep and deliver thousands of freshly cooked meals tailored to hungry people in Southern Colorado too sick to cook for themselves. The group celebrates \"Gobble…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-23T053236.717.png",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.97
+    },
+    {
+      "title": "Man arrested after gunfire inside home leads to shelter-in-place order, CSPD says",
+      "link": "https://krdo.com/news/2026/11/23/man-arrested-after-gunfire-inside-home-leads-to-shelter-in-place-order-cspd-says/",
+      "source": "KRDO",
+      "published": "2026-11-23T12:30:15+00:00",
+      "summary": "COLORADO SPRINGS, Colo. (KRDO) -- A man was arrested late Sunday night after he allegedly fired shots inside a home that led to a shelter-in-place order in a Colorado Springs neighborhood, police said. According to the Colorado Springs…",
+      "image": "https://krdo.b-cdn.net/2025/02/police-lights-1.png",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.97
+    },
+    {
+      "title": "Tallulah Willis, hija de Bruce Willis, pide disculpas por compartir una foto “demasiado íntima” de su padre",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/23/tallulah-willis-hija-de-bruce-willis-pide-disculpas-por-compartir-una-foto-demasiado-intima-de-su-padre/",
+      "source": "KRDO",
+      "published": "2026-11-23T12:30:08+00:00",
+      "summary": "Por Amarachi Orie Tallulah Willis, hija de Bruce Willis, pidió disculpas por haber compartido una foto “íntima” con su padre, que vive con demencia frontotemporal (DFT). La actriz de 32 años, la tercera de las cinco hijas de Willis y la…",
       "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
       "image_source": "KRDO",
       "outlets": [
@@ -212,11 +507,53 @@
       "score": 4.97
     },
     {
-      "title": "What a wealth tax looks in the age of AI billionaires",
-      "link": "https://krdo.com/money/cnn-business-consumer/2026/11/22/what-a-wealth-tax-looks-in-the-age-of-ai-billionaires/",
+      "title": "Mountain snow likely causing more set backs today",
+      "link": "https://krdo.com/weather/local-forecast/2026/11/23/mountain-snow-likely-causing-more-set-backs-today/",
       "source": "KRDO",
-      "published": "2026-11-22T11:30:15+00:00",
-      "summary": "By Natasha Chen, CNN Los Angeles, California (CNN) — Anthropic’s initial public offering has created overnight multi-millionaires (and some billionaires), and the timing is complicated. They are coming into incredible wealth just as some…",
+      "published": "2026-11-23T12:10:12+00:00",
+      "summary": "Today: Mountain snow showers roll in from the southwest. The southern San Juans get snow as early as 8 am. Alamosa will likely get snow by 12 pm. Teller County should get light snow right around 1 pm. Accumulations will be light but up to…",
+      "image": "https://krdo.b-cdn.net/2026/02/2.20.png",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.97
+    },
+    {
+      "title": "What you should do before an argument goes too far",
+      "link": "https://krdo.com/health/cnn-health/2026/11/23/what-you-should-do-before-an-argument-goes-too-far/",
+      "source": "KRDO",
+      "published": "2026-11-23T12:00:15+00:00",
+      "summary": "By Ian Kerner, CNN (CNN) — Here you go again: fighting about dirty dishes in the sink and whether you’re a clean freak or your partner is a slob. You know what your partner is going to say and you know what you’re going to say in response,…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXdmYWcwejgwMDAxM2I2dGxuMXlhN2Vx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd2RvZmdtMjAwMjAyZG5vN3J5NzdrZHA.jpg",
+      "image_source": "KRDO",
+      "outlets": [
+        "KRDO"
+      ],
+      "coverage": [],
+      "score": 4.97
+    },
+    {
+      "title": "Colorado ski hill struggles to stay open as winters warm",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR09XNTVNQm1oS19mMlQ1T1Q2TVpBUVJlQ2Q3X1FCaUNvLUdjX21Pa0w1ZFRpaThheURGS3I4bUxrYWhKVFpoQkxBaWpXTlRjN2xWLTB0NlhROWFsNnFaRTNoUWFxNjI0Mk9ubWtTTnYtOUw1WG5yclJEenhoX3UxUWhFbjNqUnczbGlvSTBwRzZMUGljUW43SFdScTEtZ3FESXc?oc=5",
+      "source": "Yale Climate Connections",
+      "published": "2026-11-23T11:59:00+00:00",
+      "summary": "",
+      "image": null,
+      "image_source": null,
+      "outlets": [
+        "Yale Climate Connections"
+      ],
+      "coverage": [],
+      "score": 4.97
+    },
+    {
+      "title": "Esta aeronave “basculante” se puede volar sin licencia de piloto",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/23/esta-aeronave-basculante-se-puede-volar-sin-licencia-de-piloto/",
+      "source": "KRDO",
+      "published": "2026-11-23T11:55:57+00:00",
+      "summary": "Por Jack Bantock, CNN En EE.UU., muchas actividades requieren una licencia. Si quieres manejar un auto, cortar el pelo de forma profesional o, en el caso de Massachusetts, ganarte la vida leyendo la fortuna, primero tienes que obtener los…",
       "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
       "image_source": "KRDO",
       "outlets": [
@@ -226,59 +563,25 @@
       "score": 4.97
     },
     {
-      "title": "I wanted to sleep without my phone. But what if someone needed me?",
-      "link": "https://krdo.com/health/cnn-health/2026/11/22/i-wanted-to-sleep-without-my-phone-but-what-if-someone-needed-me/",
+      "title": "US stocks set to rebound after bruising sell-off",
+      "link": "https://krdo.com/money/cnn-business-consumer/2026/11/23/us-stocks-set-to-rebound-after-bruising-sell-off/",
       "source": "KRDO",
-      "published": "2026-11-22T11:30:15+00:00",
-      "summary": "By Cordilia James, CNN (CNN) — The first time I slept without my phone in my room, I woke up to 13 missed calls. My roommate had accidentally locked herself out of our New York City apartment when she stepped outside to do laundry in the…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "published": "2026-11-23T11:26:06+00:00",
+      "summary": "By Hanna Ziady, CNN US stocks look set for a sharp bounce back Monday, following a punishing tech stock sell-off driven by fears about the durability of the AI investment boom. Futures tied to the tech-focused Nasdaq-100 jumped 3.6% in…",
+      "image": "https://krdo.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXd0MHM5c3AwMDBhM2I2dHRwMWt3aGUw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3QwbTZybDAwOG4yOHBhMmxmd2dtMXY-scaled.jpg",
       "image_source": "KRDO",
       "outlets": [
         "KRDO"
       ],
       "coverage": [],
-      "score": 4.97
-    },
-    {
-      "title": "Peter Moore: Let’s buy a Colorado ski area!",
-      "link": "https://coloradosun.com/2026/11/22/eldora-sale-to-nederland-deal-peter-moore-cartoon/",
-      "source": "The Colorado Sun",
-      "published": "2026-11-22T11:17:00+00:00",
-      "summary": "The 1,500 residents of Nederland are kicking the snow tires on a $125M deal to buy Eldora Ski Resort. It could all go downhill fast.",
-      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/11/Untitled_Artwork-3.jpeg?fit=1024%2C554&ssl=1",
-      "image_source": "The Colorado Sun",
-      "outlets": [
-        "The Colorado Sun"
-      ],
-      "coverage": [
-        {
-          "source": "The Colorado Sun",
-          "title": "Peter Moore: Let’s buy a Colorado ski area!",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYUVObmNtQi15THIzUC1BalJTdzNNelFsTTBtekZmanpqdURWaXRwWjF1UloxS01Na19Ba0JRQ285X01QQUszSzdEUF9jWWZjczF1a2k4QjVDUjRLTmJTNTgyT2hTbmFXbWpOQ2NUcmE1WVNiRmxTYzR1NWItal9YQkl3QmxxTlZpODBYcUdn?oc=5"
-        }
-      ],
       "score": 4.96
     },
     {
-      "title": "Rams’ Rally Falls Short on Road",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVVURGpvakpQTzNCd1BSVGFyUmlpZzZzM2d1bjc4VkUwRmc0SlIyNHE5YW1HMHFkeXN6TWJaaGd6NDhJQkNxVUxfLXNfaVRUNnBUdFFhLUtBdnRDUml6OUxBVWtzUDBQQlF0cGtHeUNIWnBTM19yQjFaY1RnNDZIODBn?oc=5",
-      "source": "Colorado State Athletics",
-      "published": "2026-11-22T11:03:45+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "Colorado State Athletics"
-      ],
-      "coverage": [],
-      "score": 4.96
-    },
-    {
-      "title": "After a rocky year, Ariana Grande brings the ‘Focker’ franchise into 2026",
-      "link": "https://krdo.com/entertainment/cnn-entertainment/2026/11/22/after-a-rocky-year-ariana-grande-brings-the-focker-franchise-into-2026/",
+      "title": "Bruce Willis’ daughter, Tallulah Willis, apologizes for sharing ‘too intimate’ photo of her dad",
+      "link": "https://krdo.com/entertainment/cnn-entertainment/2026/11/23/bruce-willis-daughter-tallulah-willis-apologizes-for-sharing-too-intimate-photo-of-her-dad/",
       "source": "KRDO",
-      "published": "2026-11-22T11:00:15+00:00",
-      "summary": "By David Mack, CNN (CNN) — It’s been a tough year for Ariana Grande. In September, she opted to take a brief step back from the public eye at the end of her global concert tour after drawing scrutiny for her shrinking frame. She also…",
+      "published": "2026-11-23T11:21:58+00:00",
+      "summary": "By Amarachi Orie, CNN (CNN) — Bruce Willis’ daughter Tallulah Willis has apologized for sharing an “intimate” photo with her dad as he continues to live with frontotemporal dementia (FTD). The 32-year-old actress, who is the third of…",
       "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
       "image_source": "KRDO",
       "outlets": [
@@ -288,352 +591,18 @@
       "score": 4.96
     },
     {
-      "title": "How little free libraries are making a difference in Colorado’s book deserts",
-      "link": "https://coloradosun.com/2026/11/22/colorado-little-free-library-book-deserts/",
-      "source": "The Colorado Sun",
-      "published": "2026-11-22T11:00:00+00:00",
-      "summary": "From a Walsenburg storytime leader known as Mrs. Flamingo to a Nobel Peace Prize winner in Boulder who builds little free libraries, meet the people teaching kids to love to read",
-      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/10/Little-Free-Library-25.jpg?fit=1024%2C683&ssl=1",
-      "image_source": "The Colorado Sun",
+      "title": "Durante siglos, hubo rumores de túneles bajo este monumento de 1.500 años de antigüedad. Ahora han sido encontrados",
+      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/23/durante-siglos-hubo-rumores-de-tuneles-bajo-este-monumento-de-1-500-anos-de-antiguedad-ahora-han-sido-encontrados/",
+      "source": "KRDO",
+      "published": "2026-11-23T11:17:16+00:00",
+      "summary": "Por Maureen O’Hare, CNN Una red de túneles y espacios subterráneos recién descubiertos, algunos de cientos de metros de longitud, ha sido excavada bajo Santa Sofía, en Estambul, y se espera que se revelen muchos más. Se trata de un…",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "image_source": "KRDO",
       "outlets": [
-        "The Colorado Sun"
+        "KRDO"
       ],
-      "coverage": [
-        {
-          "source": "The Colorado Sun",
-          "title": "How little free libraries are making a difference in Colorado’s book deserts",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXRhWFZLdWx3MnpiYy0zLXFYVllhOEh0eWtGVnNmcHBpX1doc2pBRjZUY3hjYU9CbjdmR29ua2M5VFRKY0lNeDdtWUZWUFAwcWJDNnhDRklvc0VwSDAxandXWXdFeUpweGJNUzVrVUJ5NHpBWUFTM2tLLU9RenBrTnY0dw?oc=5"
-        }
-      ],
+      "coverage": [],
       "score": 4.96
-    },
-    {
-      "title": "Commentary: Coloradans would be left to live with the wreckage of permitting bill",
-      "link": "https://coloradonewsline.com/2026/11/22/coloradans-wreckage-of-permitting-bill/",
-      "source": "Colorado Newsline",
-      "published": "2026-11-22T10:30:16+00:00",
-      "summary": "In the wake of an election in which Americans voted overwhelmingly to rein in President Donald Trump’s agenda, Congress is considering a bill that would remove legal guardrails on a president that has repeatedly shown his cards. The…",
-      "image": "https://coloradonewsline.com/wp-content/uploads/2021/01/roan-plateau-ecoflight-1024x682.jpg",
-      "image_source": "Colorado Newsline",
-      "outlets": [
-        "Colorado Newsline"
-      ],
-      "coverage": [
-        {
-          "source": "Colorado Newsline",
-          "title": "Commentary: Coloradans would be left to live with the wreckage of permitting bill",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSGNaQ09hNkszdDFhN0xvOGNOSGhBck5SWHc2cTRFMmtBdWgyaUt0VktsTXgwanJmS3BwbU8zV09FSXR4ZVo4d3FLbjYxdHBwOXlKTmxKT3BydUdGb0dGMTFEQ3VOVDcxYkJwWTllaFFNblRkT0V2cl9zRUJrclVGZjltX3Z5Zw?oc=5"
-        }
-      ],
-      "score": 4.95
-    },
-    {
-      "title": "Littwin: After a midterm fiasco, Trump needed a hug from Putin and Xi — a trilateral axis of evil",
-      "link": "https://coloradosun.com/2026/11/22/littwin-after-midterms-trump-needed-hug-putin-xi/",
-      "source": "The Colorado Sun",
-      "published": "2026-11-22T10:05:00+00:00",
-      "summary": "Columnist Mike Littwin writes that Trump embraced Putin and Xi, then asked Stephen Miller if he wants to run for president. Does anybody want this?",
-      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/07/Littwin-Opinion-Featured-Image.png?fit=1024%2C536&ssl=1",
-      "image_source": "The Colorado Sun",
-      "outlets": [
-        "The Colorado Sun"
-      ],
-      "coverage": [],
-      "score": 4.95
-    },
-    {
-      "title": "Nicolais: Elon Musk is not the only one who should feel pretty foolish",
-      "link": "https://coloradosun.com/2026/11/22/elon-musk-election-opinion-nicolais/",
-      "source": "The Colorado Sun",
-      "published": "2026-11-22T10:03:00+00:00",
-      "summary": "Plenty of people threw away millions of dollars to help Republicans — and now find themselves in difficult positions",
-      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/08/Nicolais-Opinion-Featured-Image.png?fit=1024%2C536&ssl=1",
-      "image_source": "The Colorado Sun",
-      "outlets": [
-        "The Colorado Sun"
-      ],
-      "coverage": [],
-      "score": 4.95
-    },
-    {
-      "title": "Tres petroleros han sido atacados en el estrecho de Ormuz desde el viernes, según Marisks",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/22/tres-petroleros-han-sido-atacados-en-el-estrecho-de-ormuz-desde-el-viernes-segun-marisks/",
-      "source": "KRDO",
-      "published": "2026-11-22T10:00:46+00:00",
-      "summary": "Laura Sharman y Eleni Giokos Según una empresa griega de gestión de riesgos marítimos, unos proyectiles impactaron el viernes y este sábado contra tres buques tanque que salían del estrecho de Ormuz. El conflicto sigue asfixiando esta ruta…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.95
-    },
-    {
-      "title": "In “This Is My Body” strange, unseen forces grip a mother and her daughter",
-      "link": "https://coloradosun.com/2026/11/22/sunlit-this-is-my-body-lindsay-king-miller/",
-      "source": "The Colorado Sun",
-      "published": "2026-11-22T09:15:00+00:00",
-      "summary": "This excerpt from Lindsay King-Miller's horror novel, \"This Is My Body,\" introduces the dark energy that will fuel possession in a frightening sequence.",
-      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/11/This-Is-My-Body-logo.png?fit=1024%2C683&ssl=1",
-      "image_source": "The Colorado Sun",
-      "outlets": [
-        "The Colorado Sun"
-      ],
-      "coverage": [],
-      "score": 4.94
-    },
-    {
-      "title": "Lindsay King-Miller explores new angles to horror’s “possession narrative”",
-      "link": "https://coloradosun.com/2026/11/22/sunlit-lindsay-king-miller-this-is-my-body/",
-      "source": "The Colorado Sun",
-      "published": "2026-11-22T09:10:00+00:00",
-      "summary": "In the Colorado Book Award-winning \"This Is My Body,\" author Lindsay King-Miller offers a queer, agnostic take on the classic exorcism story",
-      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/11/King-Miller-logo.png?fit=1024%2C683&ssl=1",
-      "image_source": "The Colorado Sun",
-      "outlets": [
-        "The Colorado Sun"
-      ],
-      "coverage": [],
-      "score": 4.94
-    },
-    {
-      "title": "Mangat Runs at Division III Championships",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVk0ekJ0SXU1dlE4RUlaZUxYTHFMUjIwdWpsSUVabl9NQ1c3cmNtZDlKV19NZTFQQmNBMDh3SlFUSFNWY0Z1NjBaYXY4WWtYbERkUy1mSldHb3FfZlhDUUxSbnVqVm05VTNEczJXRmZ0UFV2dkx2blhNQnY5MGlNRTJFVVZFQ0lSM1pFOGZaUDdmdWFmUk83V3BHdExwdUZhVEw2NQ?oc=5",
-      "source": "Colorado College Athletics",
-      "published": "2026-11-22T09:09:38+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "Colorado College Athletics"
-      ],
-      "coverage": [],
-      "score": 4.94
-    },
-    {
-      "title": "Poor Richard’s Books connects readers to beavers, birds and phones",
-      "link": "https://coloradosun.com/2026/11/22/poor-richards-books-november-recommendations-2026/",
-      "source": "The Colorado Sun",
-      "published": "2026-11-22T09:05:00+00:00",
-      "summary": "The staff from Poor Richard's Books in Colorado Springs recommends guidebooks to nature's engineers, the evolving telephone and winged creatures.",
-      "image": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/01/Poor-Richards-picks.png?fit=1024%2C683&ssl=1",
-      "image_source": "The Colorado Sun",
-      "outlets": [
-        "The Colorado Sun"
-      ],
-      "coverage": [],
-      "score": 4.94
-    },
-    {
-      "title": "Broncos Head to Colorado State for Pac-12 Flex Game",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHJzTExRM3poQjdzOFpJeGRWNVJhMGxSanQ5c01hQTAyTFNUQy10bHVnRUFvSm9FVmpzYnVnd01uM0xxYTY5VVVzVGZJR0d4a2FxVG9UNmxuSVh3LUNwQTdvcmxzdTY2bHRNdVVHZXAyWlhXVnVORHJCVXYweTlGT1JFcGRFbFNzQm0wSDBoQWJQZzhoMUZPb2d3S2ZPcWkwaC1J?oc=5",
-      "source": "Boise State University Athletics",
-      "published": "2026-11-22T07:43:25+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "Boise State University Athletics"
-      ],
-      "coverage": [],
-      "score": 4.92
-    },
-    {
-      "title": "Colorado Springs area military events starting Nov. 22",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQjZ4U1RuQ1BsNXVMMGRYWm12SnlxODhnU0JNVERLOTNvRTBJZGNZemFvQVo5RVdxVndaUTRPVXptcURyMHI5c3VaUTRIMG1iSmhzeDZPY21yNUtDSzZlWThRUjVfMGIzWFZxb0JybE1CMWM4cXJFSU9FbXpYd3BoN09uLVpVanktZllCa2JB?oc=5",
-      "source": "Colorado Springs Gazette",
-      "published": "2026-11-22T07:00:00+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "Colorado Springs Gazette"
-      ],
-      "coverage": [],
-      "score": 4.91
-    },
-    {
-      "title": "En la meca tecnológica de China, Trump y Xi promovieron la cooperación en IA. Ahora llega la cruda realidad",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/21/en-la-meca-tecnologica-de-china-trump-y-xi-promovieron-la-cooperacion-en-ia-ahora-llega-la-dura-realidad/",
-      "source": "KRDO",
-      "published": "2026-11-22T06:46:22+00:00",
-      "summary": "Por Stephanie Yang, CNN Para el líder chino Xi Jinping, recibir al presidente de Estados Unidos, Donald Trump, en la futurista ciudad de Shenzhen fue una oportunidad para demostrar hasta dónde ha llegado la industria de alta tecnología del…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.91
-    },
-    {
-      "title": "In A First Under The Colorado Constitution, Court Holds that Flock's Warrantless Surveillance Dragnet Is Unconstitutional",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVWV3cW9GYVBpb3EzRk16TW00cTFDQ3ZxYWhLUlBNcmFyT0k5cUs4OU1NMVVQdHhzdnloV0NOSll6c0E1a000VmN3RVB2d0pRemJrOXQxandvSGdDLW9yaHNJUVUzRUd1OXZwS3NzdE41Z09rS1hyY1YwMTJlSnNwYXlYeGpwejdSeGx4NVFwWjEwdjBJMzF1STQ5Z2VvOFEzLVRtaW40Q0hCZzF4NEkzeWNKcF9uSXJEdHhyRHhJU09fU1hjbFZaeDlPTjJObEFfeHVVZzE3a1ZXSGpnRlJkMGxfanNpd3ZSZEE4?oc=5",
-      "source": "Yellow Scene Magazine",
-      "published": "2026-11-22T06:21:50+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "Yellow Scene Magazine"
-      ],
-      "coverage": [],
-      "score": 4.9
-    },
-    {
-      "title": "Dropping temperatures and ice on the roads change conditions for drivers in El Paso County",
-      "link": "https://krdo.com/news/2026/11/21/dropping-temperatures-and-ice-on-the-roads-change-conditions-for-drivers-in-el-paso-county/",
-      "source": "KRDO",
-      "published": "2026-11-22T06:15:10+00:00",
-      "summary": "EL PASO COUNTY, Colo. (KRDO) -- Drivers in El Paso County are already seeing the effects of the ice on the roads, as the conditions resulted in a crash Saturday. One crash occurred on Highway 24 between Manitou Springs and Cascade and…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/Untitled-Design-18.png",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.9
-    },
-    {
-      "title": "¿Cómo una pareja joven puede convertirse en multimillonaria al llegar a la edad de jubilación? Esto dice un experto",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/21/como-una-pareja-joven-puede-convertirse-en-multimillonaria-al-llegar-a-la-edad-de-jubilacion-esto-dice-un-experto/",
-      "source": "KRDO",
-      "published": "2026-11-22T06:11:21+00:00",
-      "summary": "Por Jeanne Sahadi, CNN Cuando tienes décadas para ganar dinero y ahorrar, alcanzar metas financieras a largo plazo es sin duda posible con un poco de constancia y estrategia. En la sección “Pregúntale al experto” de esta semana, el…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.9
-    },
-    {
-      "title": "Colorado Springs Christian School loses low-scoring battle to Limon, 12-7",
-      "link": "https://krdo.com/news/sports-news/2026/11/21/colorado-springs-christian-school-loses-low-scoring-battle-to-limon-12-7/",
-      "source": "KRDO",
-      "published": "2026-11-22T05:46:47+00:00",
-      "summary": "COLORADO SPRINGS, Colo. (KRDO)--It came down to the fourth quarter but ultimately Limon provided the plays when they needed to advance to another 1A state championship game. The Lions finished 10-2 on the season.",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/cscs-loses-to-limon.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.89
-    },
-    {
-      "title": "TCA falls to Wellington in 2A semifinals 41-24",
-      "link": "https://krdo.com/news/sports-news/2026/11/21/tca-falls-to-wellington-in-2a-semifinals-41-24/",
-      "source": "KRDO",
-      "published": "2026-11-22T05:46:00+00:00",
-      "summary": "COLORADO SPRINGS, Colo. (KRDO)--The Classical Academy finished their season at 10-2 losing to Wellington.",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/tca-falls-to-wellington.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.89
-    },
-    {
-      "title": "Special teams sink No. 12 Colorado College again as Miami sweeps",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORy1RVEdWUE5aS0MtT19xTmQtWWdFUUljTFpELXhtZ29ZVWxRZEJqUnNlRm9QTmV4LTltTEd3c2o2VWptVmVxOEpfMkQwMVM1aW5PcmQxeEFyRml6Rl8xWEF4N1RzRkk0NmZVcUh1NjE4eEZGTy1wZVVpMm5EQjQ1QS1EM1d1cjJhR2pPUGRjSExRZFVLY3A4SUFLZw?oc=5",
-      "source": "Colorado Springs Gazette",
-      "published": "2026-11-22T05:26:41+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "Colorado Springs Gazette"
-      ],
-      "coverage": [],
-      "score": 4.89
-    },
-    {
-      "title": "In China’s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality",
-      "link": "https://krdo.com/money/cnn-business-consumer/2026/11/21/in-chinas-tech-mecca-trump-and-xi-touted-ai-cooperation-now-comes-the-harsh-reality/",
-      "source": "KRDO",
-      "published": "2026-11-22T05:01:15+00:00",
-      "summary": "By Stephanie Yang, CNN (CNN) — For Chinese leader Xi Jinping, hosting US President Donald Trump in the futuristic city of Shenzhen was a chance to show just how far the nation’s high-tech industry has come. But neither Trump nor Xi seemed…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.89
-    },
-    {
-      "title": "¿Por qué tu cuerpo almacena grasa en los glúteos?",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/21/por-que-tu-cuerpo-almacena-grasa-en-los-gluteos/",
-      "source": "KRDO",
-      "published": "2026-11-22T04:52:48+00:00",
-      "summary": "Por Cara Ocobock, Universidad de Notre Dame ¿Alguna vez te has preguntado por qué algunas partes de tu cuerpo son firmes, como los codos, mientras que otras, como los glúteos, son más blandas? La diferencia se debe a lo que los científicos…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.88
-    },
-    {
-      "title": "CSU Pueblo holds off Midwestern State 34-10 in first round of NCAA Division II playoffs",
-      "link": "https://krdo.com/news/sports-news/2026/11/21/csu-pueblo-holds-off-midwestern-state-34-10-in-first-round-of-ncaa-division-ii-playoffs/",
-      "source": "KRDO",
-      "published": "2026-11-22T04:40:23+00:00",
-      "summary": "PUEBLO, Colo. (KRDO)--Despite three first half interceptions by quarterback Navi Bruzon, the Thunderwolves defense was as stout as could be against the top offense in Division II. Also, the Pack was able to put up 257 yards on the ground…",
-      "image": "https://krdo.com/wp-content/uploads/2026/11/csu-pueblo-beats-midwestern-state.jpg",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.88
-    },
-    {
-      "title": "Griffins Score Five Unanswered to Top Colorado 5-4 in OT",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oRkhfTUdiSEJrSXZjMDFYWkV3M3FlNU9semtNVFhoclBGZjB4UERtTHByWVJVUDZzLUVLekVmeDduQTFIYTRBX2VpSEdwMFp2V1FubmxmSFJYaWlfUHFv?oc=5",
-      "source": "Colorado Eagles",
-      "published": "2026-11-22T04:20:12+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "Colorado Eagles"
-      ],
-      "coverage": [],
-      "score": 4.88
-    },
-    {
-      "title": "Qué sabemos del plan del Ejército de EE.UU. para detonar material para bombas en Iowa que desató una batalla legal",
-      "link": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/21/el-ejercito-de-ee-uu-planea-detonar-material-para-bombas-en-iowa-pero-el-temor-al-plomo-toxico-desata-disputa-esto-sabemos/",
-      "source": "KRDO",
-      "published": "2026-11-22T03:31:44+00:00",
-      "summary": "Por Eduardo Cuevas, Taylor Romine, Julia Vargas Jones y Danya Gainor, CNN Los residentes del sureste de Iowa están a la espera para saber si el Ejército de EE.UU. detonará cinco toneladas de azida de plomo en una planta de municiones,…",
-      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
-      "image_source": "KRDO",
-      "outlets": [
-        "KRDO"
-      ],
-      "coverage": [],
-      "score": 4.87
-    },
-    {
-      "title": "Arizona Opens Southwest Maui Invitational Against Colorado State",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY19qLS10dmhadTQwdWhrb3IxSzJmNXMyaGMtNTBuMWZBV3l0LU5zajRZazlJYmRWQkdUSVFQaXN3R2xta0N3YUQzTEtERXd6bmk0aWh4WnhSRUw0dXphX2RaSWFXRU9XWnVaQktQbElzY3N0R2xNOWhzOVNkZy00SURoWkJZc1I0Q3hxQ3BmbUtCb01TSGtvNDVRUXNQSmZjMGxhak04SHVLaUVUeG02RjI5aHg1dkdTeFFnekNmRlFoQQ?oc=5",
-      "source": "University of Arizona Athletics",
-      "published": "2026-11-22T03:22:11+00:00",
-      "summary": "",
-      "image": null,
-      "image_source": null,
-      "outlets": [
-        "University of Arizona Athletics"
-      ],
-      "coverage": [],
-      "score": 4.86
     }
   ]
 }
